@@ -15,6 +15,12 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+/**
+ * This class Executes Map-Reduce algorithm that extracts hashtags from the tweet.
+ * @author Kanchan Waikar
+ * Date Created : 7:38:09 PM
+ *
+ */
 public class TrendExtractor {
 
 	public static class TokenizerMapper extends Mapper<Object, Text, Text, IntWritable> {
