@@ -1,0 +1,1225 @@
+1 14th StTroy, NY 12180	,Y2JUQN1oF9BZIlItb0NAIQ,Y2JUQN1oF9BZIlItb0NAIQ
+1 Cayuga MallIthaca, NY 14850	,A48Q-KEOHyIifp8cfavUWA,A48Q-KEOHyIifp8cfavUWA
+1 Conners BlvdAlbany, NY 12204	,vJRiGiYepp8J7KvppHrNwA,vJRiGiYepp8J7KvppHrNwA
+1 Culligan DrIthaca, NY 14850	,4Lcrd7xr5aLBetLmi-INeA,4Lcrd7xr5aLBetLmi-INeA
+1 Niver StCohoes, NY 12047	,krqcsL-PVY6m5yh1iqOHyw,krqcsL-PVY6m5yh1iqOHyw
+1 Selke DrHudson Shores ParkWatervliet, NY 12189	,vJrY6VbRbu_wKGGwZk78bA,vJrY6VbRbu_wKGGwZk78bA
+1 Sheraton DrIthaca, NY 14850	,qhHY55JZqSCkDrH-OemLoA,qhHY55JZqSCkDrH-OemLoA
+10 Brentwood Dr Ste AIthaca, NY 14850	,PuxciV95uUw6YkWsou31aw,PuxciV95uUw6YkWsou31aw
+100 2nd StTroy, NY 12180	,T1lsvTvjjcPgNKIf5oCX1w,T1lsvTvjjcPgNKIf5oCX1w
+100 BroadwayAlbany, NY 12204	,bTka4gr34jsqsn2fhYKU1Q,bTka4gr34jsqsn2fhYKU1Q
+100 BroadwayMenands, NY 12204	,Ex6JHoLQr2-3dNwG2s5Z2w,Ex6JHoLQr2-3dNwG2s5Z2w
+100 Dryden RdIthaca, NY 14850	,LW1svH-IFU7LAgK1giqi7Q,LW1svH-IFU7LAgK1giqi7Q
+100 N Mohawk StCohoes, NY 12047	,sVYXwrENUfM_rucuCD0UgQ,sVYXwrENUfM_rucuCD0UgQ
+1003 Columbus AveSte AManhattan ValleyNew York, NY 10025	,5dzFMuClH9CDvfaUuIKWeg,5dzFMuClH9CDvfaUuIKWeg
+1004 Hoosick RdTroy, NY 12180	,m4rV34xa02aRrv_EXlDuWQ,m4rV34xa02aRrv_EXlDuWQ
+1005 Columbus AvenueManhattan ValleyNew York, NY 10025	,ZDzv8zgv9_fqbUEbmHpThA,ZDzv8zgv9_fqbUEbmHpThA
+1006 W Seneca StIthaca, NY 14850	,Exw0nd2djjGsE_SeBsyIzg,Exw0nd2djjGsE_SeBsyIzg
+101 Dates DrIthaca, NY 14850	,IJcNKwyF1ELlFpJvRRW7GA,IJcNKwyF1ELlFpJvRRW7GA
+101 E Green StIthaca, NY 14850	,yRApveyZf_brPcVPlXg6eQ,yRApveyZf_brPcVPlXg6eQ
+101 N Aurora StIthaca, NY 14850	,VipfYExJjVsD31KnUZqHJg,VipfYExJjVsD31KnUZqHJg
+101 W State StIthaca, NY 14850	,ZHG5k1PBawdJ-DYMoFaMcg,ZHG5k1PBawdJ-DYMoFaMcg
+1011 Columbus AveManhattan ValleyNew York, NY 10025	,8uz_6_ogNrpb_MxQnhjZGQ,8uz_6_ogNrpb_MxQnhjZGQ
+1011 W Seneca StIthaca, NY 14850	,xn0H2Sua4HZ0bC3bmHdWPA,xn0H2Sua4HZ0bC3bmHdWPA
+1012 Amsterdam AveManhattan ValleyNew York, NY 10025	,_3pQcGjFzacx7Zow4TZWwQ,_3pQcGjFzacx7Zow4TZWwQ
+1012 N Aurora StIthaca, NY 14853	,E_Tc6v0C8QCKUddppi8QVw,E_Tc6v0C8QCKUddppi8QVw
+1018 Amsterdam AveManhattan ValleyNew York City, NY 10025	,dz1qvyImYe6lG-UEU0VkTQ,dz1qvyImYe6lG-UEU0VkTQ
+102 E State StIthaca, NY 14850	,NLhgRKwRGvXrehBD5AcqPQ,iMFPQiNWLRkWZkxeQU8Xjg,iMFPQiNWLRkWZkxeQU8Xjg,NLhgRKwRGvXrehBD5AcqPQ
+1020 Amsterdam AveManhattan ValleyNew York, NY 10025	,TIfqOW_bF_5BWMHFbu9BMA,TIfqOW_bF_5BWMHFbu9BMA
+1020 Amsterdam AveMorningside HeightsNew York, NY 10025	,ErMFay-6o83QB2P1k4ALAg,ErMFay-6o83QB2P1k4ALAg
+1020 Ellis Hollow RdIthaca, NY 14850	,NmRnh2XUzJZ0TzopaVNGUw,NmRnh2XUzJZ0TzopaVNGUw
+1024 Amsterdam AveMorningside HeightsNew York, NY 10025	,geTFpY84Tp-nVTXflnxtDA,geTFpY84Tp-nVTXflnxtDA
+1025 North Tioga StIthaca, NY 14850	,D6yVgX865XrzUtcewjOy-g,D6yVgX865XrzUtcewjOy-g
+1028 Amsterdam AveMorningside HeightsManhattan, NY 10025	,fqFre6p7U0VOnrjl8Y1BuQ,fqFre6p7U0VOnrjl8Y1BuQ
+1028 Amsterdam AveMorningside HeightsNew York, NY 10025	,vQTMu1jkFZUIkb_EmYPa9w,vQTMu1jkFZUIkb_EmYPa9w,sqPb2P93GGE1IHEdASLXvw,sqPb2P93GGE1IHEdASLXvw
+103 8th AveTroy, NY 12180	,3J-0hCC4R822-SIgriV2Sg,3J-0hCC4R822-SIgriV2Sg
+103 Saratoga StCohoes, NY 12047	,lciO4GYuQUrvNNAI-5PiMw,lciO4GYuQUrvNNAI-5PiMw
+1030 Amsterdam AveMorningside HeightsNew York, NY 10025	,8Qe6g3Dv5NXN1Zq-egJk9w,osuamA7_d3iHOuniXiGu3g,osuamA7_d3iHOuniXiGu3g,8Qe6g3Dv5NXN1Zq-egJk9w
+1034 Amsterdam AveMorningside HeightsNew York, NY 10025	,rGEeBgbztKbFDh4kum8x1w,rGEeBgbztKbFDh4kum8x1w
+1036 Amsterdam AveMorningside HeightsNew York, NY 10025	,2S6FC3uNqcNk02U81cJWzA,2S6FC3uNqcNk02U81cJWzA
+104 3rd StTroy, NY 12180	,4P8oRgBE60D2aWOXMHrzcg,4P8oRgBE60D2aWOXMHrzcg
+104 Adams StIthaca, NY 14850	,CdLwPbOEmln0VV3L8oQy_Q,CdLwPbOEmln0VV3L8oQy_Q
+104 Dryden RdIthaca, NY 14850	,3-AcFdxdvov9tL1C_3eT0g,3-AcFdxdvov9tL1C_3eT0g
+104 W Sand Lake RdWynantskill, NY 12198	,DC_zGdDwXAT4jXRgv4nL8A,DC_zGdDwXAT4jXRgv4nL8A
+1047 Amsterdam AveMorningside HeightsNew York, NY 10025	,80fvd_DsoW5XhwQIMBGvtg,80fvd_DsoW5XhwQIMBGvtg
+105 Enfield Falls RdIthaca, NY 14850	,cRmH4JEhYMQ_AkZlYoSoHA,cRmH4JEhYMQ_AkZlYoSoHA
+105 S Fulton StIthaca, NY 14850	,a-3DWmBxkomDFNFhFuV_Ig,a-3DWmBxkomDFNFhFuV_Ig
+106 E State StIthaca, NY 14850	,8X_knSvMoxhMnPfB_HwN0A,8X_knSvMoxhMnPfB_HwN0A
+106 N Aurora StIthaca, NY 14850	,1QbfwtfxTpLRWXi_89aCRA,1QbfwtfxTpLRWXi_89aCRA
+106 S Cayuga StIthaca, NY 14850	,yc5uVaQGgSe1oPuCEfyTPg,yc5uVaQGgSe1oPuCEfyTPg,OUNndH-Pex84qGDICzO__Q,OUNndH-Pex84qGDICzO__Q,C7SC0GWXcXmknid8ktTsaQ,C7SC0GWXcXmknid8ktTsaQ
+106 W Green StIthaca, NY 14850	,VZNKj35pKzs-fR8_CMPrgA,VZNKj35pKzs-fR8_CMPrgA
+106 W State St2nd FloorIthaca, NY 14850	,mHaOblypEe9Zoci8Hee62w,mHaOblypEe9Zoci8Hee62w
+106th St and West End AveManhattan ValleyNew York, NY 10025	,bGN1FdWmcFi0hlmr1djSIg,bGN1FdWmcFi0hlmr1djSIg
+107 1/2 Dryden RdIthaca, NY 14853	,6sXD1ibeSdamDK567yJqMQ,6sXD1ibeSdamDK567yJqMQ
+107 N Aurora StIthaca, NY 14850	,hs1VzgstqPJDpBeIXwMxlQ,hs1VzgstqPJDpBeIXwMxlQ
+1070 Danby RdIthaca, NY 14850	,deiC4MxpjlCsSCnW6czpTw,deiC4MxpjlCsSCnW6czpTw
+108 14th StTroy, NY 12180	,y0J2PrJh2LIDHHtT6DzkJw,y0J2PrJh2LIDHHtT6DzkJw
+108 Dryden RdIthaca, NY 14850	,8c7YVaxYRUdZZt-Aj18aSg,8c7YVaxYRUdZZt-Aj18aSg
+108 E Green StIthaca, NY 14850	,eLQ2YiRiZQMHNPfVh0XJiw,eLQ2YiRiZQMHNPfVh0XJiw
+108 N Aurora StIthaca, NY 14850	,uOxHLnePU2wyTqPJ_p7ryw,uOxHLnePU2wyTqPJ_p7ryw,mu1jUnAsRpJ60JnZwUTQAg,mu1jUnAsRpJ60JnZwUTQAg
+108-110 W 107th StManhattan ValleyNew York, NY 10025	,s5KdgqPa9CMf9U-hfmErPQ,s5KdgqPa9CMf9U-hfmErPQ
+1080 Danby RdIthaca, NY 14850	,1KWaczlXfDi9Z3urqlh_Yw,1KWaczlXfDi9Z3urqlh_Yw
+1083 Dryden RdIthaca, NY 14850	,mVXrw84pBx6CWoBEoKLIHw,mVXrw84pBx6CWoBEoKLIHw
+1085 New Loudon RdCohoes, NY 12047	,wbpbaWBfU54JbjLIDwERQA,wbpbaWBfU54JbjLIDwERQA
+109 S Cayuga StIthaca, NY 14850	,Z5JVHHv1SB0uQYzkKsT_qQ,Z5JVHHv1SB0uQYzkKsT_qQ
+1090 Amsterdam Ave.St. Luke's HospitalMorningside HeightsNew York, NY 10025	,1I4MauZIdrJFYoW--MFqRw,1I4MauZIdrJFYoW--MFqRw
+1090 Amsterdam AveMorningside HeightsNew York, NY 10025	,qi_3Lmok4SCm-sjocVfy0w,ER0c0-cVKhW2O3sjUQawXg,0YmQouReIQJFp3RafSYBXQ,ER0c0-cVKhW2O3sjUQawXg,K-wyXXi5lPM2cwaV9_vXcQ,K-wyXXi5lPM2cwaV9_vXcQ,0YmQouReIQJFp3RafSYBXQ,qi_3Lmok4SCm-sjocVfy0w
+11 2nd StTroy, NY 12180	,yQj9ToL0iz5hsYn2DbEH2w,yQj9ToL0iz5hsYn2DbEH2w
+11 E 125th StHarlemNew York, NY 10027	,evxUVNVZukBvpoP4GR--Fg,evxUVNVZukBvpoP4GR--Fg
+11 Graham RdIthaca, NY 14850	,OhGOdDlZaq8MquvQ_wkSSw,OhGOdDlZaq8MquvQ_wkSSw
+110 8th StSte 2Troy, NY 12180	,pYUNKd2ljVPIhDirhOdrZw,pYUNKd2ljVPIhDirhOdrZw
+110 8th StTroy, NY 12180	,TukzzR1Ys2zAQ0bZuMGxPw,TukzzR1Ys2zAQ0bZuMGxPw
+110 N Aurora StIthaca, NY 14850	,oEMAEVQZwBmnMxNdwNFsgg,oEMAEVQZwBmnMxNdwNFsgg
+1103 Danby RdIthaca, NY 14850	,2yB1wx6AHtTyOcR-J4rTyw,2yB1wx6AHtTyOcR-J4rTyw
+110th St and BroadwayManhattan ValleyManhattan, NY 10025	,RqLn2hNnCcq6U7sQIUcHOw,RqLn2hNnCcq6U7sQIUcHOw
+110th St and BroadwayManhattan ValleyNew York, NY 10025	,GDATF7Wkz9XhaucMdRxUpg,GDATF7Wkz9XhaucMdRxUpg
+110th to 123rd StManhattan Ave to Morningside DrHarlemNew York, NY 10027	,lpQSW9Rh3tc5JMPsu04_4A,lpQSW9Rh3tc5JMPsu04_4A
+111 Congress StTroy, NY 12180	,l2sEA8T4kPgJOicXqI8KXA,l2sEA8T4kPgJOicXqI8KXA
+111 E State StIthaca, NY 14850	,ebOCmEV2-Px4waW5riGrBA,ebOCmEV2-Px4waW5riGrBA
+111 N Aurora StIthaca, NY 14850	,4o6C5dFjyjBvF1g9st78NA,4o6C5dFjyjBvF1g9st78NA
+1111 Amsterdam AveMorningside HeightsNew York, NY 10025	,7ma4oc8qvFGht841xPdmsQ,7ma4oc8qvFGht841xPdmsQ
+111a Dryden RdIthaca, NY 14850	,5E40E-GClzADGx_QaThV2w,5E40E-GClzADGx_QaThV2w
+112 S Cayuga StIthaca, NY 14850	,yyfRfQ2YVOCUlIy_KGi4wA,yyfRfQ2YVOCUlIy_KGi4wA
+113 Dryden RdIthaca, NY 14850	,ooSc1BXZhZgc5iw7EKt6cg,ooSc1BXZhZgc5iw7EKt6cg
+113 E State StIthaca, NY 14850	,bM6O3pWBCIjsxrcnzTbLWw,bM6O3pWBCIjsxrcnzTbLWw
+113 N Aurora StIthaca, NY 14850	,ejHduGcJr28ehsdSXaiZXw,ejHduGcJr28ehsdSXaiZXw
+113 S Cayuga StIthaca, NY 14850	,yY6Cxrh6yXQBavP12tjYhg,yY6Cxrh6yXQBavP12tjYhg,dS82r998PaNewbg02DREpQ,dS82r998PaNewbg02DREpQ
+113 W State StIthaca, NY 14850	,lBmZEdCnCknECknxMg-2rQ,lBmZEdCnCknECknxMg-2rQ
+1130 Hoosick RdTroy, NY 12180	,XimJ342n6UGKDFCnhF_mqQ,XimJ342n6UGKDFCnhF_mqQ
+1131 Amsterdam Aveat 116th StMorningside HeightsNew York, NY 10027	,7pMyF2qq9pqMfzLZEvrohA,7pMyF2qq9pqMfzLZEvrohA
+114 Dryden RdIthaca, NY 14850	,dFfQWqHyH_lqCpFhNgAhlQ,MpcN0PPqdFyPesV4X8pZxQ,MpcN0PPqdFyPesV4X8pZxQ,dFfQWqHyH_lqCpFhNgAhlQ
+114 E State StIthaca, NY 14850	,6ITZ5Gwyt8FktCwmf-PHAQ,6ITZ5Gwyt8FktCwmf-PHAQ
+114 N Aurora StIthaca, NY 14850	,AeWKgDveIWXCDP5O9HzO3Q,AeWKgDveIWXCDP5O9HzO3Q
+114 N Cayuga StIthaca, NY 14850	,8mYNPK-XbYpp8JweXVLNAQ,8mYNPK-XbYpp8JweXVLNAQ
+114 Street and BroadwayMorningside HeightsNew York, NY 10027	,xPVIFaI9caQ53huTATaLUw,xPVIFaI9caQ53huTATaLUw
+114 W Green StIthaca, NY 14850	,9wyk2kKdwhgMbh_x5P7HrQ,9wyk2kKdwhgMbh_x5P7HrQ
+115 2nd AveTroy, NY 12180	,n0i3N8zrrgzDtEx7zNPCsA,n0i3N8zrrgzDtEx7zNPCsA
+115 East State StreetIthaca, NY 14853	,biWM7tIsCTFconxcVfuE6A,biWM7tIsCTFconxcVfuE6A
+115 N Aurora StIthaca, NY 14850	,4dyulLTGILN4wsfZ6KBmig,4dyulLTGILN4wsfZ6KBmig
+115 the commons, in Autumn Leaves' basementIthaca, NY 14850	,PpDSMh6Jx6OlTIZwQXvb6g,PpDSMh6Jx6OlTIZwQXvb6g
+1150 Danby RdIthaca, NY 14850	,eWP6gYoRXRSCw_KumqTgRw,IW4oIKPotcup1NuI7erMcg,IW4oIKPotcup1NuI7erMcg,eWP6gYoRXRSCw_KumqTgRw
+1152 Danby RdIthaca, NY 14850	,_qGDRfTvIwUqFtI1mGI8Rg,_qGDRfTvIwUqFtI1mGI8Rg
+1159 Dryden RdIthaca, NY 14850	,KVPsaD2vY64UIvnNfKDHbA,KVPsaD2vY64UIvnNfKDHbA
+115th Street and BroadwayNorthwest CornerMorningside HeightsManhattan, NY 10027	,rFscSQwEcsYmQexb1Jqjcw,rFscSQwEcsYmQexb1Jqjcw
+116 BroadwayAlbany, NY 12204	,04THECdIAZ877hAiG3bfYA,04THECdIAZ877hAiG3bfYA
+116 N Aurora StIthaca, NY 14850	,BdpaiSFcwCJKQHV7nhez7g,BdpaiSFcwCJKQHV7nhez7g
+116 W State StIthaca, NY 14850	,8nGWw2SSiVuhh18NLVqDuw,EQCyF9ksaC6Bp88TFI03iQ,8nGWw2SSiVuhh18NLVqDuw,EQCyF9ksaC6Bp88TFI03iQ
+116th & Amsterdam AveRoom 602Morningside HeightsNew York, NY 10027	,ODqWSEpHeOkSFBrdIkN9Ig,ODqWSEpHeOkSFBrdIkN9Ig
+116th St & Amsterdam AveMorningside HeightsManhattan, NY 10027	,TS1eYydoWdk9HwOUXhAgXg,TS1eYydoWdk9HwOUXhAgXg
+116th St & BroadwayMorningside HeightsManhattan, NY 10027	,6S_hNYN9n_2Z9HYh_QRmRA,6S_hNYN9n_2Z9HYh_QRmRA
+1172 Amsterdam Ave300 Avery HallMorningside HeightsNew York, NY 10027	,2m5gtNQnTgKchpFK6ZiOOg,2m5gtNQnTgKchpFK6ZiOOg
+118 N Aurora StIthaca, NY 14850	,HYR0_XYOGgH0Bh7wgbNkoA,HYR0_XYOGgH0Bh7wgbNkoA
+118 W State StIthaca, NY 14850	,3Ep-cHtiVbE6KpN6-mmMKA,3Ep-cHtiVbE6KpN6-mmMKA,15vp-uhiGbFAqTRKHk27PQ,15vp-uhiGbFAqTRKHk27PQ
+1181 Amsterdam AveMorningside HeightsNew York, NY 10027	,o1D9AbSxDd8Vd_moNAdYwg,o1D9AbSxDd8Vd_moNAdYwg
+1187 Amsterdam AveMorningside HeightsNew York, NY 10027	,zzh3XNV25Fngor_E72aGWg,nAHhu6ZdaSN_qEmW2U1k_A,zzh3XNV25Fngor_E72aGWg,nAHhu6ZdaSN_qEmW2U1k_A
+119 S Cayuga St Ste 301Ithaca, NY 14850	,_ckbnVhwrD3vEowWVN8SnQ,_ckbnVhwrD3vEowWVN8SnQ
+12 Industrial Park RdTroy, NY 12180	,oEoogybFcPkkzAPgQVALVA,oEoogybFcPkkzAPgQVALVA
+120 3rd StIthaca, NY 14850	,c5xLmH0GwmdNIvaqUqBLKQ,c5xLmH0GwmdNIvaqUqBLKQ
+120 Defreest DrTroy, NY 12180	,38GVFKqsaX1RjJGWpjVpqQ,38GVFKqsaX1RjJGWpjVpqQ
+120 Dryden RdIthaca, NY 14850	,BfGlv6S_Is6OkIoOngAnLQ,BfGlv6S_Is6OkIoOngAnLQ
+120 E Green StIthaca, NY 14850	,eL8No1m3U304Y3Cr_wsAxA,eL8No1m3U304Y3Cr_wsAxA
+120 Hoosick St # 11Troy, NY 12180	,_sUFonJ7J_-a6hq3xRYwDA,_sUFonJ7J_-a6hq3xRYwDA
+120 Hoosick St#156Troy, NY 12180	,FmxOs0Knixh5JQ24EPufRA,FmxOs0Knixh5JQ24EPufRA
+120 Hoosick StTroy, NY 12180	,ORRVnbb-niRZKCUX8CYrjQ,ORRVnbb-niRZKCUX8CYrjQ,SHflj5Ie7-BeC6aSQFJc9Q,SHflj5Ie7-BeC6aSQFJc9Q
+120 Hoosick StreetTroy, NY 12180	,SExJLA2RgTioEpkz1Z61eA,SExJLA2RgTioEpkz1Z61eA
+120 N Aurora St Ste 1AIthaca, NY 14850	,o8W7ro_9AICq83vaHEMOGg,o8W7ro_9AICq83vaHEMOGg
+120 S Cayuga StIthaca, NY 14850	,nIpIyaguICzAM286c9iwcQ,nIpIyaguICzAM286c9iwcQ
+120 Third AveIthaca, NY 14850	,uIhwJtKaUDXUm0_3RY6uRg,uIhwJtKaUDXUm0_3RY6uRg
+120 Van Rensselaer BlvdAlbany, NY 12204	,xlf5S8JkORIp7jTQ3W8VgA,xlf5S8JkORIp7jTQ3W8VgA
+1201 N Tioga StIthaca, NY 14850	,kHiaMAC5wQF083hHgyzJQg,kHiaMAC5wQF083hHgyzJQg
+1207 Amsterdam AveMorningside HeightsNew York, NY 10027	,bWasMbk9JZLQLQf_EUr2Sg,bWasMbk9JZLQLQf_EUr2Sg
+121 4th StTroy, NY 12180	,3ZuKbcnze3lPMZtolpakHw,3ZuKbcnze3lPMZtolpakHw
+121 St Nicholas AveHarlemNew York, NY 10026	,LP529kzCViIWtZFXA_BZ-g,LP529kzCViIWtZFXA_BZ-g
+1213 Amsterdam AveMorningside HeightsNew York, NY 10027	,p1izzP-7YomYrP2spmOrBQ,p1izzP-7YomYrP2spmOrBQ
+1213 Taughannock BlvdIthaca, NY 14850	,GFMUL8Z44l1wD7KXop18sA,GFMUL8Z44l1wD7KXop18sA
+1215 Amsterdam AveMorningside HeightsNew York, NY 10027	,YgGbeBYxOSmRi6CFn04MoQ,YgGbeBYxOSmRi6CFn04MoQ
+1219 Amsterdam AveMorningside HeightsNew York, NY 10027	,zBsAe3jj1MgtRKdA1zIjtw,zBsAe3jj1MgtRKdA1zIjtw
+122 4th StTroy, NY 12180	,tGJTMrSWb6wufN3m_yGOvA,tGJTMrSWb6wufN3m_yGOvA
+122 4th StTroy, NY 12181	,xhF-WUufY0RF9d1epr-naA,xhF-WUufY0RF9d1epr-naA
+122 La Salle StHarlemNew York, NY 10027	,8s46fVH-xGp7nBe5PCX4Vw,8s46fVH-xGp7nBe5PCX4Vw
+122 N Aurora StIthaca, NY 14850	,GeRh5XnPU8WukQHfE2URwg,GeRh5XnPU8WukQHfE2URwg
+1221 Amsterdam AveMorningside HeightsNew York, NY 10027	,Yi6PBCMivXha8AkKb6wnsw,Yi6PBCMivXha8AkKb6wnsw
+1224 Amsterdam AveMorningside HeightsNew York, NY 10027	,Az0BBEY-k1qWvnpl1RcFRA,Az0BBEY-k1qWvnpl1RcFRA
+1225 Amsterdam AveMorningside HeightsNew York, NY 10027	,hlkCbViTRlQ5-lx8gopeoA,hlkCbViTRlQ5-lx8gopeoA
+122nd Street and Riverside DriveMorningside HeightsNew York, NY 10027	,8C1OukLjD0qjt_RHhXOTuQ,8C1OukLjD0qjt_RHhXOTuQ
+123 4th StTroy, NY 12180	,aGze3Zk4E7-JkpSDrRi2ig,aGze3Zk4E7-JkpSDrRi2ig
+1231 Amsterdam AveMorningside HeightsNew York, NY 10027	,khYxvvCKRiR-wqMSbFzFmg,khYxvvCKRiR-wqMSbFzFmg
+1233 Amsterdam AveMorningside HeightsNew York, NY 10027	,3z111M1LvR8jU16ZprWlrQ,3z111M1LvR8jU16ZprWlrQ
+1233 Amsterdam AvenueMorningside HeightsNew York, NY 10027	,ASY0-Lt0muDw396OyneMog,ASY0-Lt0muDw396OyneMog
+1237 Amsterdam AveMorningside HeightsNew York, NY 10027	,Ftu5JVoK5JEZAc-YABU0oQ,Ftu5JVoK5JEZAc-YABU0oQ
+1239 Amsterdam AveMorningside HeightsNew York, NY 10027	,C2E1E0o-ssSrf_dokwxTXg,C2E1E0o-ssSrf_dokwxTXg
+124 The CommonsIthaca, NY 14850	,Gnsm2MHJm_ai3lM6B5X8kQ,Gnsm2MHJm_ai3lM6B5X8kQ
+1241 Amsterdam AveMorningside HeightsNew York, NY 10027	,rLGVYIM4DHSMW1yi4-zhwQ,rLGVYIM4DHSMW1yi4-zhwQ
+1246 Amsterdam AveMorningside HeightsNew York, NY 10027	,wARkiyfNhDAv-uRm04qCNw,wARkiyfNhDAv-uRm04qCNw
+125 4th StTroy, NY 12180	,6tCW7o9BR3o7N4KcyW8X2g,6tCW7o9BR3o7N4KcyW8X2g
+125 La Salle StHarlemNew York, NY 10027	,wZkZmjZEJDraLJgAalnHvA,wZkZmjZEJDraLJgAalnHvA
+125 N. Fulton StIthaca, NY 14850	,0yV4mwb6IKV-EG9p2WbWYw,0yV4mwb6IKV-EG9p2WbWYw
+1252 Amsterdam AveMorningside HeightsNew York, NY 10027	,hU8GZj1gwKK--HZCl8ilCg,hU8GZj1gwKK--HZCl8ilCg
+1255 Amsterdam AvenueMorningside HeightsNew York, NY 10027	,t1wzEPmSY_3I_JVYJnzhxA,t1wzEPmSY_3I_JVYJnzhxA
+1256 Amsterdam AveMorningside HeightsNew York, NY 10027	,Q0mXaZfIFfWlwP4lBpSzxQ,Q0mXaZfIFfWlwP4lBpSzxQ
+1259 Trumansburg RdIthaca, NY 14850	,xT9_g6g1V9wRFP3I5wmF7w,xT9_g6g1V9wRFP3I5wmF7w
+125th StreetHarlemNew York, NY 10027	,dWeGjqmrjfgfTRl-zejY_g,dWeGjqmrjfgfTRl-zejY_g
+126 E State StIthaca, NY 14850	,3Tbq48YijgkrZfxnfHA94Q,3Tbq48YijgkrZfxnfHA94Q
+126 N Aurora StIthaca, NY 14850	,QSGSWUCRzhoQa-v5dGoD6g,QSGSWUCRzhoQa-v5dGoD6g
+126 S Cayuga StIthaca, NY 14850	,_PTBwH_h3A9ciDUYzgzSuA,_PTBwH_h3A9ciDUYzgzSuA
+1260 Amsterdam AveMorningside HeightsNew York, NY 10027	,ffp58kYSK7dJGs5ER-5txw,ffp58kYSK7dJGs5ER-5txw
+1262 Amsterdam AveMorningside HeightsNew York, NY 10027	,wxrlMnjni_UanASIp4dq2g,wxrlMnjni_UanASIp4dq2g
+1268 Amsterdam AveMorningside HeightsNew York, NY 10027	,ahr0chRA-xpmq2xV_gnb3w,ahr0chRA-xpmq2xV_gnb3w
+127 Remsen StCohoes, NY 12047	,LTUAveXRNBEU5wAZQkBZ1g,LTUAveXRNBEU5wAZQkBZ1g
+1270 Amsterdam AveMorningside HeightsNew York, NY 10027	,IsqGaD5u47Qx1Ms-VKJ-bQ,vQaei8xkH8u2W5gHToRcXw,vQaei8xkH8u2W5gHToRcXw,IsqGaD5u47Qx1Ms-VKJ-bQ
+1272 Amsterdam AveMorningside HeightsNew York, NY 10027	,ugekAf0_3hreoD5VJQjkCg,ugekAf0_3hreoD5VJQjkCg
+1274 Amsterdam AveMorningside HeightsNew York, NY 10027	,vZ5-JXlJS75k8wmPNS5U5w,vZ5-JXlJS75k8wmPNS5U5w
+128 E State StIthaca, NY 14850	,dkGTj5FVVqN4DbR7uWi8rw,-Koz03whrmraP_RJ4FSiTQ,dkGTj5FVVqN4DbR7uWi8rw,-Koz03whrmraP_RJ4FSiTQ
+128 S Cayuga StIthaca, NY 14850	,QggxXcppHbsFRTHOManGJA,QggxXcppHbsFRTHOManGJA
+1280 Amsterdam AveHarlemManhattan, NY 10027	,V-rY0hlPjAghV14jOlVUiQ,V-rY0hlPjAghV14jOlVUiQ
+1285 Dryden RdIthaca, NY 14850	,Gt6FEod3mBqbuigjHpRYCQ,aj4TkRepVpCV1DYAh9OF9Q,aj4TkRepVpCV1DYAh9OF9Q,Gt6FEod3mBqbuigjHpRYCQ
+1288 Amsterdam AveHarlemNew York, NY 10027	,51DwJDP5TOlsCQYc0GQdVQ,51DwJDP5TOlsCQYc0GQdVQ
+1290 Amsterdam AveHarlemNew York, NY 10027	,TZb3l8Za-V_fVlTlX1JYdg,TZb3l8Za-V_fVlTlX1JYdg
+1297 BroadwayWatervliet, NY 12189	,wMKJxxh_agN85A54BdX79Q,wMKJxxh_agN85A54BdX79Q
+13 3rd StTroy, NY 12180	,AZqsal3nzTkwQqxUol_UjA,AZqsal3nzTkwQqxUol_UjA
+130 Cherry StIthaca, NY 14850	,apFgbd8HNV08czcV2QZP9w,apFgbd8HNV08czcV2QZP9w
+130 E Seneca St.Ithaca, NY 14850	,ew8SImJlTiqpne31F2nRAA,ew8SImJlTiqpne31F2nRAA
+130 E Seneca StIthaca, NY 14850	,P5E6e4qHctElZuDa4uyolw,0Gea6WRvgkfPAAdAeEyz1A,0Gea6WRvgkfPAAdAeEyz1A,P5E6e4qHctElZuDa4uyolw
+130 E State StIthaca, NY 14850	,KpVhTeqORq0EDe5r-X0FAA,KpVhTeqORq0EDe5r-X0FAA
+130 Main AveWynantskill, NY 12198	,QVBhMvECQY75UGqv_3LmiA,QVBhMvECQY75UGqv_3LmiA
+130 Malcolm X Boulevard Apt 604HarlemNew York, NY 10026	,my7v86pKIuAxDSQzcYVHZw,my7v86pKIuAxDSQzcYVHZw
+130 Remsen StCohoes, NY 12047	,cz_r-WQccU3Aoht805qOQA,cz_r-WQccU3Aoht805qOQA
+130 Statler DrIthaca, NY 14850	,Qq7vHxL3Z_KF5WZLR9kIoQ,Qq7vHxL3Z_KF5WZLR9kIoQ
+130 Statler DriveIthaca, NY 14850	,I6QCXaOPrQa-i5zOHhRFBw,I6QCXaOPrQa-i5zOHhRFBw
+130 Statler DriveIthaca, NY 14853	,MgVcMxtMetUfujhgquaXYA,MgVcMxtMetUfujhgquaXYA
+1300 15th StTroy, NY 12180	,U_wLGkq86qyd8yzpKyFswg,U_wLGkq86qyd8yzpKyFswg
+1302 Amsterdam Ave.HarlemManhattan, NY 10027	,KjFr-ZMtvlgf4l6NbPtCBQ,KjFr-ZMtvlgf4l6NbPtCBQ
+1302 Amsterdam AveHarlemManhattan, NY 10027	,tx-RvyrgducHwWkz_b6Dqg,tx-RvyrgducHwWkz_b6Dqg
+1302 Amsterdam AveHarlemNew York, NY 10027	,FM2VxaMmkRv9emBQRAEKsA,FM2VxaMmkRv9emBQRAEKsA
+1302 Dryden RdIthaca, NY 14850	,BXqiZbL2dURVjrzB5cCHmA,BXqiZbL2dURVjrzB5cCHmA
+1308 E Shore DrIthaca, NY 14850	,Kkt13-SwaaYmnZaLdacg2A,Kkt13-SwaaYmnZaLdacg2A
+1308 Mecklenberg RdRt 79Ithaca, NY 14850	,F5nlRrqLf53BRK2jqMATaA,F5nlRrqLf53BRK2jqMATaA
+131 E Green StIthaca, NY 14850	,QHnsVdqOb8py4qDEhynbMg,QHnsVdqOb8py4qDEhynbMg
+131 East Green StIthaca, NY 14850	,Usbvx5wVOqpGPEcgzQEBZg,Usbvx5wVOqpGPEcgzQEBZg
+1310 Amsterdam AveHarlemNew York, NY 10027	,mOJ7tEhqFBbHCm1FfSkU4g,mOJ7tEhqFBbHCm1FfSkU4g
+1316 Amsterdam AveHarlemNew York, NY 10027	,CrXKBn6a1UaVycPh6YSyjw,CrXKBn6a1UaVycPh6YSyjw
+132 Claremont AveHarlemNew York, NY 10027	,eMcSrCTTOIeFpQVeHPN1bQ,eMcSrCTTOIeFpQVeHPN1bQ
+133 E State StIthaca, NY 14850	,dIBQNOxrRQ1r9Sct9Rx3HQ,dIBQNOxrRQ1r9Sct9Rx3HQ
+133 Remsen StCohoes, NY 12047	,QNgOyKQNDZ2BED7c2gctuA,QNgOyKQNDZ2BED7c2gctuA
+1342 Amsterdam AveHarlemNew York, NY 10027	,VyqUTuw80g8sKHYVSsW1GQ,VyqUTuw80g8sKHYVSsW1GQ
+1343 Amsterdam AveHarlemNew York, NY 10027	,qBKcTxYgQzIdIlEYqv3qJg,qBKcTxYgQzIdIlEYqv3qJg
+1344 Amsterdam AveHarlemNew York, NY 10027	,gmZGeYqlPR6dBwdBZ0K4Bg,gmZGeYqlPR6dBwdBZ0K4Bg
+1344 Spring AvenueWynantskill, NY 12198	,CPkUO2F9VENCaLXf4zj5UA,CPkUO2F9VENCaLXf4zj5UA
+1345 Amsterdam AveHarlemNew York, NY 10027	,Rx3m7vtf-eWBSQ4AavQl8g,Rx3m7vtf-eWBSQ4AavQl8g
+1346 Amsterdam AveHarlemNew York, NY 10027	,Ev04GeSgAXwKsO1qJiO9xQ,Ev04GeSgAXwKsO1qJiO9xQ
+1349 Amsterdam AveHarlemNew York, NY 10027	,CBcU0NoeZNwUDvSk8MeA5Q,CBcU0NoeZNwUDvSk8MeA5Q
+1351 Amsterdam AveHarlemNew York, NY 10027	,W14J-hzcLKkWiAUqOO56BQ,W14J-hzcLKkWiAUqOO56BQ
+1355 Amsterdam AveHarlemNew York, NY 10027	,Q2184jkcanOFixERfoPdmQ,Q2184jkcanOFixERfoPdmQ
+137 E State StSte 139Ithaca, NY 14850	,jIn1YeBAxu--sf6JgV0Htw,jIn1YeBAxu--sf6JgV0Htw
+137 W 108th StManhattan ValleyNew York, NY 10025	,81A-T4e519No4Ni8GD9_Zw,81A-T4e519No4Ni8GD9_Zw
+138 W State StIthaca, NY 14850	,fTmcFgYB77wZdQrv-nP0Pg,fTmcFgYB77wZdQrv-nP0Pg
+139 Dryden RdIthaca, NY 14850	,nfPR_3WZ5um5iTN0gu8JiQ,nfPR_3WZ5um5iTN0gu8JiQ
+14 Spring AveTroy, NY 12180	,DfOtgLP1a-a8lQlIvYksDQ,DfOtgLP1a-a8lQlIvYksDQ
+140 E State StIthaca, NY 14850	,LfHXmKTea4GZpXIcJy50lA,LfHXmKTea4GZpXIcJy50lA
+140 W State StIthaca, NY 14850	,QE9JPcbaUycwoVcv8EV2NQ,QE9JPcbaUycwoVcv8EV2NQ
+1401 BroadwayWatervliet, NY 12189	,oYmlGHT02rCHJubUl0jvTg,oYmlGHT02rCHJubUl0jvTg
+1408 Trumansburg RdIthaca, NY 14850	,RvT1fRZIyEBeeUX_0MN2nQ,RvT1fRZIyEBeeUX_0MN2nQ
+141 The CommonsSte 3Ithaca, NY 14850	,ziS_fZ7Z99fa4qNVr879vg,ziS_fZ7Z99fa4qNVr879vg
+143 Dryden RdIthaca, NY 14850	,t3Y_KMMrkxkFdmakC16nBg,t3Y_KMMrkxkFdmakC16nBg
+143 E State StIthaca, NY 14850	,XHebqygyvhFvedq8RaRmrw,XHebqygyvhFvedq8RaRmrw
+143 Maple AveIthaca, NY 14850	,JOkK1NBCT7qPrAy5aHUS1Q,JOkK1NBCT7qPrAy5aHUS1Q
+143 Troy Schenectady RdWatervliet, NY 12189	,2ubKfUIPF_mWcF5k8KLs-Q,2ubKfUIPF_mWcF5k8KLs-Q,538mXHozPzaS-ikimLC8rQ,538mXHozPzaS-ikimLC8rQ
+143 Troy-Schenectady RdWatervliet, NY 12189	,YRjZNZE_TOgjFja5bE02hA,YRjZNZE_TOgjFja5bE02hA
+144 E State StIthaca, NY 14850	,stiGZw9iJpGfqzEceZmnTA,stiGZw9iJpGfqzEceZmnTA
+145 16th StWatervliet, NY 12189	,1WRGXvvyxRT2x5PDOBiLBA,1WRGXvvyxRT2x5PDOBiLBA
+146 E. State StreetIthaca, NY 14850	,Ey6t9YAXkaIp8Qi-nWEnDg,Ey6t9YAXkaIp8Qi-nWEnDg
+147 Dryden RdIthaca, NY 14850	,d_whQLSvdo4vASV1779lgQ,d_whQLSvdo4vASV1779lgQ
+15 Campbell AveTroy, NY 12180	,Lcjkkd6LYJ3BN9gNPNnzEA,Lcjkkd6LYJ3BN9gNPNnzEA
+15 Catherwood DrIthaca, NY 14850	,w0RMLP9sCpTJ_PlYnu_i8g,w0RMLP9sCpTJ_PlYnu_i8g
+15 Catherwood DrLansing, NY 14850	,dfOjsr-Pv85qK3zs32zchg,dfOjsr-Pv85qK3zs32zchg
+15 Catherwood RdSte 8Ithaca, NY 14850	,xiDjRDCAi_WUaU8kdfLjyg,xiDjRDCAi_WUaU8kdfLjyg
+150 Remsen St,Cohoes, NY 12047	,Q2Y7uAMBG4lnwvAjA5Ymow,Q2Y7uAMBG4lnwvAjA5Ymow
+1520 6th AveTroy, NY 12180	,C1OLx5RjPgBM4j9q7sg12Q,C1OLx5RjPgBM4j9q7sg12Q
+1527 15th StTroy, NY 12180	,s4IKGtwCOFf65FXER7p2Hg,MTosaEVCSW1wapIWZXGkzw,s4IKGtwCOFf65FXER7p2Hg,MTosaEVCSW1wapIWZXGkzw
+1551 Slaterville RdIthaca, NY 14850	,cd1dMvYDA_Xj1eH65AFsDg,cd1dMvYDA_Xj1eH65AFsDg
+1552 Hanshaw RdIthaca, NY 14850	,nf79CvkAt4xPz4h74gCcXA,nf79CvkAt4xPz4h74gCcXA
+156 4th StTroy, NY 12180	,qCmJ3StqvWuHEYhkwYZg_g,qCmJ3StqvWuHEYhkwYZg_g
+158 4th StTroy, NY 12180	,kXdh23ZRCrwpQyMT_Ok09w,kXdh23ZRCrwpQyMT_Ok09w
+158 E State StIthaca, NY 14850	,pa9BKXoKaEaMrMdZ1nh5Bw,pa9BKXoKaEaMrMdZ1nh5Bw
+158 Main AveWynantskill, NY 12198	,EHJGGhZwHk2q-OQgBqMX0g,EHJGGhZwHk2q-OQgBqMX0g
+159 4th StTroy, NY 12180	,J90ytQ-ICqp5hkZYjevaig,J90ytQ-ICqp5hkZYjevaig
+159 Dryden RdIthaca, NY 14850	,zkVSfgzLz03B2_627lrfkA,zkVSfgzLz03B2_627lrfkA
+16 Division StCohoes, NY 12047	,A_Fm4v2-gQuGBBI-GBx4Uw,A_Fm4v2-gQuGBBI-GBx4Uw
+160 Morningside AveHarlemNew York, NY 10027	,UxrA93CVJF0YyR_rvPpy8Q,UxrA93CVJF0YyR_rvPpy8Q
+161 Troy Schenectady RdWatervliet, NY 12189	,N9xkYnKYLIEu8jj2x9CA9w,N9xkYnKYLIEu8jj2x9CA9w
+1613 BroadwayWatervliet, NY 12189	,apmH1DwYMWrulOQN5fz4OA,apmH1DwYMWrulOQN5fz4OA
+1617 BroadwayWatervliet, NY 12189	,KkAQY0ODXkD_LSUIDGx1Rg,KkAQY0ODXkD_LSUIDGx1Rg
+17 1st StTroy, NY 12180	,R5tjtiq1YeSAS4MZmjNnWw,R5tjtiq1YeSAS4MZmjNnWw
+170 Cecil Malone DrIthaca, NY 14850	,a6Ycd8Wb5eoXZCP7U01RpA,a6Ycd8Wb5eoXZCP7U01RpA
+171 E State StIthaca, NY 14850	,BMQKfCU_n4LP1FtswlwnvQ,BMQKfCU_n4LP1FtswlwnvQ
+171 Remsen StCohoes, NY 12047	,1Ip9LD92OaNFbzbyTj22Ow,1Ip9LD92OaNFbzbyTj22Ow
+174 Main AveWynantskill, NY 12198	,jEm2bOtR6oyDOdAuOhOEaQ,jEm2bOtR6oyDOdAuOhOEaQ
+174 St. Nicholas AveHarlemManhattan, NY 10026	,uC9M9YlhgqqT5E-bRgCzKA,uC9M9YlhgqqT5E-bRgCzKA
+175 Main AveWynantskill, NY 12198	,POL04pXVtUJ4aQguvZF_Pg,POL04pXVtUJ4aQguvZF_Pg
+179 Graham RdSte FIthaca, NY 14850	,JMQx87SPt0vt71MKniTz6Q,JMQx87SPt0vt71MKniTz6Q
+18 Sargent StCohoes, NY 12047	,f0NbIT50Kqqfh9b7T2Zo5Q,f0NbIT50Kqqfh9b7T2Zo5Q
+1804 2nd AveWatervliet, NY 12189	,xu4qngtdHkc6RnebsvQIYg,xu4qngtdHkc6RnebsvQIYg
+1809 5th AveTroy, NY 12180	,0ATNn2vTik9sHEdzCs-mpQ,0ATNn2vTik9sHEdzCs-mpQ,URyanwarERKixLeROpiO6A,URyanwarERKixLeROpiO6A
+181 Troy Schenectady RdLatham, NY 12189	,NAEIYyeXtrxRn4OlSAm_4Q,NAEIYyeXtrxRn4OlSAm_4Q
+184 River StTroy, NY 12180	,faP7QJNHKiuVDwhXgr534A,faP7QJNHKiuVDwhXgr534A
+184-190 Remsen StCohoes, NY 12047	,fBjKMmdBNzpI8mXov1YXeA,fBjKMmdBNzpI8mXov1YXeA
+185 Claremont AveHarlemNew York, NY 10025	,q1Fw6q62TgaUPIfnqPTWzg,q1Fw6q62TgaUPIfnqPTWzg
+185 Old Loudon RdLatham, NY 12110	,8yKr1IvQPnLLK6iRpd0Few,8yKr1IvQPnLLK6iRpd0Few,vqKwftWQXkygl9c0DLJ66g,vqKwftWQXkygl9c0DLJ66g
+185 St Nicholas AveHarlemManhattan, NY 10026	,yue8UWXtQ38ddVn0fqAn0A,yue8UWXtQ38ddVn0fqAn0A
+185 St Nicholas AveHarlemNew York, NY 10026	,IDSpUSv-Td6-y8rC4JuCsw,IDSpUSv-Td6-y8rC4JuCsw
+187 Hoosick StTroy, NY 12180	,TfUT6TUkgC6LmCqKQuxrTQ,TfUT6TUkgC6LmCqKQuxrTQ
+187 Old Loudon RdLatham, NY 12110	,JhWgmJHXb4avC1-vkpkkYQ,JhWgmJHXb4avC1-vkpkkYQ
+189 Pleasant Grove RdIthaca, NY 14850	,VtJtF82g1y3w1HoKh5f68w,VtJtF82g1y3w1HoKh5f68w
+192 Main AveWynantskill, NY 12198	,UHZH7s7KmgqHkfqqOO_w7A,UHZH7s7KmgqHkfqqOO_w7A
+192 Remsen StreetCohoes, NY 12047	,LLTnKM7lRgxtImsJI-1xVQ,LLTnKM7lRgxtImsJI-1xVQ
+194 Manhattan AveManhattan ValleyNew York, NY 10025	,ePyqCi-WHs-CygYTc8W7NQ,ePyqCi-WHs-CygYTc8W7NQ
+195 River StTroy, NY 12180	,TCuWO-jpbkWBAmDDx19-OQ,TCuWO-jpbkWBAmDDx19-OQ
+195 Troy Schenectady RdLatham, NY 12110	,p1aLn5VVbknksy4DS3LRwA,p1aLn5VVbknksy4DS3LRwA
+198 1st StTroy, NY 12180	,jh_owKpd10vqcKnrGGuDBw,jh_owKpd10vqcKnrGGuDBw
+199 4th StTroy, NY 12180	,lujEt948SWY9tHACaPHFUQ,lujEt948SWY9tHACaPHFUQ
+2 Archibald StWatervliet, NY 12189	,AYuAIf2KkIUF8HaMyorwzQ,AYuAIf2KkIUF8HaMyorwzQ
+2 Cohoes RdWatervliet, NY 12189	,7H9wF_UHLgWPpRCKu8TlJg,7H9wF_UHLgWPpRCKu8TlJg
+2 Hickory Hollow LnIthaca, NY 14850	,rFNQJo_dV4UC5VCvLMyUbw,rFNQJo_dV4UC5VCvLMyUbw
+200 BroadwaySte 2Troy, NY 12180	,KrFjh__SDUyJ8jeyldkeFA,KrFjh__SDUyJ8jeyldkeFA
+200 BroadwayTroy, NY 12180	,tSzmpsGDmHKAuop6BvELcA,KhsxSQnY3yUHDQFZKAn1Rw,tSzmpsGDmHKAuop6BvELcA,-4wyQhCgMdR4LE-Dd1YH_g,KhsxSQnY3yUHDQFZKAn1Rw,-4wyQhCgMdR4LE-Dd1YH_g
+200 Troy Schenectady RdLatham, NY 12110	,j_fj6YY5hBe5YW1ucRQrsw,RN2Aw4JLtLL7_5sIW-pGUw,j_fj6YY5hBe5YW1ucRQrsw,RN2Aw4JLtLL7_5sIW-pGUw
+200 W 106th StManhattan ValleyNew York, NY 10025	,_bB_OP2pktiJ2R58MzZR0w,_bB_OP2pktiJ2R58MzZR0w
+200 W SenecaIthaca, NY 14850	,ztswDToyZGyL_dxo0CEQew,ztswDToyZGyL_dxo0CEQew
+201 23rd StWatervliet, NY 12189	,WU26m_GsgbDe9ol-ywVsUA,WU26m_GsgbDe9ol-ywVsUA
+202 Dryden CtIthaca, NY 14850	,7Tp-J0La7FJtubAJpWd0nw,7Tp-J0La7FJtubAJpWd0nw
+202 E Falls StIthaca, NY 14850	,k9UObyytIt6xmo-vzdpPdg,k9UObyytIt6xmo-vzdpPdg,_WdURV4xyLBLScgIVxwrrg,_WdURV4xyLBLScgIVxwrrg
+203 N Aurora StIthaca, NY 14850	,dtesrJjWXSIecOchzOcrfQ,dtesrJjWXSIecOchzOcrfQ
+204 Dryden RdIthaca, NY 14850	,n9GCtjLzN9D2rL79KCljOA,n9GCtjLzN9D2rL79KCljOA
+204 W Seneca StIthaca, NY 14850	,A6Wlh_2LFsUMQHBhfTebMw,A6Wlh_2LFsUMQHBhfTebMw
+205 Dryden RdIthaca, NY 14850	,SQFOc2uHI_A9LbohNJ146g,SQFOc2uHI_A9LbohNJ146g
+205 Elmira RdIthaca, NY 14850	,5o_VBYSmwVUTydZF46rMjw,5o_VBYSmwVUTydZF46rMjw
+205 S Meadow StIthaca, NY 14850	,eAZ6O8mY7_iH5i6njXVWnA,eAZ6O8mY7_iH5i6njXVWnA
+2053 8th AveHarlemNew York, NY 10026	,5D-DaPj4vmksb-Li2RCU0w,5D-DaPj4vmksb-Li2RCU0w
+206 E State StIthaca, NY 14850	,ath00Xa4Wv20sFPzIzPfgQ,ath00Xa4Wv20sFPzIzPfgQ
+206 Taughannock BlvdIthaca, NY 14850	,692rpGfGf2YpfPf9V1_sag,692rpGfGf2YpfPf9V1_sag
+206A Dryden RdIthaca, NY 14850	,lxcpALnq2RRWDKBVpztUMA,lxcpALnq2RRWDKBVpztUMA
+207 5th StIthaca, NY 14850	,n81sibF2k0PevDHa5-geFQ,n81sibF2k0PevDHa5-geFQ
+207 N Aurora StIthaca, NY 14850	,QOtYW6u0g5Te6YRVQ4uaUQ,QOtYW6u0g5Te6YRVQ4uaUQ
+2072 Frederick Douglass BlvdHarlemNew York, NY 10026	,EtHDmvirGVYBXX3kUmQQrQ,EtHDmvirGVYBXX3kUmQQrQ
+2074 Frederick Douglass BHarlemNew York, NY 10026	,bKXyytVuPm8LYutAalf8AQ,bKXyytVuPm8LYutAalf8AQ
+2076 8th AveHarlemNew York, NY 10026	,b2d8CP6sKQotFjzZX0Thtw,b2d8CP6sKQotFjzZX0Thtw
+208 Dryden Rd Ste 2Ithaca, NY 14850	,Zb22gjD3m_MwFRB6Ay-QOw,Zb22gjD3m_MwFRB6Ay-QOw
+208 Dryden RdIthaca, NY 14850	,G6eVUNDvfCiFy8ICavGScQ,z70kk4VWQruJ_R4UYy-86g,BF1C8xLBOtIR70o4V83R2A,G6eVUNDvfCiFy8ICavGScQ,z70kk4VWQruJ_R4UYy-86g,BF1C8xLBOtIR70o4V83R2A
+208 W 118th StHarlemNew York, NY 10026	,RsKER58BDYwZIetomedllg,RsKER58BDYwZIetomedllg
+2082 Frederick Douglas BlvdHarlemNew York, NY 10026	,DzlCEhXW6OadK6ETcmJpwQ,DzlCEhXW6OadK6ETcmJpwQ
+2084 Frederick Douglass BlvdHarlemNew York, NY 10026	,ySzkBv-_DTNT30eONPnAkg,ySzkBv-_DTNT30eONPnAkg
+208B Dryden RoadIthaca, NY 14850	,ptAp0HWJar6Bk18HX--UuQ,ptAp0HWJar6Bk18HX--UuQ
+209 Dey StIthaca, NY 14850	,F5-BNQmodMvgsMVwzSRQPA,F5-BNQmodMvgsMVwzSRQPA
+209 Dryden RdIthaca, NY 14850	,kSAeXkiPDNzSnFFDxqjgvg,kSAeXkiPDNzSnFFDxqjgvg
+209 River StTroy, NY 12180	,6CNJqhDGI59hRRbVDkzGuw,6CNJqhDGI59hRRbVDkzGuw
+209 S Meadow StIthaca, NY 14850	,7FD_ny67bnS6Zm3oa104VA,7FD_ny67bnS6Zm3oa104VA
+2090 Frederick Douglass BlvdHarlemNew York, NY 10026	,6ivIw93SATyp6Syc-_k5Eg,6ivIw93SATyp6Syc-_k5Eg
+2094 Frederick Douglass BlvdHarlemNew York, NY 10026	,-4IoLSPumLbEX_2VKbT81g,-4IoLSPumLbEX_2VKbT81g
+2098 Frederick Douglass BlvdHarlemManhattan, NY 10026	,uehLIM4VXnrqL1iqinjukg,uehLIM4VXnrqL1iqinjukg
+2099 Frederick Douglass BlvdHarlemNew York, NY 10026	,Fk495HaokZDrGkAG8s_dlg,Fk495HaokZDrGkAG8s_dlg
+210 Dryden RdSte BIthaca, NY 14850	,t8IeRycDkwLZGsKXi6tc_Q,t8IeRycDkwLZGsKXi6tc_Q
+210 St Nicholas AveHarlemNew York, NY 10027	,I4hzlqf5JJAPSYygp1AyoQ,I4hzlqf5JJAPSYygp1AyoQ
+2100 Frederick Douglass BlvdHarlemNew York, NY 10026	,OZtXG5DUsJZrtMFWodCNnA,OZtXG5DUsJZrtMFWodCNnA
+2101 Frederick Douglass BlvdHarlemNew York, NY 10026	,6RLUQ9SwIFJN8hVWrrnmJQ,6RLUQ9SwIFJN8hVWrrnmJQ
+2103 Frederick Douglass Blvd.HarlemManhattan, NY 10026	,xjyosf0dH5EE8eRlDGAmTA,xjyosf0dH5EE8eRlDGAmTA
+2104 Frederick Douglass BlvdHarlemNew York, NY 10026	,rs7lizrH9EgvrPzANvV3fg,fFsEJQB2HhpfXV48ioxzXw,fFsEJQB2HhpfXV48ioxzXw,rs7lizrH9EgvrPzANvV3fg
+2113 Frederick Douglass BlvdHarlemHarlem, NY 10026	,8fDhtPpDAnFN44LVUIe3qQ,8fDhtPpDAnFN44LVUIe3qQ
+2115 Frederick Douglas BlvdHarlemNew York, NY 10026	,LvzfVDlvb9r0fcGXeitVKw,LvzfVDlvb9r0fcGXeitVKw
+2116 Frederick Douglas BlvdHarlemNew York, NY 10026	,Y5JkvLfBFDxxTKqr5WugFA,Y5JkvLfBFDxxTKqr5WugFA
+2116 Frederick Douglass BlvdHarlemManhattan, NY 10026	,lB76mdTLWgn_almMDps4Eg,lB76mdTLWgn_almMDps4Eg,ryhxaXvnYvDJiNYQqLKFTQ,ryhxaXvnYvDJiNYQqLKFTQ
+2118 Frederick Douglass BlvdHarlemNew York, NY 10026	,9aEtX7MDFjEtm5ySOViRUw,9aEtX7MDFjEtm5ySOViRUw
+2119 Frederick Douglass BlvdHarlemNew York, NY 10026	,A5EfmQqXI5QYS_wkPIij8Q,A5EfmQqXI5QYS_wkPIij8Q
+212 25th StWatervliet, NY 12189	,XWD1X5COj9HpY4jNb2q9-w,XWD1X5COj9HpY4jNb2q9-w
+212 Center StIthaca, NY 14850	,PhQAzfj2n3gaKlUb-NxC5g,PhQAzfj2n3gaKlUb-NxC5g
+2121 Frederick Douglass BlvdHarlemNew York, NY 10026	,uSwJdHivZz32O4w3WAuRJg,uSwJdHivZz32O4w3WAuRJg
+213 1/2 Dryden RdIthaca, NY 14850	,rosGdyYpXWtuxclvOjmSxw,P0FaNB6xWUkumB1Pe3I8Ig,rosGdyYpXWtuxclvOjmSxw,P0FaNB6xWUkumB1Pe3I8Ig
+213 S Fulton StIthaca, NY 14850	,8Soc4uJVuRY7h6GMsiwyiQ,8Soc4uJVuRY7h6GMsiwyiQ
+2134 8th AveHarlemNew York, NY 10026	,SoiQJEuE9biX5cwBvlMVLA,SoiQJEuE9biX5cwBvlMVLA
+2134 Frederick Douglass BHarlemNew York, NY 10026	,RsF8-hVSFKH-JuZbfv0zZw,RsF8-hVSFKH-JuZbfv0zZw
+214 E State StIthaca, NY 14850	,NrN-0SRAb33cVyTXHj3kPg,NrN-0SRAb33cVyTXHj3kPg
+214 The CommonsIthaca, NY 14853	,dCaZ_SWhaZ0FPLFmnwrI1Q,dCaZ_SWhaZ0FPLFmnwrI1Q
+2141 Frederick Douglass BlvdHarlemManhattan, NY 10026	,D2SN1HiPSMrRHo9WxWVbTg,D2SN1HiPSMrRHo9WxWVbTg
+2141 Frederick Douglass BlvdHarlemNew York, NY 10026	,J0B5SLSMYcQpKtSKqgRwjQ,J0B5SLSMYcQpKtSKqgRwjQ
+215 E State StIthaca, NY 14850	,pYmaycIejVwNUgzXBjEeBA,XBuj07BYkcLa3W2kHilKtg,pYmaycIejVwNUgzXBjEeBA,GVqmpOsG-pDp9NltaLfu-g,d2N1_XZCvjVVgIKtlNOlJw,XBuj07BYkcLa3W2kHilKtg,d2N1_XZCvjVVgIKtlNOlJw,GVqmpOsG-pDp9NltaLfu-g
+215 E State StSte 10Ithaca, NY 14850	,vI34pZUeUQWoX1aNTY7Rww,vI34pZUeUQWoX1aNTY7Rww
+215 Elmira RdIthaca, NY 14850	,tWQDyCxO3qXwwAWf-wwWBA,tWQDyCxO3qXwwAWf-wwWBA
+215 N Cayuga StIthaca, NY 14850	,Rbhk_Ci0jb0EcGfj8ZePmQ,33nfauIJqAZb-Cy01BWwrw,TKf-31kB14E7OTVWpJMd7g,TKf-31kB14E7OTVWpJMd7g,33nfauIJqAZb-Cy01BWwrw,TA8Jj9Gsl6gvNrIP8hpvew,Rbhk_Ci0jb0EcGfj8ZePmQ,TA8Jj9Gsl6gvNrIP8hpvew
+215 N. Cayuga StIn the DeWitt MallIthaca, NY 14850	,vUurk-uGboqLN52jtbM0cA,vUurk-uGboqLN52jtbM0cA
+215 N. Cayuga StreetIthaca, NY 14850	,-flMQvBVJLujcE7Q5bGAbw,-flMQvBVJLujcE7Q5bGAbw
+215 W 106th StSte 4EManhattan ValleyNew York, NY 10025	,tz6SEGSS6nH6F8VcuSPC8w,tz6SEGSS6nH6F8VcuSPC8w
+2158 8th AveHarlemNew York, NY 10026	,JCPykGY64Ok0MXo1T_35Cw,JCPykGY64Ok0MXo1T_35Cw
+216 E State StIthaca, NY 14850	,m1zppUNGsGFz6BfWzBF_2Q,m1zppUNGsGFz6BfWzBF_2Q
+2160 Frederick Douglass BlvdHarlemNew York, NY 10026	,PUnu6su7FrPY0vVpGXbeJw,PUnu6su7FrPY0vVpGXbeJw
+2162 8th AveHarlemNew York, NY 10026	,O2jCWIOWb-IhyZGZLTNNoA,O2jCWIOWb-IhyZGZLTNNoA
+2163 Frederick Douglass BlvdHarlemNew York, NY 10026	,EHMx2IhI-_ooHQo0N-AnHA,EHMx2IhI-_ooHQo0N-AnHA,_xesGWYqL2BqtQaYTULvOQ,_xesGWYqL2BqtQaYTULvOQ
+2164 Frederick Douglass BlvdHarlemManhattan, NY 10026	,9LGAB5nFb4yML6Du5o7iJQ,9LGAB5nFb4yML6Du5o7iJQ
+2167 Frederick Douglass BlvdBetween W 116th and 117thHarlemNew York, NY 10026	,EEH6_Akx74HuYBcAfSozSA,EEH6_Akx74HuYBcAfSozSA
+2167 Frederick Douglass BlvdHarlemNew York, NY 10026	,T5hjZpEaS4Kn_qL3LBQRNw,QHYqNQhQ8NVK0RX68Y4PuQ,QHYqNQhQ8NVK0RX68Y4PuQ,T5hjZpEaS4Kn_qL3LBQRNw
+2168 Frederick Douglass Blvd117th StHarlemManhattan, NY 10026	,J9xVQScnr0lYWl61_mLXMA,J9xVQScnr0lYWl61_mLXMA
+2168 Frederick Douglass BlvdHarlemNew York, NY 10026	,L7J7eDgJTIctG8JzvMooMw,L7J7eDgJTIctG8JzvMooMw
+217 Hoosick StTroy, NY 12180	,gHcUKbGwdLXiWqbqE8BILw,gHcUKbGwdLXiWqbqE8BILw
+217 N Greenbush RdTroy, NY 12180	,5BM0cmJvxaFlFuh0L-b4Ow,5BM0cmJvxaFlFuh0L-b4Ow
+2170 Frederick Douglass BlvdHarlemNew York, NY 10026	,xDcDKPVDO5wSZ-dU8HDbQg,xDcDKPVDO5wSZ-dU8HDbQg
+218 Hoosick StTroy, NY 12180	,JklDaUtd-mp7K2JVwiqVjw,JklDaUtd-mp7K2JVwiqVjw
+2187 Frederick Douglass BlvdHarlemNew York, NY 10026	,3dyxUo0nT31VTwEaOp2CYA,3dyxUo0nT31VTwEaOp2CYA
+2190 Frederick Douglass BlvdHarlemManhattan, NY 10026	,UWSVbdWub1ZLzRb9--4-mA,UWSVbdWub1ZLzRb9--4-mA
+2198 Fredrick Douglass BlvdHarlemManhattan, NY 10026	,vFDr9nIf35BJq7rEMhbhSw,vFDr9nIf35BJq7rEMhbhSw
+220 Hoosick StTroy, NY 12180	,cVIXO9rRiK8qf03YzXLimg,cVIXO9rRiK8qf03YzXLimg
+2200 19th StTroy, NY 12180	,02AT15PDQTbiSoiXtNgMDg,02AT15PDQTbiSoiXtNgMDg
+2200 8th AveHarlemNew York, NY 10026	,QUNchfxuTOOmjAXkHivYdQ,QUNchfxuTOOmjAXkHivYdQ
+221 W 107th StManhattan ValleyNew York, NY 10025	,8BuQKohXzZGK5Bx1i9in1Q,8BuQKohXzZGK5Bx1i9in1Q
+221 Wade Road ExtLatham, NY 12110	,4GEgSSZlQIvJO6lTPk8yHA,4GEgSSZlQIvJO6lTPk8yHA
+221 Wade Road ExtensionLatham, NY 12110	,wrHFS7hWzjofPCTisoyxQQ,wrHFS7hWzjofPCTisoyxQQ
+2210 Frederick Douglass BlvdHarlemNew York, NY 10026	,IfLTw-yFMpuiqAdYRxLv8Q,IfLTw-yFMpuiqAdYRxLv8Q
+2212 Frederick Douglass BlvdHarlemNew York, NY 10026	,-AMh6SAfLWB06B0_CNRPHA,-AMh6SAfLWB06B0_CNRPHA
+2215 Burdett AveTroy, NY 12180	,bGsO9CWn6JEIBpxuL-qRow,bGsO9CWn6JEIBpxuL-qRow
+2217-23 Frederick Douglas BlvdHarlemNew York, NY 10026	,YRfDdBgWS4T80oJfKmVThA,YRfDdBgWS4T80oJfKmVThA
+2217-23 Frederick Douglass Blvd.HarlemNew York, NY 10026	,GDELvDNJGYooK__jXu6foA,GDELvDNJGYooK__jXu6foA
+222 Elmira RdIthaca, NY 14850	,ShSe4B4BaLr-jBbxHc76Xw,pznaaB3gyEeky-NUDeEpDA,pznaaB3gyEeky-NUDeEpDA,ShSe4B4BaLr-jBbxHc76Xw,bJq1rng5jfo3GlGRNa30Zw,bJq1rng5jfo3GlGRNa30Zw
+222 Elmira RdSte AIthaca, NY 14850	,Q_XaVU8MgXajaY5vAFkwNA,Q_XaVU8MgXajaY5vAFkwNA
+222 S Cayuga StIthaca, NY 14850	,CjJUp3KAs-zl1WCekVVngw,CjJUp3KAs-zl1WCekVVngw
+222 S Fulton StIthaca, NY 14850	,dl6eJ6sowYvlVaHPv1zvWQ,dl6eJ6sowYvlVaHPv1zvWQ
+222 South Cayuga StreetIthaca, NY 14850	,iQJ54YzzImrYF-4WXhS6gA,iQJ54YzzImrYF-4WXhS6gA
+222 Troy-Schenectady RdLatham, NY 12110	,uep4cDx7Kq3vJTOs2fmLaQ,uep4cDx7Kq3vJTOs2fmLaQ
+2220 Frederick Douglass BlvdHarlemNew York, NY 10026	,xXUT3AEaclBliFLlT884NA,xXUT3AEaclBliFLlT884NA
+2224 Frederick Douglass Blvd.HarlemNew York, NY 10026	,VrlIP1YgXwvCQlQ1PTExkg,VrlIP1YgXwvCQlQ1PTExkg
+2235 Frederick Douglas BlvdHarlemNew York, NY 10027	,X6TKrhvegGg47GnxPlPYZA,X6TKrhvegGg47GnxPlPYZA
+2235 Frederick Douglass Blvd Frnt 4HarlemNew York, NY 10027	,Qw2fgcgqw-0a61tdQB2beQ,Qw2fgcgqw-0a61tdQB2beQ
+2235 Frederick Douglass BlvdHarlemHarlem, NY 10027	,dl4hwV8HGfgGcDTzoxIsng,dl4hwV8HGfgGcDTzoxIsng
+224 E State StIthaca, NY 14850	,nTbKkff5lY_jXOiUVywj6g,ntH3yiPIjLyMxYDCfY-UUQ,ntH3yiPIjLyMxYDCfY-UUQ,nTbKkff5lY_jXOiUVywj6g
+2243 15th StTroy, NY 12180	,oCPvHNQAv0kSBw8eFVIJRg,oCPvHNQAv0kSBw8eFVIJRg
+2246 15th StTroy, NY 12180	,S3KI4FwF7nf2ykZeBrvYCQ,S3KI4FwF7nf2ykZeBrvYCQ
+2255 N Triphammer Rd Ste 30Ithaca, NY 14850	,sEpPnDb0O3Quphynwy_G3g,sEpPnDb0O3Quphynwy_G3g
+2255 N Triphammer RdIthaca, NY 14850	,unrUGWQjIAEyMWZBqlIbnA,4Gzv_B96ssWG6OO5V5Bwtg,NY8E-FmJX7eQ9y4KN9eKTA,unrUGWQjIAEyMWZBqlIbnA,4Gzv_B96ssWG6OO5V5Bwtg,NY8E-FmJX7eQ9y4KN9eKTA
+2255 N. Triphammer RoadIthaca, NY 14850	,g0ErZE4Hd_-av-U93h9BSA,g0ErZE4Hd_-av-U93h9BSA
+2258 15th StTroy, NY 12180	,LScpEFvKvx9JH5oQGTiJuw,LScpEFvKvx9JH5oQGTiJuw
+226 Mount Pleasant RdFreeville, NY 13068	,sgPVZV7gp-n7Dn7qJgqz5g,sgPVZV7gp-n7Dn7qJgqz5g
+227 Cherry StIthaca, NY 14850	,nWWNokoF1DTeaDjlEv5_Ww,nWWNokoF1DTeaDjlEv5_Ww
+2276 Frederick Douglass BlvdHarlemNew York, NY 10027	,kXp3QPpxsMO7G05d_7JFNQ,kXp3QPpxsMO7G05d_7JFNQ
+228 4th StTroy, NY 12180	,gVQ7REHc3KTjROrI8LPhNQ,gVQ7REHc3KTjROrI8LPhNQ
+228 Columbia StIthaca, NY 14850	,1beYso295toaCxXt2ecdig,1beYso295toaCxXt2ecdig
+2288 Fredrick Douglass BlvdHarlemNew York, NY 10027	,kg8_LyP0TvxkcTxP8d0riw,kg8_LyP0TvxkcTxP8d0riw
+229-227 W 116th StHarlemNew York, NY 10026	,P0kIb32CXjedhhFeWsRFGQ,P0kIb32CXjedhhFeWsRFGQ
+2296 Frederick Douglass BoulevardHarlemNew York, NY 10027	,WkleR-aNbZcdimfcqdQ_CA,MfqIKCpI3R8LyIkMVQva-w,MfqIKCpI3R8LyIkMVQva-w,WkleR-aNbZcdimfcqdQ_CA
+23 Cinema Dr Ste FIthaca, NY 14850	,WYHeiliITc3RWu31SnWijQ,WYHeiliITc3RWu31SnWijQ
+23 Cinema DrIthaca, NY 14850	,7r2ge7MKm8tZhxrwemvWGQ,7r2ge7MKm8tZhxrwemvWGQ
+23 Cinema DrSte CIthaca, NY 14850	,Dv3MJIreiNRa6iuLe_yfkg,Dv3MJIreiNRa6iuLe_yfkg
+23 Cinema DrSte DIthaca, NY 14850	,Ror-3i2eib1r1dEwCfLMtA,Ror-3i2eib1r1dEwCfLMtA
+230 W 108th StManhattan ValleyNew York, NY 10025	,ymeliOh5jPjpmlaWL9R0-w,ymeliOh5jPjpmlaWL9R0-w
+2300 N Triphammer RdIthaca, NY 14850	,WXtw9un5lYbAJKCqxHhYbg,QwcCoo2vNXM_z1h3OdARKw,-E0x6y-6vnmxqrLB_swkaA,-E0x6y-6vnmxqrLB_swkaA,WXtw9un5lYbAJKCqxHhYbg,QwcCoo2vNXM_z1h3OdARKw
+2301 15th StTroy, NY 12180	,rh1bJwxoh4-nFQAvZdP3Yw,rh1bJwxoh4-nFQAvZdP3Yw
+2301 N Triphammer RdIthaca, NY 14850	,ETPYh5nPNP4cFG36E-QBkw,ETPYh5nPNP4cFG36E-QBkw
+2303 N Triphammer RdIthaca, NY 14850	,GXcX7pE3hNQoKqANf2im0A,GXcX7pE3hNQoKqANf2im0A
+2309 N Triphammer RdIthaca, NY 14850	,9GCuUQec-Ugxh_dXSMPbfQ,D5Qph9y6TXNb2jIwQsSCwA,D5Qph9y6TXNb2jIwQsSCwA,9GCuUQec-Ugxh_dXSMPbfQ
+2309 N Triphammer RdSte 15Ithaca, NY 14850	,o7Dq7X8vQs7KiJhSBbKMVQ,o7Dq7X8vQs7KiJhSBbKMVQ
+231 Wade Rd ExtensionLatham, NY 12110	,SA4Qag0p91VQhXAIQt5RfQ,QM78KebaKJgIdIWEbmPc6g,SA4Qag0p91VQhXAIQt5RfQ,QM78KebaKJgIdIWEbmPc6g
+231 Wade Road ExtensionLatham, NY 12110	,GKK581tdMyPvPsTPCU89oA,GKK581tdMyPvPsTPCU89oA
+2310 N Triphammer RdIthaca, NY 14850	,G3-STn8vhQXsPObIqlBGPw,G3-STn8vhQXsPObIqlBGPw
+2311 2nd AveWatervliet, NY 12189	,ludH0Z31B4xmo_894DzB8w,ludH0Z31B4xmo_894DzB8w
+2333 N Triphammer RdSte 403Ithaca, NY 14850	,i8Q6jFqoecCGmJkH-3IyZg,i8Q6jFqoecCGmJkH-3IyZg
+2343 N Triphammer RdIthaca, NY 14850	,IvUnxOP0cv3NzNBE0f3jng,IvUnxOP0cv3NzNBE0f3jng
+235 Hoosick StTroy, NY 12180	,wZWGiWXCc3gzFKtpY9E5Mg,wZWGiWXCc3gzFKtpY9E5Mg
+235 N Greenbush RdNorth Greenbush, NY 12198	,hluBhGYt7BOKhCP4M0qDDQ,hluBhGYt7BOKhCP4M0qDDQ
+235 N Greenbush RdTroy, NY 12180	,dUPFQ2eGe1pk6eLnIqCbTw,dUPFQ2eGe1pk6eLnIqCbTw
+235 W 107th StManhattan ValleyManhattan, NY 10025	,cooPp3UrOzYCUGYFgGNikg,cooPp3UrOzYCUGYFgGNikg
+2369 N Triphammer RdIthaca, NY 14850	,K6lGVf_2piDLwUX-K6d6qw,K6lGVf_2piDLwUX-K6d6qw
+237 West 107th StreetManhattan ValleyNew York, NY 10025	,Xn4DvdnAF29YOdCt1wcHMw,Xn4DvdnAF29YOdCt1wcHMw
+238 W 116th StHarlemNew York, NY 10026	,fkRke4pb7F3DPCrL5yjRJQ,fkRke4pb7F3DPCrL5yjRJQ
+2389 N Triphammer RdIthaca, NY 14850	,0RB6mv9xdTMZNt3vFR2gWQ,0RB6mv9xdTMZNt3vFR2gWQ
+24 Main AveWynantskill, NY 12198	,Yjm7Lw8_PLPBRwDlaCHvsQ,Yjm7Lw8_PLPBRwDlaCHvsQ
+240 Linden AveIthaca, NY 14850	,1jDA-fkHPRVskI67r0A3CQ,1jDA-fkHPRVskI67r0A3CQ
+240 W 35th StSte 500Manhattan ValleyNew York, NY 10001	,vnEYU8J2LqkcNOKh-LALFQ,vnEYU8J2LqkcNOKh-LALFQ
+241 Hoosick StTroy, NY 12180	,_nC2ytNxfhOoyJydlJVtlw,_nC2ytNxfhOoyJydlJVtlw
+2412 15th StTroy, NY 12180	,7V61AMy3wGV11o6Ezh8J1Q,7V61AMy3wGV11o6Ezh8J1Q
+248 W 106th StManhattan ValleyNew York, NY 10025	,CWk6yFOoKJH5URub5XsHDg,CWk6yFOoKJH5URub5XsHDg
+25 White StCohoes, NY 12047	,2a7SDTvavCPJae6jkwq0oQ,2a7SDTvavCPJae6jkwq0oQ
+250 BroadwayTroy, NY 12180	,jUtDZZNdZtfNGxnNkQJ_Yw,jUtDZZNdZtfNGxnNkQJ_Yw,Dd40RaQyCWIlGjNsG0wkAA,Dd40RaQyCWIlGjNsG0wkAA
+250 Jordan RdRensselaer Technology ParkTroy, NY 12180	,PN4pX81FkbBS7qfdEKo1jQ,PN4pX81FkbBS7qfdEKo1jQ
+250 W 106th St2nd FlManhattan ValleyNew York, NY 10025	,APzU2CBC7Gzwa2RTnUdAAQ,APzU2CBC7Gzwa2RTnUdAAQ
+250 W 108th StManhattan ValleyNew York, NY 10025	,YSgPH3iTfSgOM3C7ZxDLLA,YSgPH3iTfSgOM3C7ZxDLLA
+251 River StTroy, NY 12180	,BdvxMQ3Qlb0hwo8sprp4RQ,BdvxMQ3Qlb0hwo8sprp4RQ,v0zUq9nB7ayw3YXHL4rY4Q,v0zUq9nB7ayw3YXHL4rY4Q
+251 W 116th StreetHarlemNew York, NY 10026	,1wo-E_JoKPs98OhE_jWLcw,1wo-E_JoKPs98OhE_jWLcw
+254 BroadwayTroy, NY 12180	,kZhzc_qD2mUU_bFbcs58Dw,KBC-CCXC5oFJLaDfPlXNUA,kZhzc_qD2mUU_bFbcs58Dw,KBC-CCXC5oFJLaDfPlXNUA
+254 W 108th StManhattan ValleyManhattan, NY 10025	,1Ps3-IJycqFpR0uyii2HRQ,1Ps3-IJycqFpR0uyii2HRQ
+256 W 109th StManhattan ValleyNew York, NY 10025	,ezgJKW02TGymRkmLb8zzwQ,ezgJKW02TGymRkmLb8zzwQ
+256 W 116th StHarlemNew York, NY 10026	,ZcTI78WOKE-iLAzAGccOvA,ZcTI78WOKE-iLAzAGccOvA
+257 W 113 StHarlemManhattan, NY 10026	,vTJFMyKMiQAjl_5_gpkviQ,vTJFMyKMiQAjl_5_gpkviQ
+257 W 116th StHarlemNew York, NY 10026	,lxHFVi4iZZRuNtbVW-ysQQ,lxHFVi4iZZRuNtbVW-ysQQ
+257 West 113 StHarlemNew York, NY 10025	,vd8o92IOwX4dPJSSpV5POA,vd8o92IOwX4dPJSSpV5POA
+258 W 109th StManhattan ValleyNew York, NY 10025	,LJuHxobQsa7lW0c1wttY2A,LJuHxobQsa7lW0c1wttY2A
+260 Hoosick StTroy, NY 12180	,QjNzU0Ys6698OKHzLVDeNw,7rqLjSX0o_oJNdfljxUn9w,QjNzU0Ys6698OKHzLVDeNw,7rqLjSX0o_oJNdfljxUn9w
+260 Roberts HallIthaca, NY 14853	,Rl2_H4wcEuts7NC_HbDOpQ,Rl2_H4wcEuts7NC_HbDOpQ
+2600 7th AveWatervliet, NY 12189	,juuN71EcoKNZ-tFSzYE9mQ,juuN71EcoKNZ-tFSzYE9mQ
+261 W 112th StSte 4EHarlemNew York, NY 10026	,xTiJ9uGs0l7cQ2F8IqnzPw,xTiJ9uGs0l7cQ2F8IqnzPw
+264 4th StTroy, NY 12180	,UirP62cfpa2E_dqUgzoKfQ,UirP62cfpa2E_dqUgzoKfQ
+266 4th StTroy, NY 12180	,6PdMtDkLAg_kDYCEi6VBwA,6PdMtDkLAg_kDYCEi6VBwA
+27 3rd StTroy, NY 12180	,190xQH8mcZugoxNM_0OAvA,190xQH8mcZugoxNM_0OAvA
+270 St. Nicholas AveHarlemManhattan, NY 10027	,-totnE2bmDrWbNhyrz_NvA,-totnE2bmDrWbNhyrz_NvA
+270 W 123rd StHarlemManhattan, NY 10027	,E--S5uEvbg11E8PC2GCYsA,E--S5uEvbg11E8PC2GCYsA
+2701 Lavin CtTroy, NY 12180	,7o2KJGfMVpaYnaYnvbNpXw,7o2KJGfMVpaYnaYnvbNpXw
+271 W 119th StHarlemNew York, NY 10026	,tz_BWXOSswOpActxGCPBkw,tz_BWXOSswOpActxGCPBkw
+271 West 119th StHarlemNew York, NY 10026	,Lr_x2ey_DQs_8ACS-1t7rA,Lr_x2ey_DQs_8ACS-1t7rA
+273 Troy Schenectady RdLatham, NY 12110	,YozJ8FCKDT98XRq16XkpWg,YozJ8FCKDT98XRq16XkpWg
+274 River StTroy, NY 12180	,0vG-9vALQvqRCSDym6tIjg,0vG-9vALQvqRCSDym6tIjg
+275-277 W 113th StHarlemNew York, NY 10026	,vry0EIIXrlQnIZj3c3JdaQ,vry0EIIXrlQnIZj3c3JdaQ
+2751 BroadwayManhattan ValleyNew York, NY 10025	,trbr9pYDDmXCj9z8m2d6LQ,trbr9pYDDmXCj9z8m2d6LQ
+2752 BroadwayManhattan ValleyNew York, NY 10025	,hvN_aHs97trEN9JyasentQ,eJgMb8gAq-qYAIAx7ni3pw,eJgMb8gAq-qYAIAx7ni3pw,hvN_aHs97trEN9JyasentQ
+2753 Broadway#137Manhattan ValleyNew York, NY 10025	,0mix2993jHmq61moejcKsw,0mix2993jHmq61moejcKsw
+2753 BroadwayManhattan ValleyNew York, NY 10025	,vbZM50JsRYfZA7vlRNTV6A,vbZM50JsRYfZA7vlRNTV6A
+2756 BroadwayManhattan ValleyNew York, NY 10025	,EagYyiLaNjIVJ_HFDwlGBQ,EagYyiLaNjIVJ_HFDwlGBQ,3ayb8-X8BvPyFh_E6FLyyw,3ayb8-X8BvPyFh_E6FLyyw
+2760-62 BroadwayManhattan ValleyNew York, NY 10025	,-pSooH1maXBB3KYB1aJUZA,-pSooH1maXBB3KYB1aJUZA
+2764 BroadwayManhattan ValleyNew York, NY 10025	,Sp-ye5N_Ur7y-4tPutlLCw,Sp-ye5N_Ur7y-4tPutlLCw
+2766 BroadwayManhattan ValleyNew York, NY 10025	,Z113DscN6JTLTvVXNkYJSg,Z113DscN6JTLTvVXNkYJSg
+2770 BroadwayManhattan ValleyNew York, NY 10025	,3j8fKvgZGyd5A5mszRm9ow,DphtfC7hEDYik1Raf7VN0Q,DphtfC7hEDYik1Raf7VN0Q,3j8fKvgZGyd5A5mszRm9ow
+278 River StTroy, NY 12180	,0c_Qj-WdlvMS5OjeitYiPA,0c_Qj-WdlvMS5OjeitYiPA
+2780 BroadwayManhattan ValleyNew York, NY 10025	,HpQ6_Zbx7NAARO3TDMykTg,MF8l_0vWjjNgv5dOuf3w0g,HpQ6_Zbx7NAARO3TDMykTg,MF8l_0vWjjNgv5dOuf3w0g
+2781 BroadwayManhattan ValleyNew York, NY 10025	,pZIjbdQQ-OxqmRgNoXQy6A,pZIjbdQQ-OxqmRgNoXQy6A
+2785 BroadwayManhattan ValleyNew York, NY 10025	,ncSgY1qZEM7LkkytY6Cehg,ncSgY1qZEM7LkkytY6Cehg
+2787 BroadwayManhattan ValleyNew York, NY 10025	,cRyZA1k3nvqj_0s_kr7HGA,cRyZA1k3nvqj_0s_kr7HGA
+2788 BroadwayManhattan ValleyNew York, NY 10025	,JV5oa5-KGdiWnqrKPoxSug,JV5oa5-KGdiWnqrKPoxSug
+279 Troy Schenectady RdLatham, NY 12110	,3U8qV1diOncXGqwSiTCNrg,3U8qV1diOncXGqwSiTCNrg
+2790 BroadwayManhattan ValleyNew York, NY 10025	,iiT9quS6_oyEO5vrNCt-6g,iiT9quS6_oyEO5vrNCt-6g
+2791 BroadwayManhattan ValleyNew York, NY 10025	,KgfFn5Z51DZoUzhJ186a0A,KgfFn5Z51DZoUzhJ186a0A
+2794 BroadwayManhattan ValleyNew York, NY 10025	,PL2a8E44ug8gMwVJMnovRA,PL2a8E44ug8gMwVJMnovRA
+2799 Broadway 108th StManhattan ValleyNew York, NY 10025	,_5BoZ_C5zEl5M_MxT1W39w,_5BoZ_C5zEl5M_MxT1W39w
+280 St. Nicholas Ave2nd FlHarlemNew York, NY 10027	,Ksadbzi6BFnyDH9QM9rWkw,Ksadbzi6BFnyDH9QM9rWkw
+2800 BroadwayManhattan ValleyManhattan, NY 10025	,Vf0-szX1DxTVYhpnJCwr9w,Vf0-szX1DxTVYhpnJCwr9w
+2800 BroadwayManhattan ValleyNew York, NY 10025	,nGgdoc8XIYYb055OIu4SgQ,nGgdoc8XIYYb055OIu4SgQ
+2801 BroadwayManhattan ValleyNew York, NY 10025	,PXWGgHRDcG6mxuOJTAX4uQ,2rz3Yjnx5tWy8rg0za-1Nw,PXWGgHRDcG6mxuOJTAX4uQ,2rz3Yjnx5tWy8rg0za-1Nw
+2803 BroadwayManhattan ValleyNew York, NY 10025	,eUVb_-vfK2MMQzz5915a6g,eUVb_-vfK2MMQzz5915a6g
+2805 BroadwayManhattan ValleyNew York, NY 10025	,beGJA4u0NR4ErRkIj2oCqA,beGJA4u0NR4ErRkIj2oCqA,eOqXigYmWoIRxwnCfLFDyA,eOqXigYmWoIRxwnCfLFDyA
+2807 BroadwayManhattan ValleyManhattan, NY 10025	,7wDXPk1DdQ5sqeXEBFSCmw,7wDXPk1DdQ5sqeXEBFSCmw
+2808 BroadwayManhattan ValleyNew York, NY 10025	,ME3oRPNyRLdPJQMesro_dw,ME3oRPNyRLdPJQMesro_dw
+2809 BroadwayManhattan ValleyNew York, NY 10025	,-JuT_VuVL0OfoY3ccYGy4w,-JuT_VuVL0OfoY3ccYGy4w
+2812 BroadwayManhattan ValleyManhattan, NY 10025	,xpOmNQpzBcqGGe3tkjhzYQ,xpOmNQpzBcqGGe3tkjhzYQ
+2814 BroadwayManhattan ValleyManhattan, NY 10025	,VVMds_KcnFjQdbveMUVmbg,VVMds_KcnFjQdbveMUVmbg
+2814 BroadwayManhattan ValleyNew York, NY 10025	,OrCXDG0nyWd3mjrodikI8Q,OrCXDG0nyWd3mjrodikI8Q
+2818 BroadwayManhattan ValleyNew York, NY 10025	,6Ug_QIOr-WHc1JzsbQ_H-A,6Ug_QIOr-WHc1JzsbQ_H-A
+282 River StTroy, NY 12180	,zx1lLUvlRUN5nQlSj3HRDw,cVDDun_EfmgJTTSmbPQ8dw,cVDDun_EfmgJTTSmbPQ8dw,zx1lLUvlRUN5nQlSj3HRDw
+2821 BroadwayManhattan ValleyNew York, NY 10025	,esLb_xHNGCzKbxUiEsaT3w,esLb_xHNGCzKbxUiEsaT3w
+2824-26 BroadwayManhattan ValleyNew York, NY 10025	,FL9eDUQdDWvK2_ctYIgYDw,FL9eDUQdDWvK2_ctYIgYDw
+2825 BroadwayManhattan ValleyNew York, NY 10025	,lHozwGwIjXpp7VWwaDw2XA,lHozwGwIjXpp7VWwaDw2XA
+2826 N Triphammer RdIthaca, NY 14850	,ldun0FoXSqeerNv0V-49Zg,ldun0FoXSqeerNv0V-49Zg
+2828 BroadwayManhattan ValleyManhattan, NY 10025	,lK22GyWM6Z3dmIlRRAv-KA,lK22GyWM6Z3dmIlRRAv-KA
+283 W 118th StreetHarlemNew York, NY 10026	,YNgBR2pGWmMZAYFQbByODA,YNgBR2pGWmMZAYFQbByODA
+2830 BroadwayManhattan ValleyNew York, NY 10025	,UP4mTMVYgEZFHUxoF--QQQ,UP4mTMVYgEZFHUxoF--QQQ
+2831 BroadwayManhattan ValleyNew York, NY 10025	,ROGnIn2Hnwlrn7tdUzq7qA,ROGnIn2Hnwlrn7tdUzq7qA
+2833 BroadwayManhattan ValleyNew York, NY 10025	,XtQj7b9h5iCqiBM1xctsbQ,XtQj7b9h5iCqiBM1xctsbQ
+284 2nd StTroy, NY 12180	,Ujmz1mj7mlokaHbIgEwL7g,Ujmz1mj7mlokaHbIgEwL7g
+284 River StTroy, NY 12180	,lzdwIQbxgIePMoalQvyhew,lzdwIQbxgIePMoalQvyhew
+284 Saint Nicholas AveHarlemManhattan, NY 10027	,Dq02EVJCc6Qck3eFywZyTw,Dq02EVJCc6Qck3eFywZyTw
+2840 BroadwayManhattan ValleyNew York, NY 10025	,7SsaAHy2WjyEcdSgFEZTGw,7SsaAHy2WjyEcdSgFEZTGw
+2841 BroadwayMorningside HeightsNew York, NY 10025	,MbOrrPCdUxAJk6aW6L7lzA,MbOrrPCdUxAJk6aW6L7lzA,-8H1cK_UrrwnL2oh_ts2Vw,-8H1cK_UrrwnL2oh_ts2Vw
+2843 BroadwayManhattan ValleyNew York, NY 10025	,8oHCb-XvLpqCQD7En17Fzw,8oHCb-XvLpqCQD7En17Fzw
+2845 BroadwayMorningside HeightsNew York, NY 10025	,-7HhGiTMjIuosPRNSoyTOA,-7HhGiTMjIuosPRNSoyTOA
+2847 BroadwayMorningside HeightsNew York, NY 10025	,froxnvO6lVnzrTBS4p_W_g,froxnvO6lVnzrTBS4p_W_g,n1C1A6jmHKRjqO0yNRidgA,n1C1A6jmHKRjqO0yNRidgA
+2848 BroadwayMorningside HeightsNew York, NY 10025	,A46G2OAvLxFswiONB50Rrg,A46G2OAvLxFswiONB50Rrg
+285 River StTroy, NY 12180	,ea3P6cp6T5-_GiToKF-kgw,ea3P6cp6T5-_GiToKF-kgw
+2850 BroadwayMorningside HeightsNew York, NY 10025	,NRQbIOVnEnsJ8t2xg7W_zg,qT9P64pYtAEjipB4SXGolA,NRQbIOVnEnsJ8t2xg7W_zg,qT9P64pYtAEjipB4SXGolA
+2851 BroadwayMorningside HeightsManhattan, NY 10025	,8w2Wqa649lJTVL5AfJTvRw,8w2Wqa649lJTVL5AfJTvRw
+2851 BroadwayMorningside HeightsNew York, NY 10025	,AyeuO1bEavABUBH27Nd_RA,AyeuO1bEavABUBH27Nd_RA
+2855 BroadwayMorningside HeightsNew York, NY 10025	,GuYgVQJJctygO-YHpv5bBA,GuYgVQJJctygO-YHpv5bBA
+2857 BroadwayMorningside HeightsNew York, NY 10025	,D3Sw_VHsaQGYdQjsZDv-Nw,D3Sw_VHsaQGYdQjsZDv-Nw,uLWP9FVdklJXP37BsT6YIA,yQk97Xh9kBZOrE3vWFB79g,uLWP9FVdklJXP37BsT6YIA,yQk97Xh9kBZOrE3vWFB79g
+2859 BroadwayMorningside HeightsNew York, NY 10025	,F6ReGpF94EKWzh6dSRVIrQ,F6ReGpF94EKWzh6dSRVIrQ
+2861 BroadwayMorningside HeightsNew York, NY 10025	,U8gp6gVrWo6_TLGXUC1AiQ,U8gp6gVrWo6_TLGXUC1AiQ
+2864 BroadwayMorningside HeightsNew York, NY 10025	,x9I2dXszYNvO6gBZq5Bikw,x9I2dXszYNvO6gBZq5Bikw
+2867 BroadwayMorningside HeightsNew York, NY 10025	,vHzWvZYbkoHY_071J-lPRw,gtVk7m6eldEfsJFD9LHRUg,vHzWvZYbkoHY_071J-lPRw,gtVk7m6eldEfsJFD9LHRUg
+2868 BroadwayMorningside HeightsNew York, NY 10025	,veXpjFt4J5TFnG3eKLweDw,veXpjFt4J5TFnG3eKLweDw,bi0dOVHmmoqE9h4mDGWpMg,bi0dOVHmmoqE9h4mDGWpMg
+2869 BroadwayMorningside HeightsNew York, NY 10025	,v13Ur9Yf2EhvGlvPAaFNeQ,v13Ur9Yf2EhvGlvPAaFNeQ
+2870 BroadwayMorningside HeightsNew York, NY 10025	,LdY3jfq2Pym6LMv_Od_ROQ,LdY3jfq2Pym6LMv_Od_ROQ
+2872 BroadwayMorningside HeightsNew York, NY 10025	,vgT0WIPsuEoM8TF2LVnXkA,vgT0WIPsuEoM8TF2LVnXkA
+2873 BroadwayMorningside HeightsNew York, NY 10025	,yiR4dDit58T8pYg1GMvO3Q,yiR4dDit58T8pYg1GMvO3Q
+2875 BroadwayMorningside HeightsNew York, NY 10025	,0msu7esqmZC3TB-i7QijAg,0msu7esqmZC3TB-i7QijAg
+2876 BroadwayMorningside HeightsNew York, NY 10025	,dXO0TAdU8RCDw54r2MQLrA,dXO0TAdU8RCDw54r2MQLrA,eZwpGce3VhhCkdczTUQO1g,eZwpGce3VhhCkdczTUQO1g
+2878 BroadwayMorningside HeightsNew York, NY 10025	,iAHDd35F8-WWx9kEEMPygA,oRF8tpn0SoXb6QP7qf0iPg,iAHDd35F8-WWx9kEEMPygA,oRF8tpn0SoXb6QP7qf0iPg
+288 River StTroy, NY 12180	,gRiYNQeRRCQeHXHBp5m7PQ,gRiYNQeRRCQeHXHBp5m7PQ
+2880 BroadwayMorningside HeightsNew York, NY 10025	,6nOxwnuN0ZwLX3h3JYSJnA,6nOxwnuN0ZwLX3h3JYSJnA
+2881 BroadwayMorningside HeightsNew York, NY 10025	,JJE21nzSNWn_mP6xWApyHQ,JJE21nzSNWn_mP6xWApyHQ
+2882 BroadwayMorningside HeightsNew York, NY 10025	,7YW6FGfOKG5IaSca0wW8WA,7YW6FGfOKG5IaSca0wW8WA
+2884 BroadwayMorningside HeightsNew York, NY 10025	,hhjiOiS8dN4xnsBTkksIOw,hhjiOiS8dN4xnsBTkksIOw
+2885 BroadwayMorningside HeightsNew York, NY 10025	,hD55NUiGDK7STQ8oy9QDPA,hD55NUiGDK7STQ8oy9QDPA
+2888 BroadwayMorningside HeightsManhattan, NY 10025	,7ZjXpKwP78R-02w12kLT4w,7ZjXpKwP78R-02w12kLT4w
+2888 BroadwayMorningside HeightsNew York, NY 10025	,BcVx7vnk1CivTpB45SYDUg,BcVx7vnk1CivTpB45SYDUg,Zgf2Thpp7LeYE_Bg0QDzDg,Zgf2Thpp7LeYE_Bg0QDzDg
+2892 BroadwayMorningside HeightsNew York, NY 10025	,JY576sTpB3ljay2IAajZ2w,JY576sTpB3ljay2IAajZ2w
+2893 BroadwayMorningside HeightsNew York, NY 10025	,LdHt0nc2RJ6BBvR0itYNpg,K-vL-ShpGsgbwf5chcE6vg,LdHt0nc2RJ6BBvR0itYNpg,K-vL-ShpGsgbwf5chcE6vg,8lLs3dsSN-Am2_EtNfbXqA,8lLs3dsSN-Am2_EtNfbXqA
+2895 BroadwayMorningside HeightsNew York, NY 10025	,DgHEzcSBotbfxW-IJPAMuQ,DgHEzcSBotbfxW-IJPAMuQ
+2896 BroadwayMorningside HeightsNew York, NY 10025	,U7UVERrPVvLJ8HN6TI92DQ,U7UVERrPVvLJ8HN6TI92DQ
+2897 BroadwayMorningside HeightsNew York, NY 10025	,1mOcldfqbByxAaB0steLdg,1mOcldfqbByxAaB0steLdg
+29 Saratoga AvenueWaterford, NY 12188	,pqKqkaM46QVqpuIKArXqcQ,pqKqkaM46QVqpuIKArXqcQ
+29 Thornwood DrIthaca, NY 14850	,otS569Z2BeXgGmvhDZVAbw,otS569Z2BeXgGmvhDZVAbw
+290 River StTroy, NY 12181	,0cALZVqrn6irOcouUgpDNg,0cALZVqrn6irOcouUgpDNg
+2900 6th AveTroy, NY 12180	,UDu83WODpjGB5yMzz0-h5A,UDu83WODpjGB5yMzz0-h5A
+2900 BroadwayMorningside HeightsNew York, NY 10025	,x5IFNKlTXgDNTQTlQrRC6Q,x5IFNKlTXgDNTQTlQrRC6Q
+2901 BroadwayMorningside HeightsNew York, NY 10025	,3BT-TXQSa_Sc_BZ7fp4EMw,A1clCjm42q1IN_PzL42TaA,A1clCjm42q1IN_PzL42TaA,3BT-TXQSa_Sc_BZ7fp4EMw
+2903 BroadwayMorningside HeightsNew York, NY 10025	,6EBepymYHjT7bvZ1ROgvPg,6EBepymYHjT7bvZ1ROgvPg
+2905 BroadwayMorningside HeightsNew York, NY 10025	,kPrtQoij3ec8wmRMmQ_3mQ,kPrtQoij3ec8wmRMmQ_3mQ
+2906-08 BroadwayMorningside HeightsNew York, NY 10025	,OiDohphqxOh2ux3mymjifg,OiDohphqxOh2ux3mymjifg
+2909 BroadwayMorningside HeightsNew York, NY 10025	,8os_GCZlqyY8_q-T_NcYSw,8os_GCZlqyY8_q-T_NcYSw
+291 River StTroy, NY 12180	,yhEbFukQPFn2Op5E0cZ-og,yhEbFukQPFn2Op5E0cZ-og
+2911 BroadwayMorningside HeightsNew York, NY 10025	,-AQJhfna4qcxfDnCGx_yLA,H8TAPuQZa_pFaitbRnpY8Q,-AQJhfna4qcxfDnCGx_yLA,H8TAPuQZa_pFaitbRnpY8Q
+2913 BroadwayMorningside HeightsNew York, NY 10025	,HyceEAyGl0t6_-LJbxMq2A,HyceEAyGl0t6_-LJbxMq2A
+2915 BroadwayBasementMorningside HeightsNew York, NY 10025	,7vXc_nhuo4HLHfeSxmLCVQ,7vXc_nhuo4HLHfeSxmLCVQ
+2915 BroadwayMorningside HeightsManhattan, NY 10025	,XeMiuviEjIrL1jOEBlOQfQ,XeMiuviEjIrL1jOEBlOQfQ
+2915 BroadwayMorningside HeightsNew York, NY 10025	,3m3CtZ5xtthNFq23BLYR7w,3m3CtZ5xtthNFq23BLYR7w
+2920 BroadwayGround FloorHarlemNew York, NY 10027	,mloTr0nez9YBSqv-WPw7Kg,mloTr0nez9YBSqv-WPw7Kg
+2920 BroadwayMorningside HeightsNew York, NY 10027	,VQmCCmUps9DUS2MA9Su0yQ,fco4qToL2DhnVamv0yaW4w,fco4qToL2DhnVamv0yaW4w,VQmCCmUps9DUS2MA9Su0yQ
+2922 BroadwayMorningside HeightsNew York, NY 10025	,xy7eTlGnNJ2A99ot8vho1g,xy7eTlGnNJ2A99ot8vho1g
+2929 Broadway2nd FlMorningside HeightsNew York, NY 10025	,Pt5lXkpGD1LRv0zLpCn0KA,Pt5lXkpGD1LRv0zLpCn0KA
+2933 BroadwayMorningside HeightsNew York, NY 10025	,sR69be9vQIWj1sZ55DNAjQ,sR69be9vQIWj1sZ55DNAjQ
+2935 BroadwayMorningside HeightsNew York, NY 10025	,Hc-uW3uYqAOyB2as00J9og,Hc-uW3uYqAOyB2as00J9og
+2937 BroadwayMorningside HeightsManhattan, NY 10025	,_DPEAIvsH92phbwh2W-ADA,_DPEAIvsH92phbwh2W-ADA
+2937 BroadwayMorningside HeightsNew York, NY 10025	,nfHJNQyVw4M6VTx5bqvnxw,nfHJNQyVw4M6VTx5bqvnxw
+294 N Greenbush RdTroy, NY 12180	,n9KSfii0GCOJOhDJLAXJ7Q,n9KSfii0GCOJOhDJLAXJ7Q
+2941 BroadwayMorningside HeightsManhattan, NY 10025	,n5FCAlZSWkOX-H8infzS6Q,n5FCAlZSWkOX-H8infzS6Q
+295 W 112th StHarlemNew York, NY 10026	,1fRrL8uOb5jY09BKlc1hjg,1fRrL8uOb5jY09BKlc1hjg
+2950 BroadwayColumbia University, School of JournalismMorningside HeightsManhattan, NY 10027	,l9OMQ7JKxM5ues3nKEGwcg,l9OMQ7JKxM5ues3nKEGwcg
+2955 BroadwayMorningside HeightsNew York, NY 10025	,AeFCye5vFfyJzlKngrzrNA,CkRngbZWvrktBRQHlvg78A,CkRngbZWvrktBRQHlvg78A,AeFCye5vFfyJzlKngrzrNA
+2955 BroadwayMorningside HeightsNew York, NY 10027	,PBYypuk9DN-ccqrfYEJ9JA,PBYypuk9DN-ccqrfYEJ9JA
+2957 BroadwayMorningside HeightsNew York, NY 10025	,-6ncX3fnQ9OLCjfiUe-kFg,-6ncX3fnQ9OLCjfiUe-kFg
+2960 BroadwayMC 5727Morningside HeightsNew York, NY 10027	,vrqDdDabgrBnwWvh_E5RSQ,vrqDdDabgrBnwWvh_E5RSQ
+2980 BroadwayMorningside HeightsNew York, NY 10027	,iJzwK3qLFulaK4MNVMrdDw,iJzwK3qLFulaK4MNVMrdDw
+299 Ontario StCohoes, NY 12047	,cocdGBNpyncd4sIy9lWasQ,cocdGBNpyncd4sIy9lWasQ
+3 579 Troy Schenectady RdLatham, NY 12110	,9Qor562YgEIn4nagoBxBNA,9Qor562YgEIn4nagoBxBNA
+3 Claremont AveMorningside HeightsNew York, NY 10027	,VGjOJiyz0RzTnELUiFr4ow,VGjOJiyz0RzTnELUiFr4ow
+3 Oakland AveMenands, NY 12204	,b2YuexxzaKX7299OrgLvMA,b2YuexxzaKX7299OrgLvMA
+3 Wolfert AveMenands, NY 12204	,7TGERtQHj93y6suqikzAPw,7TGERtQHj93y6suqikzAPw
+300 Ontario StCohoes, NY 12047	,0myzfKLg9mjBHev9F0s09w,0myzfKLg9mjBHev9F0s09w
+300 W 114th StHarlemNew York, NY 10026	,4rWJGwb3rjDoZHA0AECa5A,4rWJGwb3rjDoZHA0AECa5A
+300 West 110th StManhattan ValleyNew York, NY 10025	,Qn10NNqKN3f85VdK15VOLw,Qn10NNqKN3f85VdK15VOLw
+3009 BroadwayMorningside HeightsNew York, NY 10027	,oJNvyW31m-Gn0FzSJ8dMKw,oJNvyW31m-Gn0FzSJ8dMKw
+301 Cathedral PkwyManhattan ValleyNew York, NY 10026	,00rrqw4O0Flfatd0VV6QAg,mBr6BUNc6rEUcp9BJcJMCg,00rrqw4O0Flfatd0VV6QAg,mBr6BUNc6rEUcp9BJcJMCg
+301 College AveIthaca, NY 14850	,v4ACmVJr7ZXGP9uEbHfosw,v4ACmVJr7ZXGP9uEbHfosw
+301 W 110th StHarlemNew York, NY 10025	,bEec28P1CziowM9LrNkNsg,bEec28P1CziowM9LrNkNsg
+301 W 110th StHarlemNew York, NY 10026	,cLAOudmDmfsOCc3h1frWAA,Q9lR_PhTic46VgMdeMmUTw,cLAOudmDmfsOCc3h1frWAA,Q9lR_PhTic46VgMdeMmUTw
+301 W 113th  StHarlemNew York, NY 10026	,-HiJVN0WkFQ_PsdxMJOngA,-HiJVN0WkFQ_PsdxMJOngA
+301 W 116th StHarlemNew York, NY 10026	,uCsyRxfIfiRqQQuK_JlfZA,uCsyRxfIfiRqQQuK_JlfZA
+301 W 118th StHarlemNew York, NY 10026	,AdUzjrcMFSUmvw9gCFF08g,AdUzjrcMFSUmvw9gCFF08g
+301 West 110th StreetHarlemNew York, NY 10026	,xBF3jvTc5knr9RvtV4mOWA,xBF3jvTc5knr9RvtV4mOWA
+302 Lake StIthaca, NY 14850	,sBlXj41G7RPtFYCfnOlD0g,sBlXj41G7RPtFYCfnOlD0g
+302 W Green StIthaca, NY 14850	,a_A8RcUn4-aNJJwN1-TXIw,a_A8RcUn4-aNJJwN1-TXIw
+303 N Aurora StIthaca, NY 14850	,2xOXboOQJfxoagBqrLXO_g,2xOXboOQJfxoagBqrLXO_g
+303 Troy Schenectady RdLatham, NY 12110	,8usIRMyUl-Zc279N70kWig,8usIRMyUl-Zc279N70kWig
+303 W 116th StreetHarlemNew York, NY 10026	,Rt0fJK1BA9dQDWSX1usBMg,Rt0fJK1BA9dQDWSX1usBMg
+304 S Cayuga StIthaca, NY 14850	,NTvmn_-bdTP8wGKLD--JWg,NTvmn_-bdTP8wGKLD--JWg
+304 W 115th StHarlemManhattan, NY 10026	,Ztpv2dSPqCwR9tyjXBlovg,Ztpv2dSPqCwR9tyjXBlovg
+304 W 117th StHarlemNew York, NY 10026	,zgGK2GYpEPkPlo_fMdga5w,zgGK2GYpEPkPlo_fMdga5w
+3041 BroadwayMorningside HeightsNew York, NY 10027	,Z18kU54sQwFi_px-PpdvIQ,Z18kU54sQwFi_px-PpdvIQ
+305 Stewart AveIthaca, NY 14850	,fSFb98pIz-FQochhvsKioA,fSFb98pIz-FQochhvsKioA
+3060 BroadwayMorningside HeightsNew York, NY 10027	,cf4ygT87Krgbo9cXvSikVA,cf4ygT87Krgbo9cXvSikVA
+3066 BroadwayMorningside HeightsManhattan, NY 10027	,nL6fL-kFpNSCrLdYM7qNZg,nL6fL-kFpNSCrLdYM7qNZg
+3070 BroadwayMorningside HeightsManhattan, NY 10027	,kTSejIjmKGsK1Erwdser4g,kTSejIjmKGsK1Erwdser4g
+308 Stewart AveIthaca, NY 14850	,I-chJJ72VHd_-WAaRVWhTg,I-chJJ72VHd_-WAaRVWhTg
+308 Stewart AveIthaca, NY 14853	,Swm_L7Ang0UkSE0i9FdG0Q,Swm_L7Ang0UkSE0i9FdG0Q
+308-310 Stewart Ave.Ithaca, NY 14850	,WoLPc82ME2S9jcFQdm7ErA,WoLPc82ME2S9jcFQdm7ErA
+3080 BroadwayMorningside HeightsNew York, NY 10027	,2Z-St3VTm6vdYCJxE3Q9HA,2Z-St3VTm6vdYCJxE3Q9HA
+309 E Lincoln StIthaca, NY 14850	,bSs6PgwqIa7QeimK7gokOQ,bSs6PgwqIa7QeimK7gokOQ
+310 19th StWatervliet, NY 12189	,7VkQeZ-xbyq0b1UWema6KA,7VkQeZ-xbyq0b1UWema6KA
+310 Stewart AveIthaca, NY 14850	,mtcQaABZsZ3VQaGnpwPIeQ,mtcQaABZsZ3VQaGnpwPIeQ
+310 Taughannock BlvdIthaca, NY 14850	,8XnaYCZxSH-K5_Bs1bIa_Q,BVr-DHooewtP3_uq29dm4Q,8XnaYCZxSH-K5_Bs1bIa_Q,BVr-DHooewtP3_uq29dm4Q
+3102 7th AveTroy, NY 12180	,oBkgwRPRVa3Mnh9oP7CloQ,oBkgwRPRVa3Mnh9oP7CloQ
+311 3rd StIthaca, NY 14850	,UFXysUpA1VwB8HWhoAisjA,rVBicVN6W_p9LyWcLyscgw,UFXysUpA1VwB8HWhoAisjA,rVBicVN6W_p9LyWcLyscgw
+311 College AveIthaca, NY 14850	,FRPfithXCoYCPWRSV_pFlg,FRPfithXCoYCPWRSV_pFlg
+311 E Green StIthaca, NY 14850	,sB0RVG8EUi7IC6MwNVIHqw,sB0RVG8EUi7IC6MwNVIHqw
+3111 BroadwayHarlemNew York, NY 10027	,dVE7UAc0vtEk-V4fHfJUFg,dVE7UAc0vtEk-V4fHfJUFg
+312 E Seneca StIthaca, NY 14850	,xRNtLkW18YmnXMrlUdV8HA,xRNtLkW18YmnXMrlUdV8HA
+312 E Seneca StIthaca, NY 14853	,HVD97JegyHENmARIUcDHgA,HVD97JegyHENmARIUcDHgA
+313 College AveIthaca, NY 14850	,9y78ZlpIPAAgyApnPwIUcA,9y78ZlpIPAAgyApnPwIUcA
+3137 BroadwayHarlemNew York, NY 10027	,6bhanfNsWIbuhm6Y8YfxIA,6bhanfNsWIbuhm6Y8YfxIA
+3139 BroadwayHarlemNew York, NY 10027	,2JdCSsfcRQt0L_8DN3ttKA,2JdCSsfcRQt0L_8DN3ttKA
+314 E State StIthaca, NY 14850	,VtRlnXL818L1jzIeCPtcuQ,VtRlnXL818L1jzIeCPtcuQ
+3141 BroadwayHarlemManhattan, NY 10027	,60f6JzTRhOyOggsjCfvh5Q,60f6JzTRhOyOggsjCfvh5Q
+3141 BroadwayHarlemNew York, NY 10027	,IRQmUno4GQMvEDifCXO-cw,IRQmUno4GQMvEDifCXO-cw
+3143 BroadwayHarlemNew York City, NY 10027	,wvl4-g3MGtDICRzA0UHPLA,wvl4-g3MGtDICRzA0UHPLA
+3143 BroadwayHarlemNew York, NY 10027	,pIrSHmLYW6Bdjiz-HHWd1Q,TwwaezIakfJLmMvw9ChM_A,pIrSHmLYW6Bdjiz-HHWd1Q,TwwaezIakfJLmMvw9ChM_A
+3147 Broadway BsmtHarlemNew York, NY 10027	,-bp_6fQ4BerGGSDOwz0b1A,-bp_6fQ4BerGGSDOwz0b1A
+315 8th StWatervliet, NY 12189	,OV3MdfxlUaXKOQqwhumyMA,OV3MdfxlUaXKOQqwhumyMA
+315 Eddy StIthaca, NY 14850	,E6AZ7qymJWky85VFeeN0gg,E6AZ7qymJWky85VFeeN0gg
+315 Elmira RdIthaca, NY 14850	,EQOZh5sP-Ipo_JefIKAVqg,EQOZh5sP-Ipo_JefIKAVqg
+3151 BroadwayHarlemManhattan, NY 10027	,n_KosOPSHS81Yq0D6X3peQ,n_KosOPSHS81Yq0D6X3peQ
+3151 BroadwayHarlemNew York, NY 10027	,yKPRuBvD3ScCc18QrZ4Y6w,yKPRuBvD3ScCc18QrZ4Y6w
+3153 Broadway# 1HarlemNew York, NY 10027	,XZFuFuvKgbsY93ZHX7qsWQ,XZFuFuvKgbsY93ZHX7qsWQ
+3153 BroadwayHarlemManhattan, NY 10027	,ZKKRhDiNECZKtdu9CSFz6w,ZKKRhDiNECZKtdu9CSFz6w
+3155 BroadwayHarlemNew York, NY 10027	,gm9YBzKqckTX-3U6jNpQPw,6fH20sLUGIYcaBAN-ZSieA,6fH20sLUGIYcaBAN-ZSieA,gm9YBzKqckTX-3U6jNpQPw
+3157 BroadwayHarlemNew York, NY 10027	,VAkdznBlCPQ7KFvm-Kma0g,VAkdznBlCPQ7KFvm-Kma0g
+316 Troy-Schenectady RdWatervliet, NY 12189	,r7l6GHODyZqGu-ZA7-anUQ,r7l6GHODyZqGu-ZA7-anUQ
+3161 BroadwayHarlemNew York, NY 10027	,mqccXvBQsRFgB3YsgIWl5A,mqccXvBQsRFgB3YsgIWl5A
+3163 BroadwayHarlemNew York, NY 10027	,3uJAt1EHG0x9pz_c91AHuQ,3uJAt1EHG0x9pz_c91AHuQ
+318 E State StIthaca, NY 14850	,qm49474drbXCrbglTSzNFw,qm49474drbXCrbglTSzNFw
+318 N Aurora StIthaca, NY 14850	,HDh3eMccse_FTVLS2hO_AQ,HDh3eMccse_FTVLS2hO_AQ
+318 W 108th stManhattan ValleyManhattan, NY 10025	,TxAmfKVkfnXahe_VYtEaGg,TxAmfKVkfnXahe_VYtEaGg
+319 College Ave#AIthaca, NY 14850	,rRfAzKeP9qNYINEUvmwAbQ,rRfAzKeP9qNYINEUvmwAbQ
+319 College AveIthaca, NY 14850	,MezkIKtuDY_vwE0SXyMbww,MezkIKtuDY_vwE0SXyMbww
+319 Taughannock BlvdIthaca, NY 14850	,c2rs0ig1YXFS3D9cQWshoA,c2rs0ig1YXFS3D9cQWshoA
+319 W 107th StManhattan ValleyNew York, NY 10025	,h7SQEJRBX09Mjc_07crTpA,h7SQEJRBX09Mjc_07crTpA
+321 College AveIthaca, NY 14850	,XJfCTnV3W9SUkTh_3ddxkQ,XJfCTnV3W9SUkTh_3ddxkQ
+322 N Meadow StIthaca, NY 14850	,K8RBVMgQxJ5NRy6AB9XupQ,K8RBVMgQxJ5NRy6AB9XupQ
+323 Elmira RdIthaca, NY 14850	,i42mnnrM0FtvWjpBiHX10A,i42mnnrM0FtvWjpBiHX10A
+324 Dryden RdIthaca, NY 14850	,UlRhH4Vhy3qb_PwHxNXAhA,UlRhH4Vhy3qb_PwHxNXAhA
+324 Elmira Rd Ste 2Ithaca, NY 14850	,UbTmZYOHhYAx17R0iZpFMQ,UbTmZYOHhYAx17R0iZpFMQ
+324 Elmira RdIthaca, NY 14850	,LnJ6x6oVib3AHRbg38ZzKw,LnJ6x6oVib3AHRbg38ZzKw
+326 5th AveTroy, NY 12182	,_M7mLNPK6xS805OYFgfaEQ,_M7mLNPK6xS805OYFgfaEQ
+327 Malcolm X Blvd Frnt 1HarlemNew York, NY 10027	,V44yB2G3Oi2KYrveJ0CUEw,V44yB2G3Oi2KYrveJ0CUEw
+328 W 125th StreetHarlemNew York, NY 10027	,JEscBi56L8snb7wlqbdXMw,JEscBi56L8snb7wlqbdXMw
+329 S Geneva StIthaca, NY 14850	,jY5QY9HldIQEdTTaexGIYg,jY5QY9HldIQEdTTaexGIYg
+33 2nd StTroy, NY 12180	,OoBW8j67vk90L5a2SF29Sw,cnSXX4gGaEGy75BElLiSDw,OoBW8j67vk90L5a2SF29Sw,cnSXX4gGaEGy75BElLiSDw
+330 College AveIthaca, NY 14850	,cnMZ-Y0qWS-vwDj3u7sCQQ,cnMZ-Y0qWS-vwDj3u7sCQQ
+3300 6th AveTroy, NY 12180	,0QK8ngsI3OA-X5z7Wuqx9w,0QK8ngsI3OA-X5z7Wuqx9w
+335 E State StIthaca, NY 14850	,x--X9kEBF6Mg15-gDJ7MFQ,x--X9kEBF6Mg15-gDJ7MFQ
+335 Elmira RdIthaca, NY 14850	,uCJcdY3aq6atQoAmfHVkgA,9nXLjrzvjMAnj8kCL5PMEw,9nXLjrzvjMAnj8kCL5PMEw,uCJcdY3aq6atQoAmfHVkgA,0F5Ee5Omg-gyMy-FJcy6NA,0F5Ee5Omg-gyMy-FJcy6NA
+335 Pine Tree RdIthaca, NY 14850	,N-gK6k_HficaGfEILyT5cw,N-gK6k_HficaGfEILyT5cw
+337 BroadwayAlbany, NY 12204	,9v4-hQQkdcHaAaOTtEaSAA,9v4-hQQkdcHaAaOTtEaSAA
+337 Elmira RdIthaca, NY 14850	,rMLWGTwcastkh7UAljlbdg,rMLWGTwcastkh7UAljlbdg
+339 Elmira RdIthaca, NY 14850	,FycA9YpyKg-5jZ9b1k2OaQ,FycA9YpyKg-5jZ9b1k2OaQ
+340 Elmira RdIthaca, NY 14850	,YhV_UvOd0iHvmU4tefFLFQ,YhV_UvOd0iHvmU4tefFLFQ
+342 N Mohawk StCohoes, NY 12047	,GkYn-SOBchBmhXuD-TZHgw,GkYn-SOBchBmhXuD-TZHgw
+344 Elmira RdIthaca, NY 14850	,ozEhcaxRvH9NtwbBoUatPQ,ozEhcaxRvH9NtwbBoUatPQ
+347 Elmira RdIthaca, NY 14850	,8sa7w4HNK9Vh_fAeqhrL2g,8sa7w4HNK9Vh_fAeqhrL2g
+3496 BroadwayHarlemNew York, NY 10027	,DGPkpfu9hm-ETpU6jL-ujQ,DGPkpfu9hm-ETpU6jL-ujQ
+35 Saratoga Ave Ste AWaterford, NY 12188	,dspu8bCnuCZ4789nkt9mog,dspu8bCnuCZ4789nkt9mog
+35 W 125th Street Rm 8HarlemNew York, NY 10027	,CYr_ln80SyS1B6Equ1qHUg,CYr_ln80SyS1B6Equ1qHUg
+350 2nd AveTroy, NY 12182	,QJ7KuBFj6iKmyS4BVGGJnQ,QJ7KuBFj6iKmyS4BVGGJnQ
+350 Troy Schenectady RdLatham, NY 12110	,kRGusS1bQCB5XIm0bhCkug,kRGusS1bQCB5XIm0bhCkug
+353 W 125th StHarlemNew York, NY 10027	,nrceacHfm6Ada7aAiTXtkg,nrceacHfm6Ada7aAiTXtkg
+354 W 125th StHarlemManhattan, NY 10027	,wKfyiP-eNWLSXF6CjWbI_A,wKfyiP-eNWLSXF6CjWbI_A
+355 W 116th StHarlemNew York, NY 10026	,aVBHU_OAEau7sdk73EpNwA,aVBHU_OAEau7sdk73EpNwA
+356 Elmira RdIthaca, NY 14850	,CyBo_6qf6A_ARgJ_vU5Ecw,CyBo_6qf6A_ARgJ_vU5Ecw
+357 Elmira RdIthaca, NY 14850	,3vTFn7A5DsnwGzYlrnN-sw,3vTFn7A5DsnwGzYlrnN-sw
+357 W 125th StHarlemNew York, NY 10027	,I_OPhKQDHUXHXDtFOtJCrg,I_OPhKQDHUXHXDtFOtJCrg
+36 Cinema DrIthaca, NY 14850	,5fXFbJ4crFN2l0GlMhWWUQ,5fXFbJ4crFN2l0GlMhWWUQ
+360 W 110th StManhattan ValleyNew York, NY 10025	,R7YIFFhAcUODUVz99QeaMQ,R7YIFFhAcUODUVz99QeaMQ
+360 W 125Th StSte 2HarlemNew York, NY 10027	,AfB4qMOvU6CpIPsxMVH9kw,AfB4qMOvU6CpIPsxMVH9kw
+363 BroadwayTroy, NY 12180	,47GachdlegITs2hvEzssGQ,47GachdlegITs2hvEzssGQ
+365 W 125th StHarlemNew York, NY 10027	,TVuP5NxTCA9rZipSmAfirw,TVuP5NxTCA9rZipSmAfirw
+366 W 110th StManhattan ValleyNew York, NY 10025	,4GYc1Ld8r4rGQJKz_Qp07A,4GYc1Ld8r4rGQJKz_Qp07A
+369 3rd AveWatervliet, NY 12189	,0gR9Q8ryRo4JovNgtc_M1g,0gR9Q8ryRo4JovNgtc_M1g
+369 Troy Schenectady RdLatham, NY 12110	,fKf3nZKgXBnQtoJWIdAWmA,fKf3nZKgXBnQtoJWIdAWmA
+370 Elmira RoadIthaca, NY 14850	,mr2Tcm384o_BdHMgxOrkaQ,mr2Tcm384o_BdHMgxOrkaQ
+374 Elmira RdIthaca, NY 14850	,nvd_6PF7AggAgQeme2E3Pg,nvd_6PF7AggAgQeme2E3Pg
+375 W 125th St FrntHarlemNew York, NY 10027	,-9Av_wLuyB6sv7DQeOocgA,-9Av_wLuyB6sv7DQeOocgA
+377 River StTroy, NY 12180	,6Ld6AS4Qa_kVessELWw_tw,_I_zkF7gWl9xm5KmHrWBMg,_I_zkF7gWl9xm5KmHrWBMg,6Ld6AS4Qa_kVessELWw_tw
+380 N Greenbush RdTroy, NY 12180	,iFe05w4Qs6NKMgRhEkj8AA,iFe05w4Qs6NKMgRhEkj8AA
+381 BroadwayMenands, NY 12204	,4sCVUl0HBwgBszn4vtCoeg,Fp8FUjuMRCPVNYPfyeVq0w,Fp8FUjuMRCPVNYPfyeVq0w,4sCVUl0HBwgBszn4vtCoeg
+381 Pine Tree RdIthaca, NY 14850	,0ouRW6X9JIzOdE-c5NEpsg,0i2wGD6sVeQ3NtDKet2ETw,0i2wGD6sVeQ3NtDKet2ETw,0ouRW6X9JIzOdE-c5NEpsg
+383 W 125th StHarlemNew York, NY 10027	,XSZDmxCJIJ5BVXHwjDR5ag,XSZDmxCJIJ5BVXHwjDR5ag
+387 3rd StTroy, NY 12180	,0B28Fy2vkAF5sLnUyaAqaA,0B28Fy2vkAF5sLnUyaAqaA
+39 Hill StTroy, NY 12180	,HxXDxUzFAhsOgOxH78MyGg,HxXDxUzFAhsOgOxH78MyGg
+390 Manhattan AveHarlemManhattan, NY 10026	,pDEvJfSbXV6RaxDTwNTmWQ,pDEvJfSbXV6RaxDTwNTmWQ
+391 N Greenbush RdTroy, NY 12180	,HDEP7eFGhs3DYIXRETVlkQ,HDEP7eFGhs3DYIXRETVlkQ
+4 4th StTroy, NY 12180	,YVDfVKznxZpDDkk_Lor-1w,YVDfVKznxZpDDkk_Lor-1w
+4 Northern DrTroy, NY 12182	,gNLgH9yqB2iSjacFpa69jA,gNLgH9yqB2iSjacFpa69jA
+40 Catherwood Rd.The Shops At Ithaca MallIthaca, NY 14850	,mfzboF9DeMgIadJpFVL4kA,mfzboF9DeMgIadJpFVL4kA
+40 Catherwood RdIthaca, NY 14850	,4zbi6yjv64spii1OlfzF7g,4zbi6yjv64spii1OlfzF7g,Q8oXUks0GYAjz4EZ_neQ_Q,Q8oXUks0GYAjz4EZ_neQ_Q
+40 Catherwood RdSte 2Ithaca, NY 14850	,jRdNilj5s850EVGUXvR4vg,jRdNilj5s850EVGUXvR4vg
+40 Catherwood RdSte 49Ithaca, NY 14850	,Q3RMsLeHCAidL5E_axgYcA,Q3RMsLeHCAidL5E_axgYcA
+40 Catherwood RdSte 84Ithaca, NY 14850	,1Rxz-NEYG17ljdXFdgIF-A,1Rxz-NEYG17ljdXFdgIF-A
+40 Lincoln AveWatervliet, NY 12189	,dpwBwaqTxF631JTtppK5Yg,dpwBwaqTxF631JTtppK5Yg
+40 Main AveWynantskill, NY 12198	,Pa4kzzo2d1AUM95Hcrh7lA,Pa4kzzo2d1AUM95Hcrh7lA
+40 Morningside AveMorningside HeightsManhattan, NY 10026	,pK23qJqg-ZY-x3r7160jWg,pK23qJqg-ZY-x3r7160jWg
+400 College AveIthaca, NY 14850	,onwnYRZAydT6_MjdG3uIkA,onwnYRZAydT6_MjdG3uIkA
+400 Fulton StTroy, NY 12180	,jIoHLOlgnJeMvw5pemNoAg,jIoHLOlgnJeMvw5pemNoAg
+400 McChesney Ave ExtTroy, NY 12180	,dOVacg7B0D-QwZ2lv8X4Gw,dOVacg7B0D-QwZ2lv8X4Gw
+400 N Meadow StIthaca, NY 14850	,CxOApc8E_VnFvwYDbaIoSw,CxOApc8E_VnFvwYDbaIoSw
+400 Old Loudon RdLatham, NY 12110	,CmclEj-oP2N1MA7C2LpV5g,CmclEj-oP2N1MA7C2LpV5g
+400 Old Loudon RoadLatham, NY 12110	,SPrfs_Nsfz9O_rH9Ne21lw,SPrfs_Nsfz9O_rH9Ne21lw
+400 S Meadow StIthaca, NY 14850	,iYmj-4fF1FY_HncGS3xl7w,iYmj-4fF1FY_HncGS3xl7w
+400 Stewart AveIthaca, NY 14850	,AcvgZ2nXndVnJZlofk4u3A,AcvgZ2nXndVnJZlofk4u3A
+400 W 119th StMorningside HeightsNew York, NY 10027	,PUATlg41Z_bnmOPWcPBt-A,PUATlg41Z_bnmOPWcPBt-A
+401 College AveIthaca, NY 14850	,x_AUsCP73LBeTXnec1tqkg,x_AUsCP73LBeTXnec1tqkg
+401 E State StIthaca, NY 14850	,N3l2IfhyzfRMgKKSfeL7cg,8-tgw8B_rsN_RyWnv4Aw6Q,8-tgw8B_rsN_RyWnv4Aw6Q,N3l2IfhyzfRMgKKSfeL7cg
+401 Eddy StIthaca, NY 14850	,wX6YRN6O5ndm8WBkPdTuAQ,wX6YRN6O5ndm8WBkPdTuAQ
+401 Elmira Rd Ste 6Ithaca, NY 14850	,Vg7CkdJ0uUuOeVPJOsKPsg,Vg7CkdJ0uUuOeVPJOsKPsg
+401 Elmira RdIthaca, NY 14850	,MZJ9QAH-hgvtuL49a6D7bQ,MZJ9QAH-hgvtuL49a6D7bQ
+401 N Greenbush RdRensselaer, NY 12144	,deMySa63_mE3Jy2lWMU1Dg,deMySa63_mE3Jy2lWMU1Dg
+401 W 118th StMorningside HeightsNew York, NY 10027	,1NyqsVWCbPgvmQHPlJAWUA,1NyqsVWCbPgvmQHPlJAWUA
+402 3rd StIthaca, NY 14850	,bTR30J2iu8svWNQsNHHWSA,bTR30J2iu8svWNQsNHHWSA
+402 W State StIthaca, NY 14850	,AClSNfHqqhhdxvv8oPQ6pw,fG7y_F4iKuwMLdpNtMAlDQ,AClSNfHqqhhdxvv8oPQ6pw,fG7y_F4iKuwMLdpNtMAlDQ
+403 College AveIthaca, NY 14850	,j-0PFDm86n7PeK-QSs18mA,AbEUFAGtAISqJms0_sS3Wg,AbEUFAGtAISqJms0_sS3Wg,j-0PFDm86n7PeK-QSs18mA
+403 River StTroy, NY 12181	,MuTJSKkzF_fmK-eG8RoZSA,MuTJSKkzF_fmK-eG8RoZSA
+404 Eddy StIthaca, NY 14850	,6z325jAQeDbHMWNYWblslg,6z325jAQeDbHMWNYWblslg
+404 W State StIthaca, NY 14850	,wM7-EQnNMZoWG3lRYudWbw,xNJABNiMkI1JZfUkW-WzjQ,xNJABNiMkI1JZfUkW-WzjQ,wM7-EQnNMZoWG3lRYudWbw
+405 Fulton StTroy, NY 12180	,_eDNXSw7pGbI6VkgsePuqA,_eDNXSw7pGbI6VkgsePuqA
+405 River StTroy, NY 12180	,zz687K2lR21YNwsv455Dqw,zz687K2lR21YNwsv455Dqw
+407 College AveIthaca, NY 14850	,0gmCzmFz99KDIedYc3eAvw,0gmCzmFz99KDIedYc3eAvw
+407 Eddy StIthaca, NY 14850	,OlWSPtrdLlNe1uy6UuN-EQ,OlWSPtrdLlNe1uy6UuN-EQ
+407 River StreetTroy, NY 12180	,-1siJSW7P3IFqpwv3PU53w,-1siJSW7P3IFqpwv3PU53w
+408 College AveIthaca, NY 14850	,pLYeVHtR7891Tr5SYnoltg,pLYeVHtR7891Tr5SYnoltg
+408 E Upland RdIthaca, NY 14850	,JfZY98Jopy8OvYrXqKrF0Q,JfZY98Jopy8OvYrXqKrF0Q
+409 College AveIthaca, NY 14850	,BHFHYZSUNhGPvTppxyLdYA,sjzgp3-uWvzas0wAKiZ-Lg,sjzgp3-uWvzas0wAKiZ-Lg,BHFHYZSUNhGPvTppxyLdYA
+409 Eddy StIthaca, NY 14850	,Avr8O0_d_hLHAhr_66pknA,Avr8O0_d_hLHAhr_66pknA
+409 River StTroy, NY 12180	,aR1ehxdck0Qd0jLmtzQ26w,aR1ehxdck0Qd0jLmtzQ26w
+409 W 125th StreetHarlemNew York, NY 10027	,4n4wMkDnDY7cuWOya8UumA,4n4wMkDnDY7cuWOya8UumA
+41 Broad StWaterford, NY 12188	,S8lAqKLZp1FTn-TvlXBBQA,S8lAqKLZp1FTn-TvlXBBQA
+41-112th AveTroy, NY 12182	,SzVZm-W1Od4dblJUhkZ1VQ,SzVZm-W1Od4dblJUhkZ1VQ
+410 Eddy StIthaca, NY 14850	,-m26JWL6XkeX0g74f_37MA,-m26JWL6XkeX0g74f_37MA,oidBvZouxEal1NWe5ARrVw,oidBvZouxEal1NWe5ARrVw
+410 Eddy StreetIthaca, NY 14850	,8NcUNYYey1WZMRchRdDQTw,8NcUNYYey1WZMRchRdDQTw
+410 Elmira RdSuite 200Ithaca, NY 14850	,2lJhvC4NzRXAUJd-Z61c9w,2lJhvC4NzRXAUJd-Z61c9w
+410 Linn StIthaca, NY 14850	,9gae-ckb14xVbKmScG49qw,9gae-ckb14xVbKmScG49qw
+410 W 110th StreetManhattan ValleyNew York, NY 10025	,1JWupuK4lbVKkCAY-utvew,1JWupuK4lbVKkCAY-utvew
+411 College AveIthaca, NY 14850	,VcCJHqTFxr181Fp5foHd9A,VcCJHqTFxr181Fp5foHd9A
+411 W 113Morningside HeightsNew York, NY 10025	,fALLUHAplULJFSCp2z9yxQ,fALLUHAplULJFSCp2z9yxQ
+412 E Upland RdIthaca, NY 14850	,Rqd0QYe69s9hN1oKkwBBvA,Rqd0QYe69s9hN1oKkwBBvA
+412 Fulton StTroy, NY 12180	,qI-JE39ifWGj0gMSuf5szA,qI-JE39ifWGj0gMSuf5szA
+413 River StTroy, NY 12180	,qnN9cTU6tjr9c_W5fzbc1A,qnN9cTU6tjr9c_W5fzbc1A
+413 Taughannock BlvdIthaca, NY 14850	,6AeFK6YW1Dd1KW56SmHn7Q,6AeFK6YW1Dd1KW56SmHn7Q
+414 Elmira Rd#6155Ithaca, NY 14850	,KNfrxyHr1oIGaRYAJK-W8Q,KNfrxyHr1oIGaRYAJK-W8Q
+414 N Tioga StIthaca, NY 14850	,oP2OLhCPRwNtiimBCey2ZQ,RmPofKXO-25wDUtb5TsdKw,RmPofKXO-25wDUtb5TsdKw,oP2OLhCPRwNtiimBCey2ZQ
+415 College AveIthaca, NY 14850	,uv7n9Af48hRVlpLNojvi7g,uv7n9Af48hRVlpLNojvi7g
+415 Fulton StTroy, NY 12180	,l21ahNDUPFrMdKxTJ1yOoA,l21ahNDUPFrMdKxTJ1yOoA
+416 W 126th StHarlemNew York, NY 10027	,IzY2Dgq9VG9L_odPVkzQqg,IzY2Dgq9VG9L_odPVkzQqg
+417 Manhattan AveSte 2HarlemManhattan, NY 10026	,75Q-TMhx81R1yfXSGaMcTQ,75Q-TMhx81R1yfXSGaMcTQ
+417 W State   MLK Jr StIthaca, NY 14850	,KbRquhsEl-Ax_HUvakAxHw,KbRquhsEl-Ax_HUvakAxHw
+42 Saratoga AveWaterford, NY 12188	,759k6KrlOl0_NAL3LdvNVQ,759k6KrlOl0_NAL3LdvNVQ
+423 Franklin PlIthaca, NY 14850	,QeK3lOP-CTZS72YgeXiiqA,QeK3lOP-CTZS72YgeXiiqA
+424 Eddy StIthaca, NY 14850	,0ZIaDoyJNEMQHyjOoI1OYQ,0ZIaDoyJNEMQHyjOoI1OYQ
+425 Franklin StIthaca, NY 14850	,t38KiHAZCGCLo9QsLllpnQ,t38KiHAZCGCLo9QsLllpnQ
+425 River StTroy, NY 12180	,9R5M8pvADCjM_0rfZTwb4A,9R5M8pvADCjM_0rfZTwb4A
+425 River StTroy, NY 12181	,o0WYo6-P0PRdShWYGDazZQ,o0WYo6-P0PRdShWYGDazZQ
+425 W 125th St FrntHarlemNew York, NY 10027	,ea-mEiayZlCEezO6DCtiGg,ea-mEiayZlCEezO6DCtiGg
+425 W Seneca StIthaca, NY 14850	,F2csT_p_jAIPzCl4nZEC6w,F2csT_p_jAIPzCl4nZEC6w
+428 W State StIthaca, NY 14850	,_hmURvTcQ9qEjB_BjOR5mA,_hmURvTcQ9qEjB_BjOR5mA
+429 River StTroy, NY 12180	,biNk2izKRsujpMUT-0WKLg,biNk2izKRsujpMUT-0WKLg
+430 N Cayuga StIthaca, NY 14853	,iwn6dOQTqwP1EUot9DrRYA,iwn6dOQTqwP1EUot9DrRYA
+430 W 116th StMorningside HeightsNew York, NY 10027	,r98x6nWRBMIMQENUjCdJqw,r98x6nWRBMIMQENUjCdJqw
+430 W State StIthaca, NY 14850	,rjfVhsGYYYWWh2JIzIollA,rjfVhsGYYYWWh2JIzIollA
+430 West State St.Ithaca, NY 14850	,JUYET2R23CDJyhVPht1AKg,JUYET2R23CDJyhVPht1AKg
+431 W 121st StMorningside HeightsNew York, NY 10027	,UWGlfeD5n8GbASXPBztVIQ,UWGlfeD5n8GbASXPBztVIQ
+435 Franklin StIthaca, NY 14850	,ZOu3ShdJO3Nl8WX3P5K5kg,ZOu3ShdJO3Nl8WX3P5K5kg
+435 Loudon Rd Ste 7Albany, NY 12211	,jo9WMTYOvoW_6WyM2flTOQ,jo9WMTYOvoW_6WyM2flTOQ
+435 W 125th StHarlemNew York, NY 10027	,sqkSG2pAisfCfgtfkig2xw,sqkSG2pAisfCfgtfkig2xw
+438 W State StIthaca, NY 14850	,7Xxte5EfXHXtpHnCNRmDwA,7Xxte5EfXHXtpHnCNRmDwA
+44 3rd StTroy, NY 12180	,sy1wEy61oMh6mGW1CSNIWQ,sy1wEy61oMh6mGW1CSNIWQ
+44 4th StTroy, NY 12180	,rYGKOsxilNpA4CV8HBb08g,rYGKOsxilNpA4CV8HBb08g
+44 Lower Hudson AveTroy, NY 12183	,BhUXAnkoiRYEHBUsFLUaQA,BhUXAnkoiRYEHBUsFLUaQA
+443 5th AveTroy, NY 12182	,RUiGb3P_5HN_Ki3a2r13GA,RUiGb3P_5HN_Ki3a2r13GA
+444 BroadwayAlbany, NY 12204	,zCKJ04uIdbI7c2JdXp-cHA,zCKJ04uIdbI7c2JdXp-cHA
+444 River StTroy, NY 12180	,8Ao-lYJP4kiW2qySjiZcDw,8Ao-lYJP4kiW2qySjiZcDw
+445 Hoosick StTroy, NY 12180	,iNIyHDnU5fz60orxlvrQKQ,iNIyHDnU5fz60orxlvrQKQ
+447 3rd AveWatervliet, NY 12189	,xlCVbr56NU9rFFWPRcRUyA,xlCVbr56NU9rFFWPRcRUyA
+449 N Greenbush RdRensselaer, NY 12144	,aLE4Lg5uOGnewTTweXJNBw,aLE4Lg5uOGnewTTweXJNBw,gYdx3POVviEoVSFXgIYElg,gYdx3POVviEoVSFXgIYElg
+449 N Greenbush RdTroy, NY 12180	,f_cHTdC_3R9WvcZCayTyYA,f_cHTdC_3R9WvcZCayTyYA
+450 3rd AveWatervliet, NY 12189	,bLdLMuRRXPNAOhyGrLPXUw,bLdLMuRRXPNAOhyGrLPXUw
+450 BroadwayTroy, NY 12180	,pzb-5Zpgx52PglQljZYi2g,pzb-5Zpgx52PglQljZYi2g
+451 Fulton StTroy, NY 12180	,qXwHeoXwW_0_scHU8-I_dg,qXwHeoXwW_0_scHU8-I_dg
+452 Bloomingrove DrTroy, NY 12180	,oBnKOFvJqVFNhiF0YFjdCw,oBnKOFvJqVFNhiF0YFjdCw
+452 BroadwayTroy, NY 12180	,UC9UDBSDRM8AUp33EeFiXQ,UC9UDBSDRM8AUp33EeFiXQ
+455 BroadwayTroy, NY 12180	,RrI8TixksrEf1MhHipvZlQ,RrI8TixksrEf1MhHipvZlQ
+46 3rd StTroy, NY 12180	,rIe12fdyMfvJtagDly5QGg,rIe12fdyMfvJtagDly5QGg
+461 BroadwayTroy, NY 12180	,_ml4baOfxBFt8Gynh_nC5Q,_ml4baOfxBFt8Gynh_nC5Q
+461 W 125th StHarlemNew York, NY 10027	,hmoP5rFZ4eqiOxSR7WlI_w,hmoP5rFZ4eqiOxSR7WlI_w
+463 Troy Schenectady RoadLatham, NY 12110	,cL1nURym0sjqCnoaEXG0yw,cL1nURym0sjqCnoaEXG0yw
+464 BroadwayTroy, NY 12180	,Kcj2WNOl7fx_E4PSIFYWFQ,Kcj2WNOl7fx_E4PSIFYWFQ
+465 W 125th StHarlemNew York, NY 10027	,hq0JqkDPLwt1dPetWJDj5A,2VQDEQuK3xLFNktPBIpmuQ,hq0JqkDPLwt1dPetWJDj5A,2VQDEQuK3xLFNktPBIpmuQ
+468 Troy Schenectady RdLatham, NY 12110	,U3RwirEkQUWSc6ir0Y5PeQ,U3RwirEkQUWSc6ir0Y5PeQ
+469 5th AveTroy, NY 12182	,mQE2m_IKbzmr24-BE4wqjA,mQE2m_IKbzmr24-BE4wqjA
+470 N Greenbush RdRensselaer, NY 12144	,dI_hCzS0NLcPZdSGLTBcTg,_1ocatc2jqyIgizF7FWr0Q,_1ocatc2jqyIgizF7FWr0Q,qfVLelk7q0j6XTHbHj9TCg,qfVLelk7q0j6XTHbHj9TCg,dI_hCzS0NLcPZdSGLTBcTg
+472 2nd AveTroy, NY 12182	,t1XPSn5O1edDJwhJFYeEIQ,t1XPSn5O1edDJwhJFYeEIQ
+475 5th Ave Ste 1Troy, NY 12182	,il4v9CfJmDtjdPfjZFKGMQ,il4v9CfJmDtjdPfjZFKGMQ
+475 Riverside Dr13th FlMorningside HeightsNew York, NY 10115	,um2BpHBOE95F23gLzgXXoQ,um2BpHBOE95F23gLzgXXoQ
+475 Riverside DrMorningside HeightsNew York, NY 10115	,V0VP92qzJCIZNgPWXNdkew,V0VP92qzJCIZNgPWXNdkew
+475 Riverside DrSte 241Morningside HeightsNew York, NY 10115	,W3SE_iqmyavRAB_A52HtBA,W3SE_iqmyavRAB_A52HtBA
+478 5th AveTroy, NY 12182	,Idx8xKpOpz7llQS_5qSBbA,Idx8xKpOpz7llQS_5qSBbA
+49 3rd StTroy, NY 12180	,RmrYUMJvBzSAtjtMYH1Glw,RmrYUMJvBzSAtjtMYH1Glw
+49 Broad StWaterford, NY 12188	,fw-4NM4veq19Hz9GZXwkcw,fw-4NM4veq19Hz9GZXwkcw
+490 Riverside DrMorningside HeightsNew York, NY 10027	,bkOPlqAhWUA4w96nHHXL4w,TNucCq6cEVQsceGhzWM2Fw,bkOPlqAhWUA4w96nHHXL4w,TNucCq6cEVQsceGhzWM2Fw
+490 Riverside DriveMorningside HeightsNew York, NY 10027	,lXSDZjhOJDuXVISTTBTNqg,lXSDZjhOJDuXVISTTBTNqg
+499 2nd AveTroy, NY 12182	,nLhru9U0BbWMRu9jYnLrBA,nLhru9U0BbWMRu9jYnLrBA
+50 2nd StTroy, NY 12180	,sCPH5jyB8vYjA9tyaUEsGg,sCPH5jyB8vYjA9tyaUEsGg
+500 Riverside DrHarlemManhattan, NY 10027	,yA-D2JsM279hh07O47Xf7g,yA-D2JsM279hh07O47Xf7g
+500 Riverside DrHarlemNew York, NY 10027	,6reQFssNNWaSXxA8wpTnrQ,6reQFssNNWaSXxA8wpTnrQ
+500 S Meadow StIthaca, NY 14850	,Wxx427QN8J7J03_T2EugaA,Wxx427QN8J7J03_T2EugaA
+500 Thurston AveIthaca, NY 14850	,UBpRENBE2Pj7JI06-ikfmQ,UBpRENBE2Pj7JI06-ikfmQ
+501 S Meadow StIthaca, NY 14850	,6otX06BtZ5uOvTM7_VjF3A,6otX06BtZ5uOvTM7_VjF3A,xGrSJeQhxW5zPQAorcJDuQ,xGrSJeQhxW5zPQAorcJDuQ
+501 W 125th StHarlemNew York, NY 10027	,X2KeJ4OdlkzTEpCETaaoCw,X2KeJ4OdlkzTEpCETaaoCw
+501 W State StIthaca, NY 14850	,AKH7qXOR8u3p_nluCyocrg,AKH7qXOR8u3p_nluCyocrg
+503 N Meadow StIthaca, NY 14850	,hKxb9hKV6yb8K12Y7ccGMw,hKxb9hKV6yb8K12Y7ccGMw
+505 W 125th StHarlemNew York, NY 10027	,SzM2o6LPGqNUgREf9kuaVg,SzM2o6LPGqNUgREf9kuaVg
+506 W State StIthaca, NY 14850	,LUIIqzt3NnBB8OisXoGOjA,LUIIqzt3NnBB8OisXoGOjA
+508 W State StIthaca, NY 14850	,vr2H4H0liK7wpgeAxPnG8A,vr2H4H0liK7wpgeAxPnG8A
+509 Esty StIthaca, NY 14850	,YMKlWdA38sEPF1KSNOpYcA,YMKlWdA38sEPF1KSNOpYcA
+509 N MeadowIthaca, NY 14850	,pZxNXSYq5SSzy6TR7KT3AA,pZxNXSYq5SSzy6TR7KT3AA
+51 Main AveWynantskill, NY 12198	,GPBqqLKwuIePeDf2tlwTRQ,GPBqqLKwuIePeDf2tlwTRQ
+510 W State StIthaca, NY 14850	,t9hp4ik0bt0jqsfnNYPxOw,t9hp4ik0bt0jqsfnNYPxOw
+511 W 125th StHarlemNew York, NY 10027	,5jfJyABI5zAUk79IZXHtrw,5jfJyABI5zAUk79IZXHtrw
+513 N Cayuga St Ste AIthaca, NY 14850	,pnZAlQoGDDyzSyjL8i80Uw,pnZAlQoGDDyzSyjL8i80Uw
+514 Edgewood PlIthaca, NY 14850	,_lJnqlFlAQ9usssJ0oYAJQ,_lJnqlFlAQ9usssJ0oYAJQ
+515 Loudon RdLoudonville, NY 12211	,as78VzatRI6dtQ2UOAu_vg,as78VzatRI6dtQ2UOAu_vg
+516 River StTroy, NY 12180	,pFCckrUbamXrAD-O1_v95w,pFCckrUbamXrAD-O1_v95w
+516 West State StIthaca, NY 14850	,KGvPurrSx48ngQ7Ci66UrQ,KGvPurrSx48ngQ7Ci66UrQ
+518 W 125th StHarlemNew York, NY 10027	,gHmiLqpuU3nnRgK7vGnVTw,gHmiLqpuU3nnRgK7vGnVTw
+519 W 114th StMorningside HeightsNew York, NY 10025	,-EpZHQYC1QdqgQf3JfkfLw,-EpZHQYC1QdqgQf3JfkfLw
+520 Congress StTroy, NY 12180	,hMoHbopFIgmUJe-w-_jUXg,hMoHbopFIgmUJe-w-_jUXg
+522 W State StIthaca, NY 14850	,KsJkO8Y3zQoxJaVsYI15fQ,KsJkO8Y3zQoxJaVsYI15fQ
+525 Taughannock BlvdIthaca, NY 14850	,oEP8EQRxILT8svJmALwh6w,oEP8EQRxILT8svJmALwh6w
+525 W 120th StColumbia University LibraryMorningside HeightsNew York, NY 10027	,mYbi989togPtbXvWS4Nb4A,mYbi989togPtbXvWS4Nb4A
+525 W 120th StMorningside HeightsNew York, NY 10027	,yw2yc4OlDDf-5g9DcUtpuw,yw2yc4OlDDf-5g9DcUtpuw
+526 W State StIthaca, NY 14850	,FJsh0TOIQJWj3aQP4Yg0_A,FJsh0TOIQJWj3aQP4Yg0_A
+527 Manhattan AveSte 7AHarlemNew York, NY 10027	,l4e45tJqxA-mbjPXFaMi8g,l4e45tJqxA-mbjPXFaMi8g
+529 S Meadow StIthaca, NY 14850	,S9AZIS8hieJO5Ep8YTs3Rw,S9AZIS8hieJO5Ep8YTs3Rw
+53 Main AveWynantskill, NY 12198	,yEq4WDMn6dLyGTbLkw2HZA,yEq4WDMn6dLyGTbLkw2HZA
+531 5th AveTroy, NY 12182	,tZLtxMw6jqvOJtO_TSO6AQ,tZLtxMw6jqvOJtO_TSO6AQ
+534 W 112th StMorningside HeightsNew York, NY 10025	,Fje1a15z84NYIjMQxhOBIA,Fje1a15z84NYIjMQxhOBIA
+535 W 110th StSte 1EManhattan ValleyNew York, NY 10025	,T91XfCQKgvg9KsZnrLexig,T91XfCQKgvg9KsZnrLexig
+535 W 114th StMorningside HeightsManhattan, NY 10027	,NG_3NoVajWsbSPdz_ndLJg,NG_3NoVajWsbSPdz_ndLJg
+536 Pawling AveTroy, NY 12180	,AHzOTzpGa3pIfYDSP2VYIA,AHzOTzpGa3pIfYDSP2VYIA
+536 W 112th StMorningside HeightsNew York, NY 10025	,ejX1rf3zkY76GthoSjgYxA,ejX1rf3zkY76GthoSjgYxA
+539 Pawling AveTroy, NY 12180	,kPRhhVfGK_rIQFG6iAWBdA,kPRhhVfGK_rIQFG6iAWBdA
+54 Broad StWaterford, NY 12188	,y0fCUbXtZjrYhOD2azr6Pg,y0fCUbXtZjrYhOD2azr6Pg
+544 W 113th StMorningside HeightsNew York, NY 10025	,yo_WAOnE2pPHCQduq_V_ZA,yo_WAOnE2pPHCQduq_V_ZA
+545 3rd StIthaca, NY 14850	,pzXYxXZP6Tx-fwQDY4TVuw,pzXYxXZP6Tx-fwQDY4TVuw
+546 Hoosick StTroy, NY 12180	,s5PTJizGA5LXcpQRInEEaA,s5PTJizGA5LXcpQRInEEaA
+549 Troy Schenectady RdLatham, NY 12110	,lSMszPzc-YIvsYuLvY_m2g,I9jvXKOON8IECXOZ04ULRQ,lSMszPzc-YIvsYuLvY_m2g,I9jvXKOON8IECXOZ04ULRQ
+55 Congress StTroy, NY 12180	,hNKYyGv-wlB_WTiSX1sKcQ,hNKYyGv-wlB_WTiSX1sKcQ
+550 Troy Schenectady RdLatham, NY 12110	,gczVvjEUj89Mjynt4S-ICw,gczVvjEUj89Mjynt4S-ICw
+550 W 120th StreetMorningside HeightsNew York, NY 10027	,lPnhmvKwU9Sl95G6gEsnkA,lPnhmvKwU9Sl95G6gEsnkA
+553 Manhattan AveHarlemNew York, NY 10027	,J9Yufym0BqTYVNTqW-n3ag,J9Yufym0BqTYVNTqW-n3ag
+555 Troy Schenectady RdLatham, NY 12110	,kFmoKpQ8MNF0TrFdG1NSsA,kFmoKpQ8MNF0TrFdG1NSsA
+560 Troy Schenectady RdLatham, NY 12110	,o2WZWI8lpiSKXxG7kPioHQ,o2WZWI8lpiSKXxG7kPioHQ
+560 W 125th StHarlemNew York, NY 10027	,T6Nz9WeKnAeihmWEPCk9qQ,T6Nz9WeKnAeihmWEPCk9qQ
+564 Hoosick StTroy, NY 12180	,WzMfj_aR-N3cLDes0tLW1Q,WzMfj_aR-N3cLDes0tLW1Q
+565 Congress StTroy, NY 12180	,Ab7pVtIpinCvULKA3bjNnA,Ab7pVtIpinCvULKA3bjNnA
+571 Watervliet Shaker RdLatham, NY 12110	,e389xSW5CZWOAVU6qbFZqw,-4ArSF1om4JXNBA8wAnQyA,e389xSW5CZWOAVU6qbFZqw,-4ArSF1om4JXNBA8wAnQyA
+572 Second AveLansingburgh, NY 12182	,oukyW9ohk2ZFMHb8DEtcIA,oukyW9ohk2ZFMHb8DEtcIA
+574 Saratoga StCohoes, NY 12047	,oMPDhpfvZth88KB3eYTztQ,oMPDhpfvZth88KB3eYTztQ
+578 New Loudon RdLatham, NY 12110	,qTp9RJpqn8WMuMliov5AuQ,lf-IOFxXRfbSKSVvPU3nIQ,2HO3ekFrPxj16UtWgVbLgA,qTp9RJpqn8WMuMliov5AuQ,2HO3ekFrPxj16UtWgVbLgA,lf-IOFxXRfbSKSVvPU3nIQ
+579 1st StTroy, NY 12180	,o4G9cfQQgktHYvYafIpLwg,o4G9cfQQgktHYvYafIpLwg
+579 Troy Schenectady Rd Ste 202Latham, NY 12110	,UZFBK4pU-VcEt1N4IoYCRA,UZFBK4pU-VcEt1N4IoYCRA
+579 Troy Schenectady Rd Ste 219Latham, NY 12110	,c3AMAv08iFfnRSGmqFy4rQ,c3AMAv08iFfnRSGmqFy4rQ
+579 Troy Schenectady Rd#1259Latham, NY 12110	,-fRiK_B2xIE6a-scEDU_SA,-fRiK_B2xIE6a-scEDU_SA
+579 Troy Schenectady RdLatham, NY 12110	,wwJu9VLrM9r6R6KNBzoNLQ,wwJu9VLrM9r6R6KNBzoNLQ,9tHSgPt0_icRH9VNJqG-QA,RfBjAhfw0sPqEaGm8qEQzQ,2oMVapLIZYtBUeZ2gqdT7Q,3OrUW0S1x8gtn63a4ryvpw,WHMZTg9sHz0AF9Q4bvQa_A,RfBjAhfw0sPqEaGm8qEQzQ,9tHSgPt0_icRH9VNJqG-QA,3OrUW0S1x8gtn63a4ryvpw,2oMVapLIZYtBUeZ2gqdT7Q,WHMZTg9sHz0AF9Q4bvQa_A
+579 Troy Schenectady RdSte 80Latham, NY 12110	,jniAYYUXDPxhQlwzGBmjAQ,jniAYYUXDPxhQlwzGBmjAQ
+579 Troy Schenectady RoadLatham, NY 12110	,z6Ut4WINzV8aK83c3lZPtw,z6Ut4WINzV8aK83c3lZPtw
+585 New Loudon RdLatham, NY 12110	,TeCLCcjP7SpY24-9IxHJRQ,TeCLCcjP7SpY24-9IxHJRQ
+586 New Loudon RdAlbany, NY 12110	,iOYrrlk8yOelEaXDsbJIVQ,iOYrrlk8yOelEaXDsbJIVQ
+588 New Loudon Rd Ste 6Latham, NY 12110	,yOZy7PXpUG156HUZJ_4hcQ,yOZy7PXpUG156HUZJ_4hcQ
+590 New Loudon RdLatham, NY 12110	,etnsoP9A55sKckLtC1MMLA,etnsoP9A55sKckLtC1MMLA
+594 New Loudon RdLatham, NY 12110	,l6fDQXHRDYX5NAWKUH7-oA,Qc3exGUfsxCWoPdKoO7UjQ,xSLGXyJ-nf-aa_3rfX0Wpw,xSLGXyJ-nf-aa_3rfX0Wpw,Qc3exGUfsxCWoPdKoO7UjQ,l6fDQXHRDYX5NAWKUH7-oA
+594 New Loudon RdSte 4Latham, NY 12110	,pNNB4QSFaVD0-Gm3EMtH6w,pNNB4QSFaVD0-Gm3EMtH6w
+594 New Loudon RdSte 5Latham, NY 12110	,yLikzm4RkMOtpzDo8SnZ3w,yLikzm4RkMOtpzDo8SnZ3w
+595 New Loudon RdLatham, NY 12110	,myrsfjtHnWFlLBEWE7MtZg,myrsfjtHnWFlLBEWE7MtZg
+595 New Loudon RdNewton PLazaLatham, NY 12110	,P55ryS7ZZq2hQfIOTDb8ww,P55ryS7ZZq2hQfIOTDb8ww
+6 Morningside AveMorningside HeightsManhattan, NY 10026	,5x9PdVV5_TZvDtFKk5HZkg,5x9PdVV5_TZvDtFKk5HZkg
+60 Vandenburgh AveTroy, NY 12180	,k8uOWXuHiiy7L4UMI_Nc7Q,k8uOWXuHiiy7L4UMI_Nc7Q
+600 3rd AveWatervliet, NY 12189	,aoGjCDs2-_-pejJmv4Ss7Q,aoGjCDs2-_-pejJmv4Ss7Q
+600 Fulton StTroy, NY 12180	,cmMNvAVcs6R_dzE8GEIYgQ,cmMNvAVcs6R_dzE8GEIYgQ
+600 W 116th Street BsmtMorningside HeightsNew York, NY 10027	,9h9XN-vUqRuBpQ3HUHvzqg,9h9XN-vUqRuBpQ3HUHvzqg
+601 1st StIthaca, NY 14850	,y6eFfykC7l4DYGEViXwQ5Q,y6eFfykC7l4DYGEViXwQ5Q
+601 Troy Schenectady RdLatham, NY 12110	,L5ftnUjqvN5YSwblQ0V_jw,L5ftnUjqvN5YSwblQ0V_jw,CBk3GqDIhAxm1Sm5uWZynA,REIpw5yD6rl1qNtOya3pjQ,7j-oDHfVI6-Ecx89kTDWfg,REIpw5yD6rl1qNtOya3pjQ,7j-oDHfVI6-Ecx89kTDWfg,CBk3GqDIhAxm1Sm5uWZynA
+601 W 112th StMorningside HeightsManhattan, NY 10025	,4rVOnFVcIlqBvkmBZAhijw,4rVOnFVcIlqBvkmBZAhijw
+601 W 112th StMorningside HeightsNew York, NY 10025	,652vE0OMz01U5E742D3hRQ,652vE0OMz01U5E742D3hRQ
+601 W 114 StMorningside HeightsNew York, NY 10025	,1utXwCsWjsULq3Trj3XfeA,1utXwCsWjsULq3Trj3XfeA
+601 W 114th StMorningside HeightsNew York, NY 10025	,JCeKdD3GcqEiIpS1hGTqlQ,JCeKdD3GcqEiIpS1hGTqlQ
+601 Watervliet Shaker RdLatham, NY 12110	,rYuZhUuU47np6KvaF0mJ7Q,rYuZhUuU47np6KvaF0mJ7Q
+601 West 114th StreetMorningside HeightsNew York, NY 10025	,NrSikK-10UHAd31l9wa65g,NrSikK-10UHAd31l9wa65g
+602 New Loudon RdLatham, NY 12110	,apIscoJhs_Z0hfdiVLZSwQ,XH8t78VYyYYZgCw9WKGAZA,apIscoJhs_Z0hfdiVLZSwQ,XH8t78VYyYYZgCw9WKGAZA
+602 W Buffalo StIthaca, NY 14853	,vMB7YTcNXNiDEhUSF1SyeQ,vMB7YTcNXNiDEhUSF1SyeQ
+603 W 115th StSte 226Morningside HeightsNew York, NY 10025	,hRoW3haGNLv3W_EhNja0lQ,hRoW3haGNLv3W_EhNja0lQ
+603 W 115th StreetMorningside HeightsNew York, NY 10025	,eyEcgcRl1js31hcKYI84tw,eyEcgcRl1js31hcKYI84tw
+605 W State StIthaca, NY 14850	,_92nnH142g7zWfLxW1rGjQ,_92nnH142g7zWfLxW1rGjQ,8RTEtN5ZGv0AMhrpnI1NoQ,8RTEtN5ZGv0AMhrpnI1NoQ
+606 Elmira RdIthaca, NY 14850	,7LQgO9CBIOzzkWs4ydJ9JQ,7LQgO9CBIOzzkWs4ydJ9JQ
+606 W 115th StMorningside HeightsNew York, NY 10025	,hHg8ADXX-0z0-oHGySXNFg,hHg8ADXX-0z0-oHGySXNFg
+607 Troy Schenectady RdLatham, NY 12110	,Ji3jBBWln4ABhVfGXXA_Sw,Ji3jBBWln4ABhVfGXXA_Sw
+608 New Loudon RdLatham, NY 12110	,VcuMtj_cGyjaa_O1E2xMIA,VcuMtj_cGyjaa_O1E2xMIA
+609 Clinton PlzIthaca, NY 14850	,yCcJBqillow6KhK_E6eoJw,yCcJBqillow6KhK_E6eoJw
+61 Main AveWynantskill, NY 12198	,muJnDitugFx6y64QVgllig,muJnDitugFx6y64QVgllig
+610 2nd AveTroy, NY 12182	,R_hKp1hS3oT4BAEyjjFLlw,R_hKp1hS3oT4BAEyjjFLlw
+610 W 112th StMorningside HeightsNew York, NY 10025	,p63_WcPmATNi0jZU8ZnWqw,p63_WcPmATNi0jZU8ZnWqw
+611 2nd AveTroy, NY 12182	,CRMJCd47OM8AqMB8fRFuMA,CRMJCd47OM8AqMB8fRFuMA
+613 New Loudon RdLatham, NY 12110	,jTsRHPjhy07ZQC6Z8Yj-gw,jTsRHPjhy07ZQC6Z8Yj-gw
+614 S Meadow StIthaca, NY 14850	,KxfNKdJmRpdjxAJIYeAGSQ,KxfNKdJmRpdjxAJIYeAGSQ
+615 Pawling AveTroy, NY 12180	,_yHIlwnpDGUyo2qyjtbsHA,_yHIlwnpDGUyo2qyjtbsHA
+616 3rd AveWatervliet, NY 12189	,7YUnZEiBS8KENf426i7jHw,7YUnZEiBS8KENf426i7jHw
+616 N Pearl StAlbany, NY 12204	,wbL853xRHykMaMr_CbdAaw,wbL853xRHykMaMr_CbdAaw
+618 New Loudon RdLatham, NY 12110	,RZmmcTKMDo4UErKn0Ve7gg,RZmmcTKMDo4UErKn0Ve7gg
+618 Saratoga StCohoes, NY 12047	,bjv2bf_kX1cNl-2OPm4Jig,bjv2bf_kX1cNl-2OPm4Jig
+62 Vandenburgh AveTroy, NY 12180	,OLy75I6KRDZEKL7S_-U96g,9yUQbREZregqICtcMYT2LA,OLy75I6KRDZEKL7S_-U96g,9yUQbREZregqICtcMYT2LA
+620 Loudon RdLatham, NY 12110	,OdGx0UHReZzXbD3kcmXYQQ,OdGx0UHReZzXbD3kcmXYQQ
+622 Cascadilla StIthaca, NY 14850	,ufYKds6AjKs_NwOb1mDhwA,ufYKds6AjKs_NwOb1mDhwA
+622 Watervliet Shaker RdLatham, NY 12110	,gB4vpRo21JewareYUFMQcA,3S0GwmgIGOFLZE1k_ZWegQ,3S0GwmgIGOFLZE1k_ZWegQ,gB4vpRo21JewareYUFMQcA
+624 W State StIthaca, NY 14850	,FVPW69_227gv2zSq46-FhQ,FVPW69_227gv2zSq46-FhQ
+626 2nd AveTroy, NY 12182	,Cvj76Of5Mo9kI5f4UMim6A,Cvj76Of5Mo9kI5f4UMim6A
+626 New Loudon RdLatham, NY 12110	,GcMTcgEytpoGLlhEbqc2Lg,GcMTcgEytpoGLlhEbqc2Lg
+628 3rd AveWatervliet, NY 12189	,ulfy5LAm3jUU7BktYbtHwg,ulfy5LAm3jUU7BktYbtHwg
+63 3rd StreetTroy, NY 12180	,ZyT-Dzt5xzyYWwd2hhdGRQ,ZyT-Dzt5xzyYWwd2hhdGRQ
+630  2nd AveTroy, NY 12182	,9bR0hOq5e6PAS3YY02ToKA,9bR0hOq5e6PAS3YY02ToKA
+632 3rd AveWatervliet, NY 12189	,tUl7-7sFCX4Y_JJ9m3qbNA,tUl7-7sFCX4Y_JJ9m3qbNA
+635 Stewart AveIthaca, NY 14850	,KPSqZ737VWG5J2NRRLJZuw,KPSqZ737VWG5J2NRRLJZuw
+635 W State StIthaca, NY 14850	,bf-6Bh9gM6gEJHr4tdd7iA,bf-6Bh9gM6gEJHr4tdd7iA
+636 Loudon Rd.Latham, NY 12110	,hhjYGhB_Le97qh6rFynOQw,hhjYGhB_Le97qh6rFynOQw
+636 New Loudon RdSte 2Latham, NY 12110	,4Asa_ZggWWgr5EAuTUY2cQ,4Asa_ZggWWgr5EAuTUY2cQ
+637 3rd AveWatervliet, NY 12189	,7u1vzX2lSme1gO7dWFUBAg,7u1vzX2lSme1gO7dWFUBAg
+638 Columbia Ext.Latham, NY 12110	,oYg8-g5mD1HPJSfj5U69BQ,oYg8-g5mD1HPJSfj5U69BQ
+638 Columbia StLatham, NY 12110	,bKyng2jcrIrxryyAZwgglA,bKyng2jcrIrxryyAZwgglA
+638 Loudon RdLatham, NY 12110	,THPDeKwowt8XZuUcIgtzjQ,THPDeKwowt8XZuUcIgtzjQ
+640 New Loudon RdSte 5Latham, NY 12110	,hzekNMhUDUlVGLH1fauB9A,hzekNMhUDUlVGLH1fauB9A
+644 New Loudon RdLatham, NY 12110	,8uJwnr_xwgJ-bTPTXm9SzA,8uJwnr_xwgJ-bTPTXm9SzA
+647 Watervliet Shaker RdLatham, NY 12110	,TKZML69z7ZHoppAnclWOlg,TKZML69z7ZHoppAnclWOlg
+648 Third AveWatervliet, NY 12189	,45iw_QhKunotF2o6RTBEqg,45iw_QhKunotF2o6RTBEqg
+649 River StTroy, NY 12180	,ossi9K7n2HNR_AyLB8rpOQ,ossi9K7n2HNR_AyLB8rpOQ
+654 Elmira RoadIthaca, NY 14850	,FE374yeGPP4P1G2o2Oi-0w,FE374yeGPP4P1G2o2Oi-0w
+654 Watervliet Shaker RdLatham, NY 12110	,swl3A19s0l5nsftCJn8yPA,LnljaOZP7CnmtU3mvf9q0Q,LnljaOZP7CnmtU3mvf9q0Q,swl3A19s0l5nsftCJn8yPA
+657 Elmira RdIthaca, NY 14850	,QTgL6GJ7TTOZtnjM-Abjfw,QTgL6GJ7TTOZtnjM-Abjfw
+660 New Loudon RdLatham, NY 12110	,4Ep1aEi5o9wDThzL4dbWuw,4Ep1aEi5o9wDThzL4dbWuw
+664 New Loudon RdLatham, NY 12110	,n5s4xjB2jwwDHKE2Rj6tXw,n5s4xjB2jwwDHKE2Rj6tXw,2d50xonA5EbIYeKCT2bWlw,zdJco2dR5jnpkj0b14WHxA,zdJco2dR5jnpkj0b14WHxA,2d50xonA5EbIYeKCT2bWlw
+670 Pawling AveTroy, NY 12180	,ibrFPOvc3SNR28R2xQujIg,ibrFPOvc3SNR28R2xQujIg
+672 New Loudon RdLatham, NY 12110	,crmTNTib990VtFfvhnlSkw,crmTNTib990VtFfvhnlSkw
+676 New Loudon RdLatham, NY 12110	,7kHYVs7iV2aFkUqqpSSxSQ,7kHYVs7iV2aFkUqqpSSxSQ
+68 Broad StWaterford, NY 12188	,CRrj-Tpbj54NcruRVKYW7g,CRrj-Tpbj54NcruRVKYW7g
+680 River StTroy, NY 12180	,Qh-hU4JKEjF4kkSe0IGdSA,Qh-hU4JKEjF4kkSe0IGdSA
+683 New Loudon RdLatham, NY 12110	,gfiyx9hfH9WMi3miCyqWWw,gfiyx9hfH9WMi3miCyqWWw
+685 Hoosick RdTroy, NY 12180	,GUoVncYpFzfxt2HJZFBqDw,GUoVncYpFzfxt2HJZFBqDw
+689 Hoosick RdTroy, NY 12180	,55rcaEF3hnXfw5Tu4KrpFw,55rcaEF3hnXfw5Tu4KrpFw
+698 N Pearl StMenands, NY 12204	,S6rauZOfTuU2SbqMKYORfQ,S6rauZOfTuU2SbqMKYORfQ
+7 Hill StTroy, NY 12180	,D7dGgNFXFJZ8nck4nbbvTg,D7dGgNFXFJZ8nck4nbbvTg
+7 Oakwood AveTroy, NY 12180	,XpAATxVkUjGKsg4InY5Kwg,XpAATxVkUjGKsg4InY5Kwg
+7 Penn PlzSte 1801HarlemNew York, NY 10116	,GBHEa6LiEnRtmIovys9Bag,GBHEa6LiEnRtmIovys9Bag
+7 State StTroy, NY 12180	,8vscz8NEMJLfHFaAIt4C1Q,8vscz8NEMJLfHFaAIt4C1Q
+700 Cascadilla StIthaca, NY 14850	,ID07ERaiqMpl-S2tdQSXlA,ID07ERaiqMpl-S2tdQSXlA
+700 Hoosick RdTroy, NY 12180	,gekPL0Kc7w9zLDT3EulvxQ,gekPL0Kc7w9zLDT3EulvxQ
+700 W Buffalo StIthaca, NY 14850	,xzhEw0zOOx4Zz760Mg6rKw,xzhEw0zOOx4Zz760Mg6rKw
+700 Warren RdIthaca, NY 14853	,JnGS6ZH0HIC789XkhYyhtg,JnGS6ZH0HIC789XkhYyhtg
+701 New Loudon RdLatham, NY 12110	,Nn88q-dPgbbTxExMy1t1mQ,Nn88q-dPgbbTxExMy1t1mQ
+701 Taughannock BlvdIthaca, NY 14850	,QXkVU4HaNyjXekCx-g6JMw,QXkVU4HaNyjXekCx-g6JMw
+701 W Buffalo StIthaca, NY 14850	,IgswO3ShQexEcfAPDLTNTw,IgswO3ShQexEcfAPDLTNTw
+702 Willow AveIthaca, NY 14850	,_vLyjI50m3eafiXnh87i0g,WwmlHFvtyx3P2lZDNgDBWA,WwmlHFvtyx3P2lZDNgDBWA,_vLyjI50m3eafiXnh87i0g
+704 W Buffalo StIthaca, NY 14850	,johcyYjak9dA8YLftHOC3w,Ce1OySu5mTlFot5sB0HcWQ,johcyYjak9dA8YLftHOC3w,Ce1OySu5mTlFot5sB0HcWQ
+704 West Buffalo St.Ithaca, NY 14850	,mfDkSweR9UTSdv0E0IpJdA,mfDkSweR9UTSdv0E0IpJdA
+708 W Buffalo StIthaca, NY 14850	,iStzlZvi1vwCPU1BOtr6-w,iStzlZvi1vwCPU1BOtr6-w
+709 Dryden RdIthaca, NY 14850	,pow4nSYu60xDY-jtC_rOgQ,pow4nSYu60xDY-jtC_rOgQ
+71 4th StTroy, NY 12180	,KVAacSMfpR9Me-2bJPQNVw,KVAacSMfpR9Me-2bJPQNVw
+71 4th StTroy, NY 12181	,3nJznAjsHf5Z5rlGAeNxaw,3nJznAjsHf5Z5rlGAeNxaw
+71 Division StTroy, NY 12180	,9e0YfZ3LZPOvsoL8NmqGHA,9e0YfZ3LZPOvsoL8NmqGHA
+71 W 109th StManhattan ValleyManhattan, NY 10025	,7hgygLzjMf3YQE6oL1E3Aw,7hgygLzjMf3YQE6oL1E3Aw
+710 New Loudon RdLatham, NY 12110	,pP8vL3HD_-hW08DlJ6peuw,3uUfb4kLIGC4Vn2ztUxrJw,M0o9CXzYH_k6vgG-0vVkVw,3uUfb4kLIGC4Vn2ztUxrJw,pP8vL3HD_-hW08DlJ6peuw,M0o9CXzYH_k6vgG-0vVkVw
+710 W State StIthaca, NY 14850	,ncM7knCAFXLB52y-fon21w,ncM7knCAFXLB52y-fon21w
+712 W Court StIthaca, NY 14850	,dRfRGXKqZwWNQtQqb5eVlg,dRfRGXKqZwWNQtQqb5eVlg
+719 2nd AveTroy, NY 12182	,eZpvDXvqwmxmiMqbxOPqMw,eZpvDXvqwmxmiMqbxOPqMw
+72 Brown RdIthaca, NY 14850	,o-2RUthWxPQoYefQbQf86w,o-2RUthWxPQoYefQbQf86w
+720 Hoosick RdTroy, NY 12180	,y4VJdUVRidgysxdNtIylTA,y4VJdUVRidgysxdNtIylTA
+720 Hoosick RoadTroy, NY 12180	,KjMloHECqYkQEJslek8v_A,KjMloHECqYkQEJslek8v_A
+720 S Meadow StIthaca, NY 14850	,jTE19UzZQNSXdgyqZNBJGA,jTE19UzZQNSXdgyqZNBJGA
+721 River StTroy, NY 12180	,Zkt0F1YoG2l3o-Ko_UbCbw,Zkt0F1YoG2l3o-Ko_UbCbw
+722 New Loudon RdLatham, NY 12110	,OjczqLl-q-NQ2oyvWUMagw,OjczqLl-q-NQ2oyvWUMagw
+722 S Meadow StIthaca, NY 14850	,7ubwcyVFJ3rBCUubHz9B_g,idS77AY5G-g6q-f0UGNltA,7ubwcyVFJ3rBCUubHz9B_g,idS77AY5G-g6q-f0UGNltA
+723 New Loudon RdLatham, NY 12110	,ylVyaq6lEkOvI1bpP6uP1Q,ylVyaq6lEkOvI1bpP6uP1Q
+726 New Loudon RdLatham, NY 12110	,nZC0ooChichlR8sUdy4DMQ,nZC0ooChichlR8sUdy4DMQ
+727 New Loudon RdLatham, NY 12110	,lpE4ayYybUrRFnXb3OejWg,lpE4ayYybUrRFnXb3OejWg
+728 New Loudon RdLatham, NY 12110	,tsk2EE1wAC6yk2NSxJrgFA,yb1D_YgPLu8RYF5T-_rg5A,yb1D_YgPLu8RYF5T-_rg5A,tsk2EE1wAC6yk2NSxJrgFA
+729 Pawling AveTroy, NY 12180	,Pw1UAZJMK6YoRy-HhAAfjg,Pw1UAZJMK6YoRy-HhAAfjg
+737 Willow AveIthaca, NY 14850	,EJ_Rp2NFUdMi1j652A9J4Q,EJ_Rp2NFUdMi1j652A9J4Q
+738 New Loudon RdLatham, NY 12110	,I2J9rTN_HKO9q-Y2mkSWpg,I2J9rTN_HKO9q-Y2mkSWpg
+740 Hoosick RdTroy, NY 12180	,pWyIj5w6akp02nzpq4pzEw,pWyIj5w6akp02nzpq4pzEw
+740 Hosick StreetTroy, NY 12180	,BtpO21oEn-Yer3kYjGlHHw,BtpO21oEn-Yer3kYjGlHHw
+740 S Meadow StIthaca, NY 14850	,mCRGZYvy84YRtiyOXgUGIQ,mCRGZYvy84YRtiyOXgUGIQ
+740 South Meadow StSte 100Ithaca, NY 14850	,ybewokFnvF5TSnBsVXyUTA,ybewokFnvF5TSnBsVXyUTA
+741 New Loudon RdLatham, NY 12110	,HPfLakkZlRxV4Z3WDeS0RA,HPfLakkZlRxV4Z3WDeS0RA
+742 S Meadow StIthaca, NY 14850	,qIWIti6Putx8E2MZvrmNGQ,qIWIti6Putx8E2MZvrmNGQ,m9JdmbCDsJcrzQ2jEIDKZQ,m9JdmbCDsJcrzQ2jEIDKZQ
+742 S. Meadow St.Ithaca, NY 14850	,Ksyxv3-3IaveyCmLnzXjUA,Ksyxv3-3IaveyCmLnzXjUA
+744 S Meadow StIthaca, NY 14850	,Zgy7PVCreq2AnFnY3bVgUw,Zgy7PVCreq2AnFnY3bVgUw
+745 New Loudon RdLatham, NY 12110	,rlofqPibdzQhAcVdMPu52Q,rlofqPibdzQhAcVdMPu52Q
+748 S Meadow StIthaca, NY 14850	,vWXMwnNy1TUAc4-IuFoE1g,vWXMwnNy1TUAc4-IuFoE1g
+749 New Loudon RdLatham, NY 12110	,PcngXr5t49QK8Lj1Xi3aIw,PcngXr5t49QK8Lj1Xi3aIw
+75 Ferry StTroy, NY 12180	,4QSkg3pl9J7WRNhQZbHcfw,4QSkg3pl9J7WRNhQZbHcfw
+75 Vandenburgh AveTroy, NY 12180	,lz5nqlBp80xVfxc7QJKkfQ,lz5nqlBp80xVfxc7QJKkfQ
+753 New Loudon RdLatham, NY 12110	,0cFEMzHis-XUgjYXIio9Rg,0cFEMzHis-XUgjYXIio9Rg
+757 Burden AveTroy, NY 12180	,2rGqJu82fKvS7hrxegRq9A,2rGqJu82fKvS7hrxegRq9A
+76 N Greenbush RdTroy, NY 12180	,tEu9ccVyFT4mjnuh7Szp8A,tEu9ccVyFT4mjnuh7Szp8A
+769 Pawling AveTroy, NY 12180	,fYzetiAGpfr0zU4CYnyeBQ,fYzetiAGpfr0zU4CYnyeBQ
+77 3rd StTroy, NY 12180	,k0xJyN_1k_dxSKaFNYrZvg,k0xJyN_1k_dxSKaFNYrZvg
+77 4th StTroy, NY 12180	,w1ohofTDIGlkKJgfgvVLsQ,w1ohofTDIGlkKJgfgvVLsQ
+77-81 Congress StTroy, NY 12180	,senJyxjMuCVThGcwYSIU4w,senJyxjMuCVThGcwYSIU4w
+770 Hoosick RdTroy, NY 12180	,mRYUtSCnQ2IaGKIISWPRZg,mRYUtSCnQ2IaGKIISWPRZg
+779 Hoosick RdTroy, NY 12180	,2ud6V3PWpluOMMlbw4BTDA,2ud6V3PWpluOMMlbw4BTDA
+786 Pawling AveTroy, NY 12180	,hccJ4i20bl0v5AgP6x7A7g,hccJ4i20bl0v5AgP6x7A7g
+789 New Loudon RdLatham, NY 12110	,9iwVr4DdeZeRn8EHan7XfA,9iwVr4DdeZeRn8EHan7XfA
+79 Campbell AveTroy, NY 12180	,ZnP2lsICCnZeaNi5Zv4QYQ,ZnP2lsICCnZeaNi5Zv4QYQ
+79 Vandenburgh AveTroy, NY 12180	,wYJk9voIIV3TjZecQasrBw,1ObvhxqAftzKPdDOkpw31Q,OJSk__KkBckKOZkMVVuUig,OJSk__KkBckKOZkMVVuUig,wYJk9voIIV3TjZecQasrBw,WXx3gZnrIysGFnpGMCskwg,1ObvhxqAftzKPdDOkpw31Q,WXx3gZnrIysGFnpGMCskwg
+795 3rd AveWatervliet, NY 12189	,Fa74LEFqNYjIZvT2kVyTlw,Fa74LEFqNYjIZvT2kVyTlw
+80 Vandenburg AveTroy, NY 12180	,YMctRn-xL8yedEXE1gwEZw,YMctRn-xL8yedEXE1gwEZw
+80 Vandenburgh AveTroy, NY 12180	,cNo8L9-fWiy8C34TIbijzg,cNo8L9-fWiy8C34TIbijzg
+800 New Loudon RdSte 35Latham, NY 12110	,o_PfZdnoykPzb4TvZZiX0g,o_PfZdnoykPzb4TvZZiX0g
+801 W Buffalo StIthaca, NY 14850	,QWOwGC24G4KmTGRCSNeLyQ,QWOwGC24G4KmTGRCSNeLyQ
+806 25th StWatervliet, NY 12189	,jznPYUcl1Xd7uS71uXIOCw,jznPYUcl1Xd7uS71uXIOCw
+810 Hoosick RdTroy, NY 12180	,AFhoG5kir5vS1P9NpJ1MHQ,AFhoG5kir5vS1P9NpJ1MHQ
+813 New Loudon RdLatham, NY 12110	,DOI4vjKHLYKz9XMsvp24Bg,DOI4vjKHLYKz9XMsvp24Bg
+814 Hoosick RdTroy, NY 12180	,9PZS-FLHMU0q2d-X8tGffg,9PZS-FLHMU0q2d-X8tGffg
+815 Taber StIthaca, NY 14850	,qm1wK-WHnuJvifufgb2AnQ,qm1wK-WHnuJvifufgb2AnQ
+823 Danby RdIthaca, NY 14850	,MBISWEvAzDb710ZCyvNu2A,MBISWEvAzDb710ZCyvNu2A
+825 Danby RdIthaca, NY 14850	,3QCY93kLbH29Cctus8IyKQ,3QCY93kLbH29Cctus8IyKQ
+827 River StTroy, NY 12180	,-Y3Q670i-Xw0rSzGwirVFw,-Y3Q670i-Xw0rSzGwirVFw
+831 Hoosick RdTroy, NY 12180	,r0udpvGmvrIrRhVyluz3lw,r0udpvGmvrIrRhVyluz3lw
+831 New Loudon RdLatham, NY 12110	,acwj5shqN35q1Yy_6KrT7g,acwj5shqN35q1Yy_6KrT7g
+833 Old Loudon RdLatham, NY 12110	,hYLmZXLQP2xOSaopGVzyKw,hYLmZXLQP2xOSaopGVzyKw
+84 Congress StTroy, NY 12180	,lLjt_HR2QDKBoXsOYDa52g,lLjt_HR2QDKBoXsOYDa52g
+840 Hanshaw Rd Ste 2Ithaca, NY 14850	,dpqv-Gy6RLXXGnNrGZjOYw,dpqv-Gy6RLXXGnNrGZjOYw
+840 Hanshaw RdIthaca, NY 14850	,qGD9SK0nW5BspA50pfJneQ,qGD9SK0nW5BspA50pfJneQ
+847 New Loudon RdLatham, NY 12110	,0VIi1-Sn81b0VMsAr6HFwg,0VIi1-Sn81b0VMsAr6HFwg
+85 4th StTroy, NY 12180	,_21B4W3qjnl8lcxDYJE3kw,_21B4W3qjnl8lcxDYJE3kw
+853 4th AveTroy, NY 12182	,4VdGntX6dKc-xQ_nFlpdVQ,4VdGntX6dKc-xQ_nFlpdVQ
+855 Hoosick RdTroy, NY 12180	,czAJCWuK1nCjjfbPYATg5Q,czAJCWuK1nCjjfbPYATg5Q
+87 Uptown RdSuite J105Ithaca, NY 14850	,QXOFf7qzpRcN0J5Dt2_zIw,QXOFf7qzpRcN0J5Dt2_zIw
+873 New Loudon Rd Ste 1Latham, NY 12110	,XtIiry6wjhNUpaGZj1uQxA,XtIiry6wjhNUpaGZj1uQxA
+873 New Loudon Rd Ste 6Latham, NY 12110	,UHznORqgQnoxEVSITglq5g,UHznORqgQnoxEVSITglq5g
+873 New Loudon RdLatham, NY 12110	,mlXtGO4O8rMJYLShcegCRg,mlXtGO4O8rMJYLShcegCRg
+880 New Loudon RdLatham, NY 12110	,-7cDP00Kwa7zOtP6-B3s0Q,-7cDP00Kwa7zOtP6-B3s0Q
+890 Hoosick RdTroy, NY 12180	,bdNTZyrd0-GT5vZ6uOhXsA,bdNTZyrd0-GT5vZ6uOhXsA
+893 New Loudon RdSte 3Latham, NY 12110	,0pPsnqxBAj7UGjGRL-QJ1A,0pPsnqxBAj7UGjGRL-QJ1A
+895 New Loudon RdLatham, NY 12110	,mWVR2IJMLHkL_eYJLgO0ew,mWVR2IJMLHkL_eYJLgO0ew
+898 2nd AveTroy, NY 12182	,mG1BCARvE0FA6-IszNpZ1Q,mG1BCARvE0FA6-IszNpZ1Q
+899 New Loudon RdAlbany, NY 12205	,tXbma_O3bO8LUfigOh1CdA,tXbma_O3bO8LUfigOh1CdA
+8th St & Middleburgh StTroy, NY 12180	,T-SJruEi0laaHeDaR6IOFg,T-SJruEi0laaHeDaR6IOFg
+9 126th StTroy, NY 12182	,LO0TfAyhOYR8fVuido_9aA,LO0TfAyhOYR8fVuido_9aA
+9 BroadwayTroy, NY 12180	,7GIS7jdPI0WwHYO6S_Grtg,7GIS7jdPI0WwHYO6S_Grtg
+9 Cobbee RdLatham, NY 12110	,4tAj-C-8PAtfOfPHCHwa6g,4tAj-C-8PAtfOfPHCHwa6g
+9 Johnson RdLatham, NY 12110	,iqksS4ninxb8eScSqDp0xg,iqksS4ninxb8eScSqDp0xg
+903 Mitchell StIthaca, NY 14850	,MTGpGdDh8oVpDlVgigJo5Q,MTGpGdDh8oVpDlVgigJo5Q
+91 Broad StWaterford, NY 12188	,E3PC72pmXgBP_GBWq-HvtA,E3PC72pmXgBP_GBWq-HvtA
+92 Saratoga StCohoes, NY 12047	,wtoXdMTcfgpg3sf8KVf5Xw,wtoXdMTcfgpg3sf8KVf5Xw
+920 N Cayuga StIthaca, NY 14850	,hbuuJi-Vsqa5TibYIRolhA,hbuuJi-Vsqa5TibYIRolhA
+929 19th StWatervliet, NY 12189	,VIeqbFdw0gm_hwoL_2NXTg,VIeqbFdw0gm_hwoL_2NXTg
+933 Dryden RdIthaca, NY 14850	,aEeSQaZ1mFinIhgf56rRVA,aEeSQaZ1mFinIhgf56rRVA
+934 Amsterdam AveManhattan ValleyNew York, NY 10025	,S-xUsS4RKzBrOnAjy6lnyA,S-xUsS4RKzBrOnAjy6lnyA
+935 Amsterdam AveManhattan ValleyNew York, NY 10025	,5Vn6sxKkzvZLcEM2yZcjfQ,5Vn6sxKkzvZLcEM2yZcjfQ
+936 Amsterdam AveManhattan ValleyManhattan, NY 10025	,PQrCluMVsWTGvloynpKBog,PQrCluMVsWTGvloynpKBog
+936 W End AveManhattan ValleyNew York, NY 10025	,D32R15kv2iJBXF1DSsGaZA,D32R15kv2iJBXF1DSsGaZA
+938 Amsterdam AveManhattan ValleyNew York, NY 10025	,ALjZDe2lAeN5JZjst6UD_w,Og7V1RKK0juV0QLuJyYcjw,Og7V1RKK0juV0QLuJyYcjw,ALjZDe2lAeN5JZjst6UD_w
+940 Amsterdam AveManhattan ValleyNew York, NY 10025	,cu5oiIleLVa5eXH6X27KMw,cu5oiIleLVa5eXH6X27KMw
+941 Amsterdam AveManhattan ValleyNew York, NY 10025	,HmXS5HN-E-DVMEY0mwjelg,HmXS5HN-E-DVMEY0mwjelg
+942 New Loudon RdLatham, NY 12110	,MzA42lKJ2i2TMS3ILaVw4Q,MzA42lKJ2i2TMS3ILaVw4Q
+943 Amsterdam AveManhattan ValleyNew York, NY 10025	,5F5sbxR4cNQxjZ5QqKOycg,5F5sbxR4cNQxjZ5QqKOycg
+945 Amsterdam AveManhattan ValleyNew York, NY 10025	,x6ZI-_J7X9WK17l77x53-w,x6ZI-_J7X9WK17l77x53-w
+946 Amsterdam AveManhattan ValleyNew York, NY 10025	,-vi_QVn-2NmA8IcaR6xyGw,-vi_QVn-2NmA8IcaR6xyGw
+946 Columbus AveManhattan ValleyNew York, NY 10025	,eVZGBIWAmQxiTwVYA0pjWA,eVZGBIWAmQxiTwVYA0pjWA
+947 Amsterdam AveManhattan ValleyNew York, NY 10025	,tbg4gR3jUUllR28cySo2kg,tbg4gR3jUUllR28cySo2kg
+949 Amsterdam Ave OfcManhattan ValleyNew York, NY 10025	,5QlFPLuuKfVC0wpDofVdyw,5QlFPLuuKfVC0wpDofVdyw
+949 Amsterdam AveManhattan ValleyNew York, NY 10025	,lQENQYvnL7JOpvfMogDA_Q,lQENQYvnL7JOpvfMogDA_Q
+949 Columbus AveManhattan ValleyManhattan, NY 10025	,TWpiHjsd0c9Q9OG9l38SBg,Js21gW1cDai-0ZA8F0qCYQ,TWpiHjsd0c9Q9OG9l38SBg,Js21gW1cDai-0ZA8F0qCYQ
+949 Columbus AveManhattan ValleyNew York, NY 10025	,ZiLCt6uZlGY61roYdfeqWA,ZiLCt6uZlGY61roYdfeqWA
+95 Ferry StTroy, NY 12180	,urOeEHDr51cqdNd4Pca2cA,urOeEHDr51cqdNd4Pca2cA
+950 Columbus AvenueManhattan ValleyNew York, NY 10025	,Say8vUn6wmlb-HMHFsK2Wg,Say8vUn6wmlb-HMHFsK2Wg
+951 Amsterdam AveManhattan ValleyNew York, NY 10025	,DMXkPjaKCMQjNB-_Ll5geQ,DMXkPjaKCMQjNB-_Ll5geQ
+953 Amsterdam AveManhattan ValleyNew York, NY 10025	,Ki2-LougDEv34G5EY1sz4g,Ki2-LougDEv34G5EY1sz4g
+953 Columbus AveManhattan ValleyManhattan, NY 10027	,MQ5-C4GGTEBsEJoHbrtKFg,MQ5-C4GGTEBsEJoHbrtKFg
+953 Columbus AveManhattan ValleyNew York, NY 10025	,dmQPW4RWatZb-CvIp2WLoQ,dmQPW4RWatZb-CvIp2WLoQ,h37hllqEt6v9HGqzdiupow,h37hllqEt6v9HGqzdiupow
+953 Danby RdIthaca, NY 14850	,Q-aST5Z92-l8yq_NkbX7aQ,Q-aST5Z92-l8yq_NkbX7aQ
+954 Amsterdam AveManhattan ValleyManhattan, NY 10025	,AHZXkGmWFU61cZ5cGsv7tw,AHZXkGmWFU61cZ5cGsv7tw
+955 W End AveManhattan ValleyNew York, NY 10025	,PZs_KYTA3oUog4utEYhxqw,PZs_KYTA3oUog4utEYhxqw
+960 Amsterdam AveManhattan ValleyNew York, NY 10025	,p2zm0HnXZkI2yCAuYLb45g,p2zm0HnXZkI2yCAuYLb45g
+961 Amsterdam AveManhattan ValleyNew York, NY 10025	,sumTl7AejHC550OXXOYm0A,sumTl7AejHC550OXXOYm0A
+961 Columbus AveManhattan ValleyNew York, NY 10025	,zY4f6pQpy9CQJHcR8q4Ulg,zY4f6pQpy9CQJHcR8q4Ulg
+963 Columbus AveManhattan ValleyNew York, NY 10025	,1zLK3yDO9Qfkr-CsjF5aRg,1zLK3yDO9Qfkr-CsjF5aRg
+964 Amsterdam AveManhattan ValleyManhattan, NY 10025	,IIsJN_ilLI36zGAF3SMCCQ,IIsJN_ilLI36zGAF3SMCCQ
+964 Amsterdam AveManhattan ValleyNew York, NY 10025	,by-1gi7evrPKSUmeaN1sXw,HkNs9-WeitHnwACu6FJEcA,aZzq3M2xwbNHNSQe2AbAOA,aZzq3M2xwbNHNSQe2AbAOA,by-1gi7evrPKSUmeaN1sXw,HkNs9-WeitHnwACu6FJEcA
+965 Amsterdam AveManhattan ValleyNew York, NY 10025	,XCzjwOmvy_QROtczP8YlCA,XCzjwOmvy_QROtczP8YlCA
+968 Amsterdam AveManhattan ValleyNew York, NY 10025	,YKAwpTnKO-n5vB9-pqaCLQ,YKAwpTnKO-n5vB9-pqaCLQ
+969 Amsterdam AveManhattan ValleyNew York, NY 10025	,nDMnZFjvDqon5qKGMaHfVA,nDMnZFjvDqon5qKGMaHfVA
+969 Columbus AveManhattan ValleyManhattan, NY 10025	,LF4XXXd-Q6KA-DtQj6C59A,LF4XXXd-Q6KA-DtQj6C59A
+97 4th StTroy, NY 12180	,ahZmjfQNe5-wJ6oGZJOaRw,ahZmjfQNe5-wJ6oGZJOaRw
+97 N Greenbush RdTroy, NY 12180	,hdV5ZSDO1otDVMLJoTXrfQ,hdV5ZSDO1otDVMLJoTXrfQ
+970 Amsterdam AveManhattan ValleyNew York, NY 10025	,DxZ_eNb7S4ZWOdfXJkQlGw,DxZ_eNb7S4ZWOdfXJkQlGw
+970 Amsterdam Avebetween 107th & 108thManhattan ValleyManhattan, NY 10025	,gbE5C_xpME2xy1QKmhOaJQ,gbE5C_xpME2xy1QKmhOaJQ
+971 Columbus AveManhattan ValleyNew York, NY 10025	,2aHex8auBqSRyqqg7yyq6Q,2aHex8auBqSRyqqg7yyq6Q
+973 Amsterdam AveManhattan ValleyNew York, NY 10025	,SvuJs-3p4H3FZaoF3K3y3g,SvuJs-3p4H3FZaoF3K3y3g
+973 Columbus AveManhattan ValleyNew York, NY 10025	,WcjveH0MyzqQC8lgKviSFQ,WcjveH0MyzqQC8lgKviSFQ,xGos8tSzLwO3J8mEk3z_2A,xGos8tSzLwO3J8mEk3z_2A
+974 Amsterdam AveManhattan ValleyNew York, NY 10025	,KcYBYtJvlKiRBZmOcdUttg,KcYBYtJvlKiRBZmOcdUttg
+975 Amsterdam AveManhattan ValleyNew York, NY 10027	,02goPV7NW1StFyas5PVSeg,02goPV7NW1StFyas5PVSeg
+975 Columbus AveManhattan ValleyNew York, NY 10025	,eCAOhaI3cKSIQUvDWd6MGQ,eCAOhaI3cKSIQUvDWd6MGQ
+975 Hoosick RdTroy, NY 12180	,0ULhlG3LL6BbDEPMI6HFVA,0ULhlG3LL6BbDEPMI6HFVA
+976 Amsterdam AveManhattan ValleyNew York, NY 10025	,rlkLe_9rwX6njpD3NsiaEQ,rlkLe_9rwX6njpD3NsiaEQ
+981 Columbus AveManhattan ValleyManhattan, NY 10025	,wuukh5OIcA7wNbwZu2jO7w,wuukh5OIcA7wNbwZu2jO7w
+982 Amsterdam AveManhattan ValleyNew York, NY 10025	,xZgynVVIQhaUhKlIaLzsYA,xZgynVVIQhaUhKlIaLzsYA
+982 New Loudon RdLatham, NY 12110	,MBuKwemMclYhLx_rf0Jgxg,MBuKwemMclYhLx_rf0Jgxg
+983 Columbus AveManhattan ValleyNew York, NY 10025	,_vbqpuS7m2tODS_r2S5wDw,_vbqpuS7m2tODS_r2S5wDw
+986 Columbus AveManhattan ValleyManhattan, NY 10025	,5vaT_RvkZIxD0NW_Q9yG3g,5vaT_RvkZIxD0NW_Q9yG3g
+987 Dryden RdIthaca, NY 14850	,7QfMpiTnQIN8pSxfKRMGWQ,7QfMpiTnQIN8pSxfKRMGWQ
+988 Amsterdam Ave109th StManhattan ValleyNew York, NY 10025	,cPW3jc2tP6k7JehVopI89g,cPW3jc2tP6k7JehVopI89g
+99 Congress StTroy, NY 12180	,S4GEsM7PLEZO4EBFwnERCQ,S4GEsM7PLEZO4EBFwnERCQ
+99 N Greenbush RdTroy, NY 12180	,JSVYDfdYVYFXkkn2K1t4oA,JSVYDfdYVYFXkkn2K1t4oA
+990 Amsterdam AveManhattan ValleyNew York, NY 10025	,z2-4-SSHYQI5cOShuZ4emg,HC9E8-yBfMKkJTTvelRLyw,HC9E8-yBfMKkJTTvelRLyw,z2-4-SSHYQI5cOShuZ4emg
+990 Columbus AveManhattan ValleyNew York, NY 10025	,g8vu1G_fZLrPpGf2UHk6-Q,g8vu1G_fZLrPpGf2UHk6-Q
+992 Amsterdam Aveat 109th StManhattan ValleyNew York, NY 10027	,LMy26GNK1lyyz4j-E1A6GQ,LMy26GNK1lyyz4j-E1A6GQ
+993 Amsterdam AveManhattan ValleyNew York, NY 10025	,ztqtQ6XMGvWUF9dTYCMovA,ztqtQ6XMGvWUF9dTYCMovA
+993 Columbus AveManhattan ValleyNew York, NY 10025	,BQcgpQxUM39PMO_YDl_CqA,BQcgpQxUM39PMO_YDl_CqA
+994 Amsterdam AveManhattan ValleyNew York, NY 10025	,Y2I946V78wOdwaUD9chmqg,Y2I946V78wOdwaUD9chmqg
+995 Amsterdam AveManhattan ValleyNew York, NY 10025	,Y_8ZwQYDznZX1-rs_wm6RQ,Y_8ZwQYDznZX1-rs_wm6RQ
+995 Columbus AveManhattan ValleyNew York, NY 10025	,cce_gDHwpVbMEzMfMlxnFQ,cce_gDHwpVbMEzMfMlxnFQ
+997 New Loudon Rd.Latham, NY 12110	,nKiCl9cu5UZ9yBETm_BTiA,nKiCl9cu5UZ9yBETm_BTiA
+997 New Loudon RdCohoes, NY 12047	,OpOZH_lGPGOT_s1eeMqeNA,OpOZH_lGPGOT_s1eeMqeNA
+998 Amsterdam AveManhattan ValleyNew York, NY 10025	,_Dc5E16rCL16j2xsUHw18Q,ykvUXxXXyXELz714vOGMzw,NRO1_u7mOE-ffhXE6ShUHw,NRO1_u7mOE-ffhXE6ShUHw,_Dc5E16rCL16j2xsUHw18Q,ykvUXxXXyXELz714vOGMzw
+999 Columbus AveManhattan ValleyManhattan, NY 10025	,tXWi3SSpYxO8IpC4XS6tTQ,tXWi3SSpYxO8IpC4XS6tTQ
+999 Columbus AveManhattan ValleyNew York, NY 10025	,f4BC0xFGCyzy-cFnAEJdXw,f4BC0xFGCyzy-cFnAEJdXw
+9B Johnson RdRte 9RLatham, NY 12110	,SmLJWc73PcL3gox-LiVAaQ,SmLJWc73PcL3gox-LiVAaQ
+Albany, NY 12198	,Syiv-lUfj0iScV4Aw9yWaA,Syiv-lUfj0iScV4Aw9yWaA
+Albert R. Mann LibraryCornell UniversityIthaca, NY 14853	,9E-HXTHRYatoSmB6OiVrFA,9E-HXTHRYatoSmB6OiVrFA
+Alfred Lerner Hall2920 Broadway, 4th FlMorningside HeightsNew York, NY 10027	,fpLDYV0GdGEgu-CNeGUIIw,fpLDYV0GdGEgu-CNeGUIIw
+Bayberry Square637 New Loudon Rd Rt 9Latham, NY 12110	,7NiTUyoXawiCHxx_UA9z2A,7NiTUyoXawiCHxx_UA9z2A
+Broadway at 115th StMorningside HeightsNew York, NY 10027	,imkMH4_aKRQeMQkKn7zxBA,imkMH4_aKRQeMQkKn7zxBA
+Broadway between 115th & 116thMorningside HeightsNew York, NY 10027	,CJNj7-nfZZX7V1UnHm3atQ,CJNj7-nfZZX7V1UnHm3atQ
+Buttermilk Falls Rd EIthaca, NY 14850	,5n-3uc-Nn21U-MFmVqZ33g,5n-3uc-Nn21U-MFmVqZ33g
+Cascadilla & Fulton StIthaca, NY 14850	,X48_-RjsQMLz8pMVU9JEQA,X48_-RjsQMLz8pMVU9JEQA
+Cayuga Mall2309 N Triphammer RdIthaca, NY 14850	,jDhNPKNJ5N2W2kEvgpBPCg,jDhNPKNJ5N2W2kEvgpBPCg
+Cemetery AveAlbany, NY 12204	,TTMASTY9W47vXaV_U0E_1A,TTMASTY9W47vXaV_U0E_1A
+Cohoes, NY 12047	,usNNgZYg18ucpqhOK9XeJQ,usNNgZYg18ucpqhOK9XeJQ
+Columbia University2960 BroadwayMC 1801Morningside HeightsNew York, NY 10027	,HJI11HpyGvIQ1UCtKohMlg,HJI11HpyGvIQ1UCtKohMlg
+Columbia University2960 BroadwayMorningside HeightsNew York, NY 10184	,AUknRVMwXvP6tgHAZM0JRQ,AUknRVMwXvP6tgHAZM0JRQ
+Columbia University3030 BroadwayMorningside HeightsNew York, NY 10027	,qI2_gqEih2Zz2r9uCpqv5A,qI2_gqEih2Zz2r9uCpqv5A
+Columbia University515 W 114th StMorningside HeightsNew York, NY 10027	,0Kcuy_vyfWlAetDgdmIy3g,0Kcuy_vyfWlAetDgdmIy3g
+Columbia University64 Morningside DrMorningside HeightsNew York, NY 10027	,U1EXpD3qBDhtTuS7mIkD2A,U1EXpD3qBDhtTuS7mIkD2A
+Community Corners Center903 Hanshaw RdIthaca, NY 14850	,U51HmRCmyf62KTj_rVtdcg,U51HmRCmyf62KTj_rVtdcg
+Community Corners200 Pleasant Grove RdIthaca, NY 14850	,Vo7qe3ixVtZNUSTPY7noLw,TWVMknX042q-61wstLYU2w,Vo7qe3ixVtZNUSTPY7noLw,TWVMknX042q-61wstLYU2w
+Community Corners903 Hanshaw RdIthaca, NY 14850	,pqS4WSiAexNzg-KIE-3nxA,pqS4WSiAexNzg-KIE-3nxA
+Cornell CampusWest Bailey PlazaIthaca, NY 14853	,ZxDrqC_OeZMISQ9ZwiA8UQ,ZxDrqC_OeZMISQ9ZwiA8UQ
+Cornell UniversityB07, Day HallIthaca, NY 14853	,QmV1z4Knz8kmSv4vrY_8Yg,QmV1z4Knz8kmSv4vrY_8Yg
+Cornell UniversityCentral Ave & University AveIthaca, NY 14850	,BZbTia52sMs7XbAPN5PObQ,BZbTia52sMs7XbAPN5PObQ
+Cornell UniversityIthaca, NY 14853	,ZR0qOdwUw1QLY7qP-DkdFQ,ZR0qOdwUw1QLY7qP-DkdFQ
+Delaware AveWaterford, NY 12188	,5_HDb91B-4b-bA_5U066vQ,5_HDb91B-4b-bA_5U066vQ
+E Hill PlzIthaca, NY 14850	,uh1SSWqq0-IV_BY78Lpz_Q,UhBMrhjn8yXOD8XMvo2mtw,uh1SSWqq0-IV_BY78Lpz_Q,D6771m_XpLsFwSSWJu3Tbw,UhBMrhjn8yXOD8XMvo2mtw,D6771m_XpLsFwSSWJu3Tbw
+From 106th Street and Broadway in ManhattanTo La Guardia Airport in QueensManhattan ValleyAstoria, NY 11102	,qlwOzf3QBUl3eI6lMzj_gg,qlwOzf3QBUl3eI6lMzj_gg
+Goldwin Smith HallIthaca, NY 14853	,Bu-D_mYJWctqUsqXZAJR6w,Bu-D_mYJWctqUsqXZAJR6w
+HarlemHarlem, NY 10027	,WhvnlLZ6Ri57vJvJckd5Fg,WhvnlLZ6Ri57vJvJckd5Fg
+HarlemManhattan, NY 10026	,SROh3XCvrgEqc7f_JqC-hg,SROh3XCvrgEqc7f_JqC-hg
+HarlemManhattan, NY 10027	,cTPtgGWk27HwLm8bvBt-Ww,cTPtgGWk27HwLm8bvBt-Ww,TLtbQ98B3u1YTCTNEjgjbw,TLtbQ98B3u1YTCTNEjgjbw
+HarlemNew York, NY 10027	,YG1FDQ16wAsedUtHHol4mg,YG1FDQ16wAsedUtHHol4mg
+Hudson Valley PlzTroy, NY 12180	,18PtRv3gFL4fCZ1Xm9P03Q,18PtRv3gFL4fCZ1Xm9P03Q
+In The Ithaca Mall40 Catherwood RdIthaca, NY 14850	,PmgfJ4OakG2c1bKRd0HZUg,PmgfJ4OakG2c1bKRd0HZUg
+Ithaca CommonsIthaca, NY 14850	,4v-NLGt3WuKl3IyOhkHv-Q,4v-NLGt3WuKl3IyOhkHv-Q
+Ithaca Farmer's MarketSteamboat LandingIthaca, NY 14850	,sLNjdofUb8EocOzO1A7N8Q,sLNjdofUb8EocOzO1A7N8Q
+Ithaca PlzIthaca, NY 14850	,Rx2K7Lkhk2SnuKw6pHJNaw,Rx2K7Lkhk2SnuKw6pHJNaw
+Ithaca Shopping PlazaRte 13 SIthaca, NY 14853	,Zv3yiBIGLqdQVaukAOttSg,Zv3yiBIGLqdQVaukAOttSg
+Ithaca, NY 14850	,JGsp7JvzBy6OxI9vIemQUg,uPvM9by48kKU_070aZTioQ,JGsp7JvzBy6OxI9vIemQUg,W_qugmWCqPjAhqgiDO1rPg,uPvM9by48kKU_070aZTioQ,W_qugmWCqPjAhqgiDO1rPg,Ao7lyljfdSzZTIvat0dryA,Ao7lyljfdSzZTIvat0dryA
+Karrot304 W 117th StHarlemNew York, NY 10026	,bRVGmeqyx6VC5BfSGqcmPA,bRVGmeqyx6VC5BfSGqcmPA
+Kennedy HallCornell UniversityIthaca, NY 14853	,-4dfm4rBG5xv8sPSSmE5qA,-4dfm4rBG5xv8sPSSmE5qA
+Kimberly Square Plaza475 Albany Shaker RdLoudonville, NY 12211	,LrLpsCSN9Ls69CFN4ni81g,LrLpsCSN9Ls69CFN4ni81g
+La Tourelle Resort1150 Danby RdIthaca, NY 14850	,lncA9vgtds17wx47oyATQA,lncA9vgtds17wx47oyATQA
+Latham Farms579 Troy-Schenectady Rd.Latham, NY 12110	,39upAlhX03gi1bbYBfZS3g,39upAlhX03gi1bbYBfZS3g
+Latham Farms579 Troy-Schenectady RdLatham, NY 12110	,rOkGJvja1fPesbQM6i1UkA,rOkGJvja1fPesbQM6i1UkA
+Lynah RinkCampus RoadIthaca, NY 14853	,5BAeOZKdi9ZG49UXdYxxzA,5BAeOZKdi9ZG49UXdYxxzA
+Manhattan ValleyManhattan, NY 10025	,-O692rQHIFNJBst2LJRbvA,-O692rQHIFNJBst2LJRbvA
+Myron Taylor HallIthaca, NY 14853	,nWRCSpp0eOZmjP0k6eUNpw,nWRCSpp0eOZmjP0k6eUNpw
+New Loudon Center873 New Loudon RdLatham, NY 12110	,Vbt0HnL8GDoqJLbjGl7D8w,Vbt0HnL8GDoqJLbjGl7D8w
+Newton Plaza594 New Loudon RdLatham, NY 12110	,NBhp5TgshOcfwOYmZv-fQw,NBhp5TgshOcfwOYmZv-fQw
+On The Commons171 E State StIthaca, NY 14850	,PBHj7HxoJvn3sx4mwvGnCQ,PBHj7HxoJvn3sx4mwvGnCQ
+One Fourth StTroy, NY 12180	,jpsucUfLz7gEj9jU8Fv4Dg,jpsucUfLz7gEj9jU8Fv4Dg
+One Plantations RoadIthaca, NY 14850	,MOMN8ilCCy9uQIMGUMzuIw,MOMN8ilCCy9uQIMGUMzuIw
+PO Box 3607HarlemNew York, NY 10027	,YnY1g6N0hZHKMSKNv7kngQ,YnY1g6N0hZHKMSKNv7kngQ
+Queen of Tarts143 Maple AveIthaca, NY 14853	,CLnsQyp0ndsCDFoKgrQs9g,CLnsQyp0ndsCDFoKgrQs9g
+RR 13Ithaca, NY 14850	,4fN2HAvedfwzUcYebYIWlQ,4fN2HAvedfwzUcYebYIWlQ
+Riverfront ParkTroy, NY 12180	,zaXaHSbZU6--c4F2z4uazw,zaXaHSbZU6--c4F2z4uazw
+Stewart Park RdIthaca, NY 14850	,Bee0-WDxfs_zKfVvtJqbDw,Bee0-WDxfs_zKfVvtJqbDw
+Teachers CollegeColumbia University525 W 120 StMorningside HeightsNew York, NY 10027	,GbmPUmt7nwdUpcF19Qeyww,GbmPUmt7nwdUpcF19Qeyww
+The Commons CtrIthaca, NY 14850	,VgDMCsFsaw-VOyLii9Yu3A,VgDMCsFsaw-VOyLii9Yu3A
+Tops Plaza722 S Meadow StIthaca, NY 14850	,hcCzheOtF423xlqTLQM1BQ,hcCzheOtF423xlqTLQM1BQ
+Tower Rd255 Stocking HallIthaca, NY 14853	,k_29K9WijS55n5qlqiNxYQ,k_29K9WijS55n5qlqiNxYQ
+Triphammer Mall2255 N Triphammer RdIthaca, NY 14850	,sIKHUwRdUF7iFHM4hbVKFg,oYMXnGiX9pFVe52isEVdgg,oYMXnGiX9pFVe52isEVdgg,sIKHUwRdUF7iFHM4hbVKFg
+Triphammer Shopping CenterIthaca, NY 14850	,bP_rGkKX65QhiFWEIOR5gQ,bP_rGkKX65QhiFWEIOR5gQ
+Troy Farmers Market49 4th StTroy, NY 12180	,YWEBg4mYZrpQ1vKjcVoVvw,YWEBg4mYZrpQ1vKjcVoVvw
+Troy PlzTroy, NY 12180	,uRsPgIOf6OfTpB9ekMgKcg,uRsPgIOf6OfTpB9ekMgKcg
+Troy, NY 12180	,_r0Smq2oJAU4PYdsczk7XA,_r0Smq2oJAU4PYdsczk7XA
+Troy-Schenectady RoadLatham, NY 12110	,7pv2RLVmB4Tz5MrJhlczxA,7pv2RLVmB4Tz5MrJhlczxA
+Uncle Sam Atrium49 4th StTroy, NY 12181	,7QrOH27ATjpyduMgAYQ51Q,7QrOH27ATjpyduMgAYQ51Q
+Uris Hall1st Fl LobbyIthaca, NY 14853	,Am6PvXZ5H3aUfUdbrtaD0w,Am6PvXZ5H3aUfUdbrtaD0w
+W 115th St and BroadwayMorningside HeightsManhattan, NY 10027	,P2g9XTX11wuEqtlLLqWfig,P2g9XTX11wuEqtlLLqWfig
+W 117th StFrederick Douglass BlvdHarlemNew York, NY 10026	,PE2Ny-4ajVpNnKH-hV5BPQ,PE2Ny-4ajVpNnKH-hV5BPQ
+W 122nd Street & Riverside DrMorningside HeightsNew York, NY 10024	,dfdW_lcOHsTZgtnHScRgoQ,dfdW_lcOHsTZgtnHScRgoQ
+West 120th St15 west 120th stManhattan ValleyManhattan, NY 10027	,T2eloPPk4pdrP9DFa4zpTQ,T2eloPPk4pdrP9DFa4zpTQ
+West 124th StBetween 7th & LenoxHarlemNew York, NY 10027	,l0FD37oR2EsxtW-pRgm68A,l0FD37oR2EsxtW-pRgm68A
+Willard Straight Hall, 2nd floorCornell UniversityIthaca, NY 14853	,UPMjT5GXoaODJYpmqe9Rxw,UPMjT5GXoaODJYpmqe9Rxw

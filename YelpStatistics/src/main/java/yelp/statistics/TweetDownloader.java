@@ -1,4 +1,4 @@
-package twitter.topicextractor;
+package yelp.statistics;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
@@ -16,13 +16,13 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.joda.time.LocalDate;
 
-import twitter.topicextractor.TrendExtractor.IntSumReducer;
-import twitter.topicextractor.TrendExtractor.TokenizerMapper;
 import twitter4j.Query;
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
+import yelp.statistics.TrendExtractor.IntSumReducer;
+import yelp.statistics.TrendExtractor.TokenizerMapper;
 
 /**
  * This class is responsible for downloading tweets from Twitter account. This
@@ -54,8 +54,8 @@ public class TweetDownloader {
 				Job job = Job.getInstance(HadoopDataHelper.getMapReduceConfiguration(), "TweetCount");
 				job.setJarByClass(TrendExtractor.class);
 				job.setMapperClass(TokenizerMapper.class);
-				job.setCombinerClass(IntSumReducer.class);
 				job.setReducerClass(IntSumReducer.class);
+				job.setNumReduceTasks(1);
 				job.setOutputKeyClass(Text.class);
 				job.setOutputValueClass(IntWritable.class);
 				FileInputFormat.addInputPath(job, new Path(args[0]));

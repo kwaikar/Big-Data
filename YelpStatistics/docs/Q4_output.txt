@@ -1,0 +1,10 @@
+#NYSE	60
+#nyse	45
+#trade	33
+#market	33
+#Stock	32
+#money	32
+#Marketing	25
+#stocks	22
+#trading	20
+#SMS	20
