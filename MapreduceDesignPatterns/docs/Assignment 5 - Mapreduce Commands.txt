@@ -1,0 +1,16 @@
+hdfs dfs -rmr /user/kpw150030/A5_O1;hadoop jar MapReduceDesignPatterns.jar mapreduce.patterns.Top10BusinessesAverageRating_Q1   /user/kpw150030/yelpdatafall/business/business.csv /user/kpw150030/yelpdatafall/review/review.csv /user/kpw150030/A5_O1;hdfs dfs -cat /user/kpw150030/A5_O1/part-r-00000
+
+
+hdfs dfs -rmr /user/kpw150030/A5_O2;hadoop jar MapReduceDesignPatterns.jar mapreduce.patterns.AverageUserRating_Q2  /yelpdatafall/user/user.csv /user/kpw150030/yelpdatafall/review/review.csv /user/kpw150030/A5_O2 "Matt J";hdfs dfs -cat /user/kpw150030/A5_O2/part-r-00000
+
+
+
+
+hdfs dfs -rmr /user/kpw150030/A5_O4;hadoop jar MapReduceDesignPatterns.jar mapreduce.patterns.Top10Raters_Q4 /user/kpw150030/yelpdatafall/review/review.csv /user/kpw150030/A5_O4;hdfs dfs -cat /user/kpw150030/A5_O4/part-r-00000
+
+
+
+hdfs dfs -rmr /user/kpw150030/A5_O3;hadoop jar MapReduceDesignPatterns.jar mapreduce.patterns.StanfordRatings_Q3   /user/kpw150030/yelpdatafall/business/business.csv /user/kpw150030/yelpdatafall/review/review.csv /user/kpw150030/A5_O3;hdfs dfs -cat /user/kpw150030/A5_O3/part-r-00000
+
+
+hdfs dfs -rmr /user/kpw150030/A5_O5;hadoop jar MapReduceDesignPatterns.jar mapreduce.patterns.TexasRatingCounts_Q5   /user/kpw150030/yelpdatafall/business/business.csv /user/kpw150030/yelpdatafall/review/review.csv /user/kpw150030/A5_O5;hdfs dfs -cat /user/kpw150030/A5_O5/part-r-00000
