@@ -64,6 +64,7 @@ public class UserIdAndStars implements WritableComparable<UserIdAndStars> {
 		rating.readFields(in);
 	}
   
+	 
 	/*
 	 * (non-Javadoc)
 	 * 
@@ -75,7 +76,6 @@ public class UserIdAndStars implements WritableComparable<UserIdAndStars> {
 	}
 
 	public int compareTo(UserIdAndStars o) {
-		// TODO Auto-generated method stub
 		return this.userId.compareTo(o.userId);
 	}
 

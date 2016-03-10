@@ -10,12 +10,11 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.mapred.FileInputFormat;
-import org.apache.hadoop.mapreduce.lib.input.*;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.MultipleInputs;
+import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
@@ -29,6 +28,7 @@ public class Top10BusinessesAverageRating_Q1 {
 
 	public static class ReviewMap extends Mapper<LongWritable, Text, Text, BusinessAndRating> {
 
+		Text keyMain = new Text();
 		public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 			String delims = "//^";
 			String[] data = StringUtils.split(value.toString(), delims);
@@ -37,19 +37,21 @@ public class Top10BusinessesAverageRating_Q1 {
 				 * This is review data, output the rating
 				 */
 				try {
+					keyMain.set(data[2]);
 					double rating = Double.parseDouble(data[3]);
-					context.write(new Text(data[2]),
-							new BusinessAndRating(new Text(data[2]), new DoubleWritable(rating)));
+					context.write(keyMain,
+							new BusinessAndRating(keyMain, new DoubleWritable(rating)));
 				} catch (NumberFormatException e) {
-					context.write(new Text(data[2]), new BusinessAndRating(new Text(data[2]), new DoubleWritable(0.0)));
+					context.write(keyMain, new BusinessAndRating(new Text(data[2]), new DoubleWritable(0.0)));
 				}
-			} else if (data.length == 3) {
+			} else {
 				/**
 				 * This is business Data, output the address and categories
 				 * information.
 				 */
-				context.write(new Text(data[0]),
-						new BusinessAndRating(new Text(data[0]), new Text(data[1]), new Text(data[2])));
+				keyMain.set(data[0]);
+				context.write(keyMain,
+						new BusinessAndRating(keyMain, new Text(data[1]), new Text(data[2])));
 			}
 		}
 
@@ -61,7 +63,7 @@ public class Top10BusinessesAverageRating_Q1 {
 
 	public static class ReviewReduce extends Reducer<Text, BusinessAndRating, Text, Text> {
 
-		Map<BusinessAndRating, Double> countMap = new HashMap<BusinessAndRating, Double>();
+		Map<String, Double> countMap = new HashMap<String, Double>();
 
 		@Override
 		public void reduce(Text key, Iterable<BusinessAndRating> values, Context context)
@@ -69,17 +71,17 @@ public class Top10BusinessesAverageRating_Q1 {
 
 			int count = 0;
 			double sum = 0.0;
-			BusinessAndRating keyForMap = null;
+			String keyForMap = null;
 			for (BusinessAndRating val : values) {
-				if (val.getRating().get() != -1) {
+				if (val.getRating().get() > -1.0) {
 					sum += val.getRating().get();
 					count++;
 				} else {
-					keyForMap = val;
+					keyForMap = val.getBusinessId()+"\t"+val.getFullAddress()+"\t"+val.getCategories();
 				}
 			}
-			Double avg = ((double) sum / (double) count);
-			if (keyForMap != null) {
+			if (keyForMap != null && count!=0) {
+				Double avg = ((double) sum / (double) count);
 				countMap.put(keyForMap, avg);
 			}
 		}
@@ -87,7 +89,7 @@ public class Top10BusinessesAverageRating_Q1 {
 		@Override
 		protected void cleanup(Context context) throws IOException, InterruptedException {
 
-			for (Map.Entry<BusinessAndRating, Double> entry : HadoopDataHelper.getTopNValues(countMap, 10).entrySet()) {
+			for (Map.Entry<String, Double> entry : HadoopDataHelper.getTopNValues(countMap, 10).entrySet()) {
 				context.write(new Text(entry.getKey().toString()), new Text(entry.getValue().toString()));
 			}
 		}

@@ -19,6 +19,7 @@ import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
+import mapreduce.patterns.TexasRatingCounts_Q5.GenericMap;
 import mapreduce.patterns.common.BusinessAndRating;
 
 /**
@@ -28,11 +29,11 @@ import mapreduce.patterns.common.BusinessAndRating;
 public class AverageUserRating_Q2 {
 
 	public static class GenericMap extends Mapper<LongWritable, Text, Text, DoubleWritable> {
-		
+
 		public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 
 			Configuration config = context.getConfiguration();
-			String userName= config.get("USER_NAME");
+			String userName = config.get("USER_NAME","---");
 			String delims = "//^";
 			String[] data = StringUtils.split(value.toString(), delims);
 			if (data.length == 4) {
@@ -41,21 +42,16 @@ public class AverageUserRating_Q2 {
 				 */
 				try {
 					double rating = Double.parseDouble(data[3]);
-					context.write(new Text(data[1]),
-							  new DoubleWritable(rating));
+					context.write(new Text(data[1]), new DoubleWritable(rating));
 				} catch (NumberFormatException e) {
-					context.write(new Text(data[1]),new DoubleWritable(0.0));
+					context.write(new Text(data[1]), new DoubleWritable(0.0));
 				}
-			} else if (data.length == 3) {
+			} else   {
 				/**
-				 * This is user Data, output the userId
-				 * information.
+				 * This is user Data, output the userId information.
 				 */
-				if(data[2].equals(userName))
-				{
-					context.write(new Text(data[0]),
-							new DoubleWritable(-1.0));
-					
+				if (data[1].equals(userName)) {
+					context.write(new Text(data[0]), new DoubleWritable(-10.0));
 				}
 			}
 		}
@@ -77,19 +73,19 @@ public class AverageUserRating_Q2 {
 			Text keyForMap = null;
 
 			for (DoubleWritable val : values) {
-				if (val  != new DoubleWritable(-1.0)) {
+				if (val.get() > -1.0) {
 					sum += val.get();
 					count++;
 				} else {
 					keyForMap = key;
 				}
 			}
-			Double avg = ((double) sum / (double) count);
 			if (keyForMap != null) {
-				context.write(keyForMap, new Text(avg+""));
+				Double avg = ((double) sum / (double) count);
+				context.write(keyForMap, new Text(avg + ""));
 			}
 		}
- 
+
 	}
 
 	public static void main(String[] args) throws Exception {
@@ -100,7 +96,6 @@ public class AverageUserRating_Q2 {
 			System.err.println("Usage: AverageUserRating_Q2 <in_1> <in_2> <out> <user_name>");
 			System.exit(2);
 		}
-		System.out.println("Please provide 'User name' whose Average needs to be printed:");
 		Job job = Job.getInstance(conf, "Top 10 Ratings");
 		job.getConfiguration().set("USER_NAME", (args[3]));
 		job.setJarByClass(AverageUserRating_Q2.class);
@@ -114,8 +109,8 @@ public class AverageUserRating_Q2 {
 		job.setOutputValueClass(Text.class);
 
 		// set the HDFS path of the input data
-		MultipleInputs.addInputPath(job,new Path(otherArgs[0]), TextInputFormat.class, GenericMap.class);
-		MultipleInputs.addInputPath(job,new Path(otherArgs[1]), TextInputFormat.class,GenericMap.class);
+		MultipleInputs.addInputPath(job, new Path(otherArgs[0]), TextInputFormat.class, GenericMap.class);
+		MultipleInputs.addInputPath(job, new Path(otherArgs[1]), TextInputFormat.class, GenericMap.class);
 		// set the HDFS path for the output
 		FileOutputFormat.setOutputPath(job, new Path(otherArgs[2]));
 

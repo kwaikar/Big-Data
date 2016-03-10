@@ -13,8 +13,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Reducer;
-import org.apache.hadoop.mapreduce.lib.input.MultipleInputs;
-import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
@@ -42,7 +41,7 @@ public class Top10Raters_Q4 {
 
 	public static class ReviewReduce extends Reducer<Text, DoubleWritable, Text, Text> {
 
-		Map<Text, Integer> countMap = new HashMap<Text, Integer> ();
+		Map<String, Integer> countMap = new HashMap<String, Integer> ();
 		@Override
 		public void reduce(Text key, Iterable<DoubleWritable> values, Context context)
 				throws IOException, InterruptedException {
@@ -51,14 +50,14 @@ public class Top10Raters_Q4 {
 			for (DoubleWritable val : values) {
 					count++;
 			}
-			countMap.put(key,count);
+			countMap.put(key.toString(),count);
 		}
 
 		@Override
 		protected void cleanup(Context context) throws IOException, InterruptedException {
 
-			for (Map.Entry<Text, Integer> entry : HadoopDataHelper.getTopNValues(countMap, 10).entrySet()) {
-				context.write(new Text(entry.getKey().toString()), new Text(entry.getValue().toString()));
+			for (Map.Entry<String, Integer> entry :  HadoopDataHelper.getTopNValues(countMap, 10).entrySet()) {
+				context.write(new Text(entry.getKey() ), new Text(entry.getValue().toString()));
 			}
 		}
 
@@ -68,7 +67,7 @@ public class Top10Raters_Q4 {
 		Configuration conf = new Configuration();
 		String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
 
-		if (otherArgs.length != 4) {
+		if (otherArgs.length != 2) {
 			System.err.println("Usage: Top10Raters_Q4 <in_1> <out>  ");
 			System.exit(2);
 		}
@@ -84,10 +83,10 @@ public class Top10Raters_Q4 {
 		job.setOutputValueClass(Text.class);
 
 		// set the HDFS path of the input data
-		MultipleInputs.addInputPath(job, new Path(otherArgs[0]), TextInputFormat.class, GenericMap.class);
-		MultipleInputs.addInputPath(job, new Path(otherArgs[1]), TextInputFormat.class, GenericMap.class);
+		FileInputFormat.addInputPath(job, new Path(otherArgs[0]));
+		
 		// set the HDFS path for the output
-		FileOutputFormat.setOutputPath(job, new Path(otherArgs[2]));
+		FileOutputFormat.setOutputPath(job, new Path(otherArgs[1]));
 
 		// Wait till job completion
 		job.waitForCompletion(true);

@@ -21,28 +21,24 @@ import mapreduce.patterns.common.UserIdAndStars;
 public class StanfordRatings_Q3 {
 
 	public static class GenericMap extends Mapper<LongWritable, Text, Text, UserIdAndStars> {
-		
+
 		public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 
 			String delims = "//^";
 			String[] data = StringUtils.split(value.toString(), delims);
-			if (data.length == 4) {
+			if (data.length>3) {
 				/**
 				 * This is review data, output the rating
 				 */
 				try {
 					double rating = Double.parseDouble(data[3]);
-					context.write(new Text(data[2]),
-							new UserIdAndStars(new Text(data[1]),  new DoubleWritable(rating)));
+					context.write(new Text(data[2]), new UserIdAndStars(new Text(data[1]), new DoubleWritable(rating)));
 				} catch (NumberFormatException e) {
-					context.write(new Text(data[2]),new UserIdAndStars(new Text(data[1]),  new DoubleWritable(0.0)));
+					context.write(new Text(data[2]), new UserIdAndStars(new Text(data[1]), new DoubleWritable(0.0)));
 				}
-			} else if (data.length == 3) {
-				if(data[1].contains("Stanford"))
-				{
-					context.write(new Text(data[0]),
-							new UserIdAndStars(new Text(""),new DoubleWritable(0.0)));
-					
+			} else {
+				if (data[1].contains("Stanford")) {
+					context.write(new Text(data[0]), new UserIdAndStars(new Text(""), new DoubleWritable(-10.0)));
 				}
 			}
 		}
@@ -53,57 +49,54 @@ public class StanfordRatings_Q3 {
 		}
 	}
 
-	public static class ReviewReduce extends Reducer<Text, UserIdAndStars, Text, Text> {
+	public static class ReviewReduce extends Reducer<Text, UserIdAndStars, Text, DoubleWritable> {
 
 		@Override
 		public void reduce(Text key, Iterable<UserIdAndStars> values, Context context)
 				throws IOException, InterruptedException {
 
-			int count = 0;
-			double sum = 0.0;
 			Text keyForMap = null;
 			/**
 			 * Output only those ratings for which UserId was found blank.
 			 */
 			for (UserIdAndStars val : values) {
-				if (!val.getUserId().equals(new Text(""))) {
-					sum += val.getRating().get();
-					count++;
-				} else {
+				if (val.getRating().get() <= -1.0) {
 					keyForMap = key;
+					break;
 				}
 			}
 			if (keyForMap != null) {
-				Double avg = ((double) sum / (double) count);
-				context.write(keyForMap, new Text(avg+""));
+				for (UserIdAndStars val : values) {
+					if(val.getUserId().toString().length()>0)
+					context.write(val.getUserId(), val.getRating());
+				}
 			}
 		}
- 
+
 	}
 
 	public static void main(String[] args) throws Exception {
 		Configuration conf = new Configuration();
 		String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
 
-		if (otherArgs.length != 4) {
-			System.err.println("Usage: StanfordRatings_Q3 <in_1> <in_2> <out> ");
+		if (otherArgs.length != 3) {
+			System.err.println("Usage: StanfordRatings_Q3 <business_file> <review_file> <out> ");
 			System.exit(2);
 		}
-		System.out.println("Please provide 'User name' whose Average needs to be printed:");
-		Job job = Job.getInstance(conf, "Top 10 Ratings");
+		Job job = Job.getInstance(conf, "Stanford ratings");
 		job.setJarByClass(StanfordRatings_Q3.class);
 
 		job.setMapperClass(GenericMap.class);
 		job.setReducerClass(ReviewReduce.class);
 		job.setOutputKeyClass(Text.class);
-		job.setNumReduceTasks(1);
 
 		job.setMapOutputValueClass(UserIdAndStars.class);
-		job.setOutputValueClass(Text.class);
+		job.setOutputKeyClass(Text.class);
+		job.setOutputValueClass(DoubleWritable.class);
 
 		// set the HDFS path of the input data
-		MultipleInputs.addInputPath(job,new Path(otherArgs[0]), TextInputFormat.class, GenericMap.class);
-		MultipleInputs.addInputPath(job,new Path(otherArgs[1]), TextInputFormat.class,GenericMap.class);
+		MultipleInputs.addInputPath(job, new Path(otherArgs[0]), TextInputFormat.class, GenericMap.class);
+		MultipleInputs.addInputPath(job, new Path(otherArgs[1]), TextInputFormat.class, GenericMap.class);
 		// set the HDFS path for the output
 		FileOutputFormat.setOutputPath(job, new Path(otherArgs[2]));
 

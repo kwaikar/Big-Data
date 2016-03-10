@@ -102,7 +102,7 @@ public class BusinessAndRating implements WritableComparable<BusinessAndRating> 
 		this.businessId = businessId;
 		this.fullAddress = fullAddress;
 		this.categories = categories;
-		this.rating = new DoubleWritable(-1);
+		this.rating = new DoubleWritable(-10.0);
 	}
 
 	public void write(DataOutput out) throws IOException {
@@ -119,6 +119,37 @@ public class BusinessAndRating implements WritableComparable<BusinessAndRating> 
 		rating.readFields(in);
 	}
   
+	/* (non-Javadoc)
+	 * @see java.lang.Object#hashCode()
+	 */
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((businessId == null) ? 0 : businessId.hashCode());
+		return result;
+	}
+
+	/* (non-Javadoc)
+	 * @see java.lang.Object#equals(java.lang.Object)
+	 */
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		BusinessAndRating other = (BusinessAndRating) obj;
+		if (businessId == null) {
+			if (other.businessId != null)
+				return false;
+		} else if (!businessId.equals(other.businessId))
+			return false;
+		return true;
+	}
+
 	/*
 	 * (non-Javadoc)
 	 * 

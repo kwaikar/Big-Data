@@ -51,28 +51,24 @@ public class TexasRatingCounts_Q5 {
 
 	public static class ReviewReduce extends Reducer<Text, DoubleWritable, Text, Text> {
 
-		Map<Text, Integer> countMap = new HashMap<Text, Integer>();
-
 		@Override
 		public void reduce(Text key, Iterable<DoubleWritable> values, Context context)
 				throws IOException, InterruptedException {
 
 			int count = 0;
-			double sum = 0.0;
 			Text keyForMap = null;
 			/**
 			 * Output only those ratings for which UserId was found blank.
 			 */
 			for (DoubleWritable val : values) {
-				if (val != new DoubleWritable(-1.0)) {
+				if (val.get() <= new DoubleWritable(-1.0).get()) {
 					count++;
 				} else {
 					keyForMap = key;
 				}
 			}
 			if (keyForMap != null) {
-				Double avg = ((double) sum / (double) count);
-				context.write(keyForMap, new Text(avg + ""));
+				context.write(keyForMap, new Text(count + ""));
 			}
 		}
 
@@ -82,12 +78,11 @@ public class TexasRatingCounts_Q5 {
 		Configuration conf = new Configuration();
 		String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
 
-		if (otherArgs.length != 4) {
-			System.err.println("Usage: TexasRatingCounts_Q5 <in_1> <out>  ");
+		if (otherArgs.length != 3) {
+			System.err.println("Usage: TexasRatingCounts_Q5 <in_1> <in_1> <out>  ");
 			System.exit(2);
 		}
-		System.out.println("Please provide 'User name' whose Average needs to be printed:");
-		Job job = Job.getInstance(conf, "Patterns");
+		Job job = Job.getInstance(conf, "Texas Ratings");
 		job.setJarByClass(TexasRatingCounts_Q5.class);
 
 		job.setMapperClass(GenericMap.class);
