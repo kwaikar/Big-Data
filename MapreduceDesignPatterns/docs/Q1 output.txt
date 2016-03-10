@@ -1,0 +1,10 @@
+sbJEAUxtSjGxXUFHK7SZYg	301 King St EKitchener, ON N2G 2L2	List(Delis, Sandwiches, Restaurants)	5.0
+oQMA9FrrVQn0qjehVH05zw	Claremont, CA 91711	List(Education, Private Tutors)	5.0
+IGrClkdsMYqMl1FYU4dauA	855 El Camino RealSte 40Palo Alto, CA 94301	List(Men's Clothing, Fashion, Shopping)	5.0
+arAOlVph7XutNDtRV7jtTA	555 Glenrock AveWestwoodLos Angeles, CA 90024	List(Breakfast & Brunch, Restaurants)	5.0
+C76xo7j-DTjI2J53xGmNCw	1031 E Green StPasadenaPasadena, CA 91106	List(Used, Vintage & Consignment, Fashion, Shopping)	5.0
+rJHHMEHrnbsX6Y0CSi4Yxg	862 Meinecke AveSte 203San Luis Obispo, CA 93405	List(Dentists, Health and Medical)	5.0
+QHnsVdqOb8py4qDEhynbMg	131 E Green StIthaca, NY 14850	List(Food, Coffee & Tea)	5.0
+X6UEwFq2_khqQPHb129Ing	1419 W Jefferson BlvdSouth Los AngelesLos Angeles, CA 90007	List(Hair Salons, Beauty and Spas)	5.0
+VSKYI-W6ppCxsbh4Oj2_dg	Powelton VillagePhiladelphia, PA 19104	List(Movers, Home Services)	5.0
+AUSMuLQ8xBREb8WpanLz1Q	173 Russell StHadley, MA 01035	List(Active Life)	5.0
