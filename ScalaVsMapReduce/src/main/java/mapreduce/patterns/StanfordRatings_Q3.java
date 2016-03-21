@@ -72,7 +72,6 @@ public class StanfordRatings_Q3 {
 				}
 			}
 		}
-
 	}
 
 	public static void main(String[] args) throws Exception {

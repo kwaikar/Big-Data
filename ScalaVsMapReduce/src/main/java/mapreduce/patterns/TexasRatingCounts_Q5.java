@@ -37,8 +37,7 @@ public class TexasRatingCounts_Q5 {
 				}
 			} else if (data.length == 3) {
 				if (data[1].contains("TX")) {
-					context.write(new Text(data[0]), new DoubleWritable(-1.0));
-
+					context.write(new Text(data[0]), new DoubleWritable(-10.0));
 				}
 			}
 		}
@@ -61,7 +60,7 @@ public class TexasRatingCounts_Q5 {
 			 * Output only those ratings for which UserId was found blank.
 			 */
 			for (DoubleWritable val : values) {
-				if (val.get() <= new DoubleWritable(-1.0).get()) {
+				if (val.get() > new DoubleWritable(-1.0).get()) {
 					count++;
 				} else {
 					keyForMap = key;

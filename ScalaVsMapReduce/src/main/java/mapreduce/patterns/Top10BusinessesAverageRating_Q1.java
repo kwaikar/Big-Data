@@ -90,7 +90,7 @@ public class Top10BusinessesAverageRating_Q1 {
 		protected void cleanup(Context context) throws IOException, InterruptedException {
 
 			for (Map.Entry<String, Double> entry : HadoopDataHelper.getTopNValues(countMap, 10).entrySet()) {
-				context.write(new Text(entry.getKey().toString()), new Text(entry.getValue().toString()));
+				context.write(new Text(entry.getKey().toString()), new Text(entry.getValue().doubleValue()+""));
 			}
 		}
 	}
